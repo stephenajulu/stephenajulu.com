@@ -255,21 +255,12 @@
 </script>
 {{ end }}-->
 
-{{- with $.Params.featureImage -}}
+
 <meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="{{ index . 0 | absURL }}"/>
-{{ else -}}
-{{- with $.Site.Params.featureImage -}}
-<meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="{{ index . 0 | absURL }}"/>
-{{ else -}}
-<meta name="twitter:card" content="summary"/>
-{{- end }}
+<meta name="twitter:image" content="{{ Params.featureImage | absURL }}"/>
 <meta name="twitter:title" content="{{ .Title }}"/>
 <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}"/>
-{{ with .Site.Social.twitter -}}
-<meta name="twitter:site" content="@{{ . }}"/>
-{{ end -}}
+<meta name="twitter:site" content="@stephenajulu"/>
 
 
 </head>
