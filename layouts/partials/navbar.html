@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg fixed-top">
   <div class="container">
     <a href="{{ .Site.BaseURL }}" class="navbar-brand">
-      <img src="{{ .Site.Params.logo | absURL }}" alt="site-logo" width="64">
+      <img src="{{ .Site.Params.logo | absURL }}" alt="site-logo" width="54">
     </a>
     <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#navbarCollapse">
       <span class="navbar-toggler-icon"></span>
@@ -20,11 +20,11 @@
         {{ end }}
                 <li class="nav-item">
           <a href="https://ajulusthoughts.stephenajulu.com"
-            class="nav-link text-dark text-sm-center p-2 {{ if $.IsHome }}scroll{{ end }}">Ajulu's Thoughts</a>
+            class="nav-link text-dark text-sm-center p-2">Blog</a>
         </li>
       </ul>
       <div class="navbar-nav">
-        <a href="{{ "contact" | absURL }}" class="btn btn-primary btn-zoom hire_button">Hire Me</a>
+        <a href="{{ "contact" | absURL }}" class="btn btn-primary btn-zoom hire_button">Hire Me!</a>
       </div>
     </div>
   </div>
