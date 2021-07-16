@@ -1,6 +1,7 @@
 baseURL = "https://stephenajulu7.netlify.app"
 languageCode = "en-us"
 paginate = 6
+enableEmoji = true
 title = "Stephen Ajulu | Frontend Web Developer, Designer & Content Creator"
 # Author
 [author]
