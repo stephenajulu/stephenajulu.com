@@ -44,18 +44,14 @@ name = "Frequently Ask Questions"
 url = "#"
 weight = 2
 [[menu.sitemap]]
-name = "Privacy Policy"
-url = "#"
-weight = 3
-[[menu.sitemap]]
 name = "Latest Articles"
 url = "https://ajulusthoughts.stephenajulu.com"
-weight = 4
+weight = 3
 
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "© Stephen Ajulu 2021"
+copyright = "Stephen Ajulu © 2021"
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "https://formspree.io/f/alunje73@gmail.com"
 logo = "images/site-navigation/logo.png"
