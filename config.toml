@@ -1,0 +1,89 @@
+baseURL = "https://stephenajulu7.netlify.app"
+languageCode = "en-us"
+paginate = 6
+title = "Stephen Ajulu | Frontend Web Developer, Designer & Content Creator"
+# Author
+[author]
+email = "alunje73@gmail.com"
+facebook = "stephenajulu"
+name = "Stephen Ajulu"
+twitter = "@stephenajulu"
+# Main Menu
+[[menu.main]]
+name = "Home"
+url = "#home"
+weight = 1
+[[menu.main]]
+name = "About"
+url = "#about"
+weight = 2
+[[menu.main]]
+name = "Services"
+url = "#service"
+weight = 3
+[[menu.main]]
+name = "Work"
+url = "#portfolio"
+weight = 4
+[[menu.main]]
+name = "Blog"
+url = "#blog"
+weight = 5
+[[menu.main]]
+name = "Contact"
+url = "#contact"
+weight = 6
+
+# Sitemap Menu
+[[menu.sitemap]]
+name = "About me"
+url = "about"
+weight = 1
+[[menu.sitemap]]
+name = "Frequently Ask Questions"
+url = "#"
+weight = 2
+[[menu.sitemap]]
+name = "Privacy Policy"
+url = "#"
+weight = 3
+[[menu.sitemap]]
+name = "Latest Articles"
+url = "https://ajulusthoughts.stephenajulu.com"
+weight = 4
+
+[params]
+blogPageURL = "blog"
+contactLink = "contact"
+copyright = "© Stephen Ajulu 2021"
+footerLogo = "images/contact/widget-logo.png"
+formspreeURL = "https://formspree.io/f/alunje73@gmail.com"
+logo = "images/site-navigation/logo.png"
+featureImage = ["images/featureImage"]
+image = ["images/featureImage"]
+images = ["images/featureImage"]
+description = "Hi there!👋 I'm Stephen Ajulu, a Frontend Web Developer, Designer, Content Creator & Cybersecurity Strategist. Visit my website to learn more!"
+
+[params.address]
+address = "Nairobi, Kenya."
+email = "alunje73@gmail.com"
+openingHours = "Contact me between 8am to 5pm, East Africa Time UTC+3"
+phone = "+254726024210"
+
+# Social icons
+[[params.social]]
+icon = "fa-facebook-official"
+url = "https://www.facebook.com/stephenajulu"
+weight = 1
+[[params.social]]
+icon = "fa-twitter-square"
+url = "https://twitter.com/stephenajulu"
+weight = 2
+[[params.social]]
+icon = "fa-linkedin-square"
+url = "https://www.linkedin.com/in/stephenajulu"
+weight = 3
+[[params.social]]
+icon = "fa-github-square"
+url = "https://www.github.com/stephenajulu"
+weight = 4

@@ -91,15 +91,6 @@
                   data-name="Path 1354" />
               </svg>
             </div>
-            <div class="icon">
-              <img src="{{ "images/contact/time.svg" | absURL }}" alt="time" />
-            </div>
-          </div>
-          <h4>Working Hours</h4>
-          <p>
-            {{ $address.openingHours }}
-          </p>
-        </div>
       </div>
     </div>
   </div>
@@ -176,11 +167,6 @@
 
 
 
-        </div>
-      </div>
-      <div class="col-lg-6">
-        {{ $map := .Site.Params.map }}
-        <div id="map" data-lat={{ $map.latitude }} data-long={{ $map.longitude }} data-pin={{ $map.pinImage | absURL }}>
         </div>
       </div>
     </div>

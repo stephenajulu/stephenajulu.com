@@ -1,0 +1,29 @@
+---
+enable: true
+topTitle: My Skills
+content: >
+  ## Why you should hire me for your next project?
+
+  My goal is help you reach your goals and draw more of the things you want and love to you
+
+image: images/5.jpg
+
+skill:
+  - title: Design Thinking & Empathy Maping
+    percent: 63
+  - title: Negotiation & Problem Solving
+    percent: 65
+  - title: Analytical & Strategical Thinking
+    percent: 80
+  - title: Website Performance & Search Engine Optimization
+    percent: 91
+  - title: Imagination & Creativity
+    percent: 77
+  - title: Attention to Detail Whilst Being Able To Zoom Out
+    percent: 90
+  - title: Content Creation & Management
+    percent: 64
+  - title: Time Keeping & Management
+    percent: 70
+  - title: Educating & Training Others
+    percent: 70
