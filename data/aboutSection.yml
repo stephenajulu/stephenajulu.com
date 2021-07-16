@@ -5,13 +5,11 @@ title: >
   ## About me
 
 content: >
-  ### I design and build ultimate things.
+  #### I design and build ultimate things.
 
   Hi there! My name is Stephen, I’m an I.T freelancer, consultant, writer and creator. I'm currently pursuing my Bachelor’s Degree. I spend most of my days writing articles on my [blog](https://ajulusthoughts.stephenajulu.com), learning online, designing & building things. I'm also a tech, design, engineering, architecture and cybersecuity enthusiast interested in the latest trends.
 button1Name: Hire me
 button2Name: Download CV
-button3Name: Vcard
 button1Target: contact
 button2Target: documents/cv.docx
-button3Target: documents/vcard.vcf
 image: images/4.jpg
