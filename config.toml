@@ -37,13 +37,9 @@ name = "About me"
 url = "about"
 weight = 1
 [[menu.sitemap]]
-name = "Frequently Ask Questions"
-url = "#"
-weight = 2
-[[menu.sitemap]]
 name = "Latest Articles"
 url = "https://ajulusthoughts.stephenajulu.com"
-weight = 3
+weight = 2
 
 [params]
 blogPageURL = "blog"
@@ -52,9 +48,9 @@ copyright = "Stephen Ajulu © 2021"
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "https://formspree.io/f/alunje73@gmail.com"
 logo = "images/site-navigation/logo.png"
-featureImage = ["images/featureImage"]
-image = ["images/featureImage"]
-images = ["images/featureImage"]
+featureImage = "images/featureImage"
+image = "images/featureImage"
+images = "images/featureImage"
 description = "Hi there!👋 I'm Stephen Ajulu, a Frontend Web Developer, Designer, Content Creator & Cybersecurity Strategist. Visit my website to learn more!"
 
 [params.address]
