@@ -8,15 +8,15 @@ title: >
   various fields by provided.
 service:
   - content: >
-      #### UI/UX Design 
+      #### UI/UX/Product Design 
 
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development 
+      #### Web Development & Management
 
     image: images/service/web.svg
   - content: >
-      #### Graphic Design 
+      #### Graphic Design & Branding
 
     image: images/service/creative.svg
   - content: >
@@ -28,6 +28,6 @@ service:
 
     image: images/service/ui-ux.svg
   - content: >
-      #### I.T Consultation
+      #### I.T & General Consultation
 
     image: images/service/web.svg
