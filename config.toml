@@ -40,6 +40,10 @@ weight = 1
 name = "Latest Articles"
 url = "https://ajulusthoughts.stephenajulu.com"
 weight = 2
+[[menu.sitemap]]
+name = "Newsletter"
+url = "https://stephenajulu.substack.com/subscribe"
+weight = 3
 
 [params]
 blogPageURL = "blog"
