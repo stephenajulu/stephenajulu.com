@@ -1,8 +1,8 @@
 baseURL = "https://stephenajulu7.netlify.app"
 languageCode = "en-us"
-paginate = 6
+paginate = 12
 enableEmoji = true
-title = "Stephen Ajulu | Frontend Web Developer, Designer & Content Creator"
+title = "Stephen Ajulu | Web Developer, Designer & Content Creator"
 # Author
 [author]
 email = "alunje73@gmail.com"
@@ -27,9 +27,13 @@ name = "Work"
 url = "#portfolio"
 weight = 4
 [[menu.main]]
-name = "Contact"
-url = "#contact"
+name = "Blog"
+url = "#blog"
 weight = 5
+[[menu.main]]
+name = "Contact"
+url = "/contact"
+weight = 6
 
 # Sitemap Menu
 [[menu.sitemap]]
