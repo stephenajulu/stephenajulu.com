@@ -52,7 +52,7 @@ weight = 3
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "Stephen Ajulu © 2021"
+copyright = "© Stephen Ajulu."
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "https://formspree.io/f/alunje73@gmail.com"
 logo = "images/site-navigation/logo.png"
