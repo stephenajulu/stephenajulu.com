@@ -2,4 +2,5 @@
 enable: true
 topTitle: My Portfolio
 title: >
-  ## Check Out Some of My Recent Works
+  ## Recent Works
+buttonTarget: portfolio
