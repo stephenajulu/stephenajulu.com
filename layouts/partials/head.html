@@ -352,4 +352,8 @@
 <meta itemprop="keywords" content="{{ if .IsPage}}{{ range $index, $tag := .Params.tags }}{{ $tag }},{{ end }}{{ else }}{{ range $plural, $terms := .Site.Taxonomies }}{{ range $term, $val := $terms }}{{ printf "%s," $term }}{{ end }}{{ end }}{{ end }}" />
 {{- end -}}
 
+<!--Snipcart -->
+<link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.2.0/default/snipcart.css" />
+<script async src="https://cdn.snipcart.com/themes/v3.2.0/default/snipcart.js"></script>
+<div id="snipcart" data-config-modal-style="side" data-api-key="NDk0ZmZlNjktMGM5NC00NjEyLTkxNDEtYTY2MDg5ZTA0NzRlNjM3MDAzNTU0MTQxNDkyMjM1" hidden></div>
 </head>
