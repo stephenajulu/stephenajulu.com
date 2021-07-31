@@ -1,12 +1,13 @@
 
-<div class="product blog-page__item">
-  <h2 class="product__name text-dark">{{ .name }}</h2>
-  <img class="product__image blog-page__item-thumb" src="{{ .image }}" alt="">
-  <p class="product__description blog-page__item-content bg-white">{{ .description }}</p>
+<div class="product card" style="width: 18rem;">
+  <img class="product__image card-img-top" src="{{ .image }}" alt="">
+  <div class="card-body">
+  <h2 class="product__name card-title">{{ .name }}</h2>
+  <p class="product__description card-text">{{ .description }}</p>
   <div class="product__button-container">
-    <div class="product__price blog-page__item-content bg-white">${{ .price }}</div>
+    <div class="product__price card-subtitle mb-2 text-muted">${{ .price }}</div>
     <button
-      class="snipcart-add-item buy-button"
+      class="snipcart-add-item buy-button btn btn-primary"
       data-item-id="{{ .id }}"
       data-item-name="{{ .name }}"
       data-item-price="{{ .price }}"
@@ -15,4 +16,5 @@
       Add to cart
     </button>
   </div>
+</div>
 </div>
