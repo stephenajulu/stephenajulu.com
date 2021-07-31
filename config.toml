@@ -27,13 +27,9 @@ name = "Work"
 url = "#portfolio"
 weight = 4
 [[menu.main]]
-name = "Blog"
-url = "#blog"
-weight = 5
-[[menu.main]]
 name = "Contact"
 url = "/contact"
-weight = 6
+weight = 5
 
 # Sitemap Menu
 [[menu.sitemap]]
@@ -59,7 +55,7 @@ logo = "images/site-navigation/logo.png"
 featureImage = "images/featureImage"
 image = "images/featureImage"
 images = "images/featureImage"
-description = "Hi there!👋 I'm Stephen Ajulu, a Frontend Web Developer, Designer, Content Creator & Cybersecurity Strategist. Visit my website to learn more!"
+description = "Hi!👋 I'm Stephen Ajulu, a Frontend Web Developer, Designer, Content Creator & Cybersecurity Specialist. Visit my website to learn more!"
 
 [params.address]
 address = "Nairobi, Kenya."
