@@ -1,0 +1,4 @@
+---
+title: Shop
+layout: shop
+---
