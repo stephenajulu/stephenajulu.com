@@ -8,7 +8,7 @@ title: >
   various fields by provided.
 service:
   - content: >
-      #### I.T & General Consultation
+      #### I.T, Cybersecurity & General Consultation
 
     image: images/service/web.svg
   - content: >
@@ -28,7 +28,7 @@ service:
 
     image: images/service/branding.svg
   - content: >
-      #### Small Business Cybersecurity Strategy
+      #### Web & Search Engine Optimization
 
     image: images/service/ui-ux.svg
 
