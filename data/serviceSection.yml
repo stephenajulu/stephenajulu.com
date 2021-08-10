@@ -10,7 +10,7 @@ service:
 
     image: images/service/web.svg
   - content: >
-      #### Web Development, Design & Management
+      #### Web Development & Management
 
     image: images/service/web.svg
   - content: >
@@ -25,4 +25,18 @@ service:
       #### Web & Search Engine Optimization
 
     image: images/service/ui-ux.svg
+  - content: >
+      #### Social Media Management
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Video/Audio Transcribing
 
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Photo Editing and Manipulation
+
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Affiliate Marketing
+
+    image: images/service/ui-ux.svg
