@@ -1,5 +1,5 @@
 ---
-enable: false
+enable: true
 topTitle: My Skills
 content: >
   ## Why you should hire me for your next project?
@@ -15,11 +15,9 @@ skill:
     percent: 65
   - title: Analytical & Strategical Thinking
     percent: 80
-  - title: Website Performance & Search Engine Optimization
-    percent: 91
   - title: Imagination & Creativity
     percent: 77
-  - title: Attention to Detail Whilst Being Able To Zoom Out
+  - title: Attention to Detail Whilst Seeing The Big Picture
     percent: 90
   - title: Content Creation & Management
     percent: 64
