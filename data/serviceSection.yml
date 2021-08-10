@@ -4,25 +4,19 @@ topTitle: Working Area
 title: >
   ## Creative Services
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
 service:
   - content: >
       #### I.T, Cybersecurity & General Consultation
 
     image: images/service/web.svg
   - content: >
-      #### UI/UX/Product/Web Design 
-
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development & Management
+      #### Web Development, Design & Management
 
     image: images/service/web.svg
   - content: >
       #### Graphic Design & Branding
 
-    image: images/service/creative.svg
+    image: images/service/branding.svg
   - content: >
       #### Content Creation & Management
 
