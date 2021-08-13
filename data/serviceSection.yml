@@ -40,3 +40,7 @@ service:
       #### Affiliate Marketing
 
     image: images/service/ui-ux.svg
+  - content: >
+      #### Review Writing
+
+    image: images/service/ui-ux.svg
