@@ -1,19 +1,23 @@
 ---
-enable: false
+enable: true
 topTitle: Testimonials
 title: >
   ## What People Say About Me?
 
 testimonial:
-  - name: Ryan Cook
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 20, 2020
+  - name: Ryan Waweru
+    comment: He is a perfect example of guys in tech, passionate about learning new stuff. He has even built amazing projects. The guy is  tech smart.
+    time: Jan 20, 2019
     star: 5
-  - name: Justin Trudo
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
+  - name: Justin Omondi
+    comment: He is good! That is all i can say.
     time: Jan 16, 2020
     star: 4
-  - name: Franky Filth
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
+  - name: Mercy Ndolo
+    comment: Give him a project and he will build it and make sure it is according to your specifications. I trust him when it comes to Web Development and Content Creation.
     time: Mar 08, 2020
-    star: 3
+    star: 4
+  - name: Shem Mwabe
+    comment: He brings to the table something none other can. I admire his strategical genius and he is still in his prime. Had him create a business for me. He went above and beyond my expectations 
+    time: August 08, 2021
+    star: 4
