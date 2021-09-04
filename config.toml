@@ -30,6 +30,10 @@ weight = 4
 name = "Contact"
 url = "/contact"
 weight = 5
+[[menu.main]]
+name = "Store"
+url = "/shop"
+weight = 6
 
 # Sitemap Menu
 [[menu.sitemap]]
