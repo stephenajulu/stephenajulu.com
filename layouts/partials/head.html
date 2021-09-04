@@ -35,7 +35,7 @@
     <meta name="monetization" content="$ilp.uphold.com/GLrwmQrfDeU9">
 
 {{ "<!-- Umami Analytics -->" | safeHTML }}
-    <script async defer data-website-id="557c4884-ee08-45ea-ad87-3baa3c52b9df" src="https://umami-analytics-test1.herokuapp.com/umami.js"></script>
+    <script async defer data-website-id="edd9bcba-0f70-4335-a790-f8e907aa65df" src="https://umami-analytics-test1.herokuapp.com/umami.js"></script>
 
 {{ "<!-- Crisp Chat -->" | safeHTML }}
     <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="14c4f9f9-8dd0-451a-b54b-281b40a8122d";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
@@ -49,7 +49,7 @@
 
 {{ "<!-- Meta, SEO and More -->" | safeHTML }}
   <meta name="title" content="{{ .Title }}">
-  <meta name="description" content="Hi there!👋 I'm Stephen Ajulu, a Frontend Web Developer, Designer, Content Creator & Cybersecurity Strategist. Visit my website to learn more!">
+  <meta name="description" content="Hi there!👋 I'm Stephen Ajulu, a Frontend Web Developer, Designer, and Creator. Visit my website to learn more!">
     <meta name="author" content="Stephen Ajulu">
 
     <meta name="mobile-web-app-capable" content="yes">
@@ -116,7 +116,7 @@
    },
    "email":"alunje73@gmail.com",
    "image":"https://stephenajulu.com/images/2.jpg",
-   "jobTitle":"Frontend Web Developer, Designer, Content Creator & Cybersecurity Strategist",
+   "jobTitle":"Frontend Web Developer, Designer & Creator",
    "name":"Stephen Ajulu",
    "alternateName":"Stephen Odero Ajulu Otieno",
    "alumniOf":[
@@ -136,7 +136,7 @@
    "affiliation":[
       {
          "@type":"Organization",
-         "name":"Saoa Group"
+         "name":"Uravity"
       },
        {
          "@type":"Organization",
@@ -147,8 +147,8 @@
          "name":"Ajulu's Thoughts"
       }
    ],
-   "Description":"Technology, Design, Engineering, Architecture, and Cybersecurity Enthusiast. A young man with dreams of changing the world. Hi there!👋 I'm Stephen Ajulu, a Frontend Web Developer, Designer, Content Creator & Cybersecurity Strategist. Visit my website to learn more!",
-   "disambiguatingDescription":"Founder of The Saoa Group, Uravity and The Noesis Magazine",
+   "Description":"Technology, Design, Engineering, Architecture, and Cybersecurity Enthusiast. A young man with dreams of changing the world. Hi there!👋 I'm Stephen Ajulu, a Frontend Web Developer, Designer, and Creator. Visit my website to learn more!",
+   "disambiguatingDescription":"Founder of Uravity and The Noesis Magazine",
    "birthPlace":"Nairobi, Kenya",
    "birthDate":"1995-09-01",
    "height":"5.5 inches",
@@ -185,7 +185,7 @@
     "@type": "WebSite",
     "name": "Stephen Ajulu's Personal Website",
     "url": "https://stephenajulu.com",
-    "description": "Hi there!👋 I'm Stephen Ajulu, a Frontend Web Developer, Designer, Content Creator & Cybersecurity Strategist. Welcome to my website and portfolio",
+    "description": "Hi there!👋 I'm Stephen Ajulu, a Frontend Web Developer, Designer, and Creator. Welcome to my website and portfolio",
     "thumbnailUrl": "https://stephenajulu.com/logo.png"
 }
 </script>
@@ -352,8 +352,4 @@
 <meta itemprop="keywords" content="{{ if .IsPage}}{{ range $index, $tag := .Params.tags }}{{ $tag }},{{ end }}{{ else }}{{ range $plural, $terms := .Site.Taxonomies }}{{ range $term, $val := $terms }}{{ printf "%s," $term }}{{ end }}{{ end }}{{ end }}" />
 {{- end -}}
 
-<!--Snipcart -->
-<link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.2.0/default/snipcart.css" />
-<script async src="https://cdn.snipcart.com/themes/v3.2.0/default/snipcart.js"></script>
-<div id="snipcart" data-config-modal-style="side" data-api-key="NDk0ZmZlNjktMGM5NC00NjEyLTkxNDEtYTY2MDg5ZTA0NzRlNjM3MDAzNTU0MTQxNDkyMjM1" hidden></div>
 </head>
