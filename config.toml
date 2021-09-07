@@ -60,6 +60,7 @@ featureImage = "images/featureImage"
 image = "images/featureImage"
 images = "images/featureImage"
 description = "Hi!👋 I'm Stephen Ajulu, a Web Developer, Designer, Content Creator & Cybersecurity Specialist. Visit my website to hire me & learn more!"
+monetization = "$ilp.uphold.com/GLrwmQrfDeU9"
 
 [params.address]
 address = "Nairobi, Kenya."
