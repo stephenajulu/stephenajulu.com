@@ -30,15 +30,11 @@ weight = 4
 name = "Contact"
 url = "/contact"
 weight = 5
-[[menu.main]]
-name = "Store"
-url = "/shop"
-weight = 6
 
 # Sitemap Menu
 [[menu.sitemap]]
-name = "About me"
-url = "about"
+name = "Store"
+url = "https://stephenajulu.gumroad.com"
 weight = 1
 [[menu.sitemap]]
 name = "Latest Articles"
@@ -59,7 +55,7 @@ logo = "images/site-navigation/logo2.svg"
 featureImage = "images/featureImage"
 image = "images/featureImage"
 images = "images/featureImage"
-description = "Hi!👋 I'm Stephen Ajulu, a Web Developer, Designer, Content Creator & Cybersecurity Specialist. Visit my website to hire me & learn more!"
+description = "Hi!👋 I'm Stephen Ajulu, a Web Developer, Designer(Graphic, Web) & Creator(Content, Products). To hire me & learn more, visit my website!"
 monetization = "$ilp.uphold.com/GLrwmQrfDeU9"
 
 [params.address]
