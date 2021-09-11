@@ -2,7 +2,7 @@ baseURL = "https://stephenajulu.com"
 languageCode = "en-us"
 paginate = 12
 enableEmoji = true
-title = "Stephen Ajulu | Web Developer, Designer(Graphic, Web) & Creator(Content, Products)"
+title = "Stephen Ajulu | Web Developer, Designer & Creator"
 # Author
 [author]
 email = "alunje73@gmail.com"
@@ -55,7 +55,7 @@ logo = "images/site-navigation/logo2.svg"
 featureImage = "images/featureImage"
 image = "images/featureImage"
 images = "images/featureImage"
-description = "Hi!👋 I'm Stephen Ajulu, a Web Developer, Designer(Graphic, Web) & Creator(Content, Products). To hire me & learn more, visit my website!"
+description = "Hi!👋 I'm Stephen Ajulu, a Web Developer, Designer & Creator To hire me & learn more, visit my website!"
 monetization = "$ilp.uphold.com/GLrwmQrfDeU9"
 
 [params.address]
