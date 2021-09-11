@@ -1,5 +1,9 @@
 <nav class="navbar navbar-expand-lg fixed-top">
-  <div class="container" id="blur">
+  <div class="container" style="blur(10px);-webkit-filter: blur(10px);
+        -moz-filter: blur(15px);
+        -o-filter: blur(15px);
+        -ms-filter: blur(15px);
+        z-index: 999;">
     <a href="{{ .Site.BaseURL }}" class="navbar-brand">
       <img src="{{ .Site.Params.logo | absURL }}" alt="site-logo">
     </a>
