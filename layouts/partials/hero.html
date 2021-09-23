@@ -31,12 +31,8 @@
             <span class="top-title pre-line">{{ .topTitle }}</span>
             {{ .content | markdownify }}
           </div>
-          <div style="display:inline;">
             <a type="button" class="btn btn-lg btn-primary btn-zoom"
             href="{{ .buttonURL | absURL }}">{{ .buttonName }}</a>
-            <a type="button" class="btn btn-secondary btn-zoom"
-            href="#about">Learn More</a>
-          </div>
         </div>
       </div>
       <div class="col-lg-6">
