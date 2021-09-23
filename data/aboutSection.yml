@@ -1,13 +1,19 @@
 ---
 enable: true
 topTitle: About
-title: >
-  ## About me
+title: "## About me\n"
+content: 'Hi! My name is Stephen Ajuu, and I’m a Frontend Web Developer, Designer(Graphic,
+  Web), Creator(Content, Products), and an aspiring Novelist. I''m currently pursuing
+  my Bachelor’s Degree. I spend most of my days writing articles on my [blog](https://ajulusthoughts.stephenajulu.com),
+  learning about anything that catches my eye, designing & building things. I''m also
+  a tech, design, engineering, architecture, and cyber security enthusiast interested
+  in the latest trends and providing the best services.
 
-content: >
-  Hi there! My name is Stephen, I’m an I.T freelancer, consultant, writer and creator. I'm currently pursuing my Bachelor’s Degree. I spend most of my days writing articles on my [blog](https://ajulusthoughts.stephenajulu.com), learning online, designing & building things. I'm also a tech, design, engineering, architecture and cybersecuity enthusiast interested in the latest trends.
+'
 button1Name: Hire me
 button2Name: Download CV
 button1Target: contact
 button2Target: documents/cv.docx
 image: images/6.jpg
+subtitle: ''
+title2: ''
