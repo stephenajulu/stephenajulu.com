@@ -6,14 +6,17 @@ fields:
   name: enable
   label: enable
 - type: text
+  name: topTitle
+  label: topTitle
+- type: text
   name: title
   label: title
 - type: text
-  name: subtitle
-  label: subtitle
-- type: text
   name: title2
   label: title2
+- type: text
+  name: subtitle
+  label: subtitle
 - type: textarea
   name: content
   label: content
