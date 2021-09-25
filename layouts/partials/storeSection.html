@@ -1,3 +1,24 @@
+<style>
+ .column {
+  float: left;
+  width: 33.33%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+/* Responsive layout - when the screen is less than 600px wide, make the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+
+
 <section class="section store">
 <div class="testimonial__background_shape">
         <svg viewBox="0 0 1920 79">
@@ -27,8 +48,9 @@
   </div>
     </section>
 
-
-<div class="card text-center " style="background-color:#ffffff;">
+<div class="row">
+  <div class="column">
+        <div class="card text-center " style="background-color:#ffffff;">
   <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
     <img src="https://mdbcdn.b-cdn.net/img/new/standard/nature/111.jpg" class="img-fluid" />
     <a href="#!">
@@ -47,3 +69,11 @@
   </div>
   <div class="card-footer">2 days ago</div>
 </div>
+
+        </div>
+  <div class="column"></div>
+  <div class="column"></div>
+</div>
+
+
+
