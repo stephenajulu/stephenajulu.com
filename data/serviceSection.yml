@@ -25,7 +25,3 @@ service:
       #### Web Performance & Search Engine Optimization
 
     image: images/service/ui-ux.svg
-  - content: >
-      #### Social Media & Website Management
-      
-    image: images/service/ui-ux.svg
