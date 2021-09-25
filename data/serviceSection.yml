@@ -2,13 +2,9 @@
 enable: true
 topTitle: Working Area
 title: >
-  ## Creative Services
+  ## Creative Freelance Services
 
 service:
-  - content: >
-      #### I.T, Cybersecurity & General Consultation
-
-    image: images/service/web.svg
   - content: >
       #### Web Development & Management
 
@@ -18,29 +14,18 @@ service:
 
     image: images/service/branding.svg
   - content: >
+      #### UI/UX Web Design
+
+    image: images/service/ui-ux.svg
+  - content: >
       #### Content Creation & Management
 
     image: images/service/branding.svg
   - content: >
-      #### Web & Search Engine Optimization
+      #### Web Performance & Search Engine Optimization
 
     image: images/service/ui-ux.svg
   - content: >
-      #### Social Media Management
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Video/Audio Transcribing
-
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Photo Editing and Manipulation
-
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Affiliate Marketing
-
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Review Writing
-
+      #### Social Media & Website Management
+      
     image: images/service/ui-ux.svg
