@@ -8,7 +8,7 @@ service:
   - content: >
       #### Web Development & Management
 
-    image: images/service/web.svg
+    image: images/service/webundraw.svg
   - content: >
       #### Graphic Design & Branding
 
