@@ -12,16 +12,20 @@ service:
   - content: >
       #### Graphic Design & Branding
 
-    image: images/service/branding.svg
+    image: images/service/graphicbrandingundraw.svg
   - content: >
       #### UI/UX Web Design
 
-    image: images/service/ui-ux.svg
+    image: images/service/designundraw.svg
   - content: >
       #### Content Creation & Management
 
-    image: images/service/branding.svg
+    image: images/service/contentundraw.svg
   - content: >
       #### Web Performance & Search Engine Optimization
 
-    image: images/service/ui-ux.svg
+    image: images/service/seoundraw.svg
+  - content: >
+      #### I.T & General Consultation
+
+    image: images/service/consultationundraw.svg
