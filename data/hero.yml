@@ -1,12 +1,11 @@
 ---
 enable: true
 topTitle: Hi! I'm Stephen Ajulu
-content: >
-  ### I help companies, businesses and individuals get more of the things they want
-
-  Want more sales, traffic, security, signups & conversions, expert advice, compliments, customers or solutions? Then ↴
+content: |
+  ## Frontend Web Developer, Designer & Creator
+  I create products, provide services and supply computers/softwares.
 buttonName: Hire me!
 buttonURL: contact
 image: images/rsz_2.png
-#videoThumb: images/hero/popup-thumb.png
-#videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+videoThumb: ''
+videoURL: ''

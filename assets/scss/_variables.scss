@@ -4,7 +4,7 @@
 
 // General
 $primary: #6320D6; // #5D78FF;#6C63FF
-$secondary: #282f49;
+$secondary: #39088F; // #282f49
 // Text
 $headings-color: #282f49;
 $body-color: #7e7e8a;
@@ -14,9 +14,9 @@ $body-color: #7e7e8a;
 //
 
 // Fonts
-@import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900|Yeseva+One&display=swap");
-$font-family-base: "Poppins", sans-serif;
-$headings-font-family: "Yeseva One", cursive;
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Poppins:wght@400;500;600;700;800;900&display=swap'); // Default: @import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900|Yeseva+One&display=swap");
+$font-family-base: 'Poppins', sans-serif;
+$headings-font-family: 'DM Serif Display', serif; //Default: $headings-font-family: "Yeseva One", cursive;
 
 // Size
 $font-size-base: 1.125rem; // 18px
@@ -29,6 +29,7 @@ $h6-font-size: 16px;
 
 // Spacing
 $headings-margin-bottom: 1.5rem;
+$headings-font-weight: 500;
 $line-height-base: 1.75;
 
 // Misc
