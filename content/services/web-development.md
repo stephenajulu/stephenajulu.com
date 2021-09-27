@@ -26,3 +26,10 @@ Here are some of the microservices I offer in case you already have a website:
 * CDN & DNS Integration
 
 To request any of these services or a complete web development package kindly Email me at [alunje73@gmail.com]() with a message detailing the issue and what you would like me to do for you or [contact me](/contact). If not sure then [Book a Consultation](https://calendly.com/stephenajulu).
+
+<hr>
+<h5>Photo Attribution</h5>
+Photo by <a href="https://unsplash.com/@danielkorpai?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Daniel Korpai</a> on <a href="https://unsplash.com/s/photos/web-development?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+<br>
+Photo by <a href="https://unsplash.com/@leecampbell?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Lee  Campbell</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
