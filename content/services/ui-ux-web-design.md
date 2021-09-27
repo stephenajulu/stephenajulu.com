@@ -1,35 +1,31 @@
 +++
 date = 2021-09-27T10:00:00Z
-draft = true
-featureImage = "/images/daniel-korpai-pKRNxEguRgM-unsplash.jpg"
-postImage = "/images/lee-campbell-DtDlVpy-vvQ-unsplash.jpg"
+featureImage = "/images/eftakher-alam-i1vqzsu86ok-unsplash.jpg"
+postImage = "/images/balazs-ketyi-_x335izxxfc-unsplash.jpg"
 title = "UI/UX Web Design"
 
 +++
-I build amazing-looking and responsive websites, dashboards, and platforms that are fast and efficient and evolve your users’ experience.
+I create an elegant user experience for applications that achieve business goals and make users happy.
 
-I provide the full cycle of services to create and launch your website from scratch, configure items or redesign a live website along with the modern technologies and requirements.
+I create an app user flow that shows the user journey and a design concept to establish a unique style.
 
 Here are some of the microservices I offer in case you already have a website:
 
-* Setup Website Analytics
-* Setup Google ADs
-* Setup A Commenting System
-* Setup Share Buttons
-* Turn Website into a PWA
-* Chatbot & Live Chat Integration
-* Forestry & Netlify CMS Integration(Static Site Generators Only)
-* Instagram Landing Page Development(Similar to Linktree)
-* Performance Report and Optimization
-* Security Risk Report and Mitigation
-* Other Integrations & Setups(Custom, CTA, Forms, and more)
-* Search Engine Optimization
-* CDN & DNS Integration
+* Redesign
+* Wireframing
+* Prototyping
 
-To request any of these services or a complete web development package kindly Email me at [alunje73@gmail.com](mailto:alunje73@gmail.com) with a message detailing the issue and what you would like me to do for you or [contact me](/contact). If not sure then [Book a Consultation](https://calendly.com/stephenajulu).
+Design Tools I Use
+
+* Figma
+* Adobe XD
+* Webflow
+* Adobe Photoshop/Illustrator
+
+To request any of these services or a complete web design package kindly Email me at [alunje73@gmail.com](mailto:alunje73@gmail.com) with a message detailing the issue and what you would like me to do for you or [contact me](/contact). If not sure then [Book a Consultation](https://calendly.com/stephenajulu).
 
 <hr>
 <h5>Photo Attribution</h5>
-Photo by <a href="https://unsplash.com/@danielkorpai?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Daniel Korpai</a> on <a href="https://unsplash.com/s/photos/web-development?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by [Eftakher Alam](https://unsplash.com/@easiblu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/web-design?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 <br>
-Photo by <a href="https://unsplash.com/@leecampbell?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Lee  Campbell</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by [Balázs Kétyi](https://unsplash.com/@balazsketyi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
