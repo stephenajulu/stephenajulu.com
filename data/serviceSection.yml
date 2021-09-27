@@ -10,24 +10,30 @@ service:
       
       I create amazing-looking and responsive websites that evolve your users’ experience.
     image: images/service/webundraw.svg
+    link: services/web-development/
   - content: >
       #### Graphic Design & Branding
 
     image: images/service/graphicbrandingundraw.svg
+    link: #
   - content: >
       #### UI/UX Web Design
       
       Smart UX and UI design allow the creation of unique and good-looking apps that are a pleasure to use.
     image: images/service/designundraw.svg
+    link: services/ui-ux-web-design/
   - content: >
       #### Content Creation & Management
 
     image: images/service/contentundraw.svg
+    link: #
   - content: >
       #### Web Performance & Search Engine Optimization
 
     image: images/service/seoundraw.svg
+    link: #
   - content: >
       #### I.T & General Consultation
 
     image: images/service/consultationundraw.svg
+    link: #
