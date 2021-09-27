@@ -40,6 +40,11 @@ sections:
   label: Blog
   create: all
   match: "**/*"
+- type: directory
+  path: content/services
+  label: Services
+  create: all
+  match: "**/*"
 - type: document
   path: config.toml
   label: Config File
