@@ -1,7 +1,7 @@
 +++
 date = 2021-09-27T10:00:00Z
-featureImage = "/images/undraw_web_developer_re_h7ie.png"
-postImage = "/images/undraw_web_developer_re_h7ie.png"
+featureImage = "/images/daniel-korpai-pKRNxEguRgM-unsplash.jpg"
+postImage = "/images/lee-campbell-DtDlVpy-vvQ-unsplash.jpg"
 title = "Web Development"
 
 +++
