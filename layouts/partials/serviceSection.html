@@ -55,7 +55,7 @@
                             </div>
                         </div>
                         <div class="mt-5">
-                            <a class="text-dark" href="{{ .link | absURL }}">{{ .content | markdownify }}</a>
+                            {{ .content | markdownify }}
                             <br>
                             <a class="see-more-btn" href="{{ .link | absURL }}">Learn More</a>
                         </div>
