@@ -7,6 +7,7 @@ title: >
 service:
   - content: >
       #### Web Development & Management
+      
       I create amazing-looking and responsive websites that evolve your users’ experience.
     image: images/service/webundraw.svg
   - content: >
@@ -15,6 +16,7 @@ service:
     image: images/service/graphicbrandingundraw.svg
   - content: >
       #### UI/UX Web Design
+      
       Smart UX and UI design allow the creation of unique and good-looking apps that are a pleasure to use.
     image: images/service/designundraw.svg
   - content: >
