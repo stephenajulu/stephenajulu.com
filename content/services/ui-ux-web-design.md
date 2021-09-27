@@ -1,7 +1,7 @@
 +++
 date = 2021-09-27T10:00:00Z
-featureImage = "/images/eftakher-alam-i1vqzsu86ok-unsplash.jpg"
-postImage = "/images/balazs-ketyi-_x335izxxfc-unsplash.jpg"
+featureImage = "/images/balazs-ketyi-_x335izxxfc-unsplash.jpg"
+postImage = "/images/eftakher-alam-i1vqzsu86ok-unsplash.jpg"
 title = "UI/UX Web Design"
 
 +++
