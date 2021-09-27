@@ -47,6 +47,7 @@ weight = 3
 
 [params]
 blogPageURL = "blog"
+servicesPageURL = "services"
 contactLink = "contact"
 copyright = "© Stephen Ajulu."
 footerLogo = "images/contact/widget-logo.png"
