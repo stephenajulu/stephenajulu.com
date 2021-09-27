@@ -1,4 +1,3 @@
 ---
 title: Store
-layout: store
 ---
