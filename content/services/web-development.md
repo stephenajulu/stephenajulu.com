@@ -25,7 +25,7 @@ Here are some of the microservices I offer in case you already have a website:
 * Search Engine Optimization
 * CDN & DNS Integration
 
-To request any of these services or a complete web development package kindly Email me at [alunje73@gmail.com]() with a message detailing the issue and what you would like me to do for you or [contact me](/contact). If not sure then [Book a Consultation](https://calendly.com/stephenajulu).
+To request any of these services or a complete web development package kindly Email me at [alunje73@gmail.com](mailto:alunje73@gmail.com) with a message detailing the issue and what you would like me to do for you or [contact me](/contact). If not sure then [Book a Consultation](https://calendly.com/stephenajulu).
 
 <hr>
 <h5>Photo Attribution</h5>
