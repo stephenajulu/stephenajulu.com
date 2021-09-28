@@ -9,8 +9,8 @@ fields:
   name: date
   label: date
 - type: text
-  name: link
-  label: link
+  name: productlink
+  label: productlink
 - type: file
   name: featureImage
   label: featureImage
