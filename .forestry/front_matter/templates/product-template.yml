@@ -1,0 +1,19 @@
+---
+label: Product Template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: link
+  label: link
+- type: file
+  name: featureImage
+  label: featureImage
+- type: file
+  name: postImage
+  label: postImage
