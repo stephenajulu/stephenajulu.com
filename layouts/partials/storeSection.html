@@ -20,7 +20,7 @@
 		</div>
 
 		<div class="row">
-			{{ range first 3 (where $.Site.GetPage "section" "store") }}
+			{{ range first 3 (where $.Site.RegularPages "Type" "!=" "portfolio") }}
 			<div class="col-lg-4">
 				<div class="blog-preview__item">
 					<div class="blog-preview__item-thumb">
