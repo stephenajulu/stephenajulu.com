@@ -206,57 +206,9 @@
 </script>
 {{ end }}
 
-<!--{{ if eq .Section "blog" }}
-<script type="application/ld+json">
-  {
-    "@context":"http://schema.org",
-    "@type": "BlogPosting", 
-    "image": "{{ .Params.featureImage | absURL }}", 
-    "url": "{{ .Permalink }}",
-    "headline": "{{ .Title }}",
-    "dateCreated": "{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}",
-    "datePublished": "{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" | safeHTML }}",
-    "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}",
-    "inLanguage": "{{ .Site.LanguageCode }}",
-    "isFamilyFriendly": "true",
-    "copyrightYear": "{{ .PublishDate.Format "2006" | safeHTML }}",
-    "copyrightHolder": "Stephen Ajulu",
-    "contentLocation": {
-      "@type": "Place",
-      "name": "Nairobi, Kenya"
-    },
-    "accountablePerson": {
-      "@type": "Person",
-      "name": "Stephen Ajulu",
-      "url": "https://stephenajulu.com"
-    },
-    "author": {
-      "@type": "Person",
-      "name": "Stephen Ajulu",
-      "url": "https://stephenajulu.com"
-    },
-    "creator": {
-      "@type": "Person",
-      "name": "Stephen Ajulu",
-      "url": "https://stephenajulu.com"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "Stephen Ajulu",
-      "url": "https://stephenajulu.com",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://stephenajulu.com/logo.png"
-      }
-    },
-    "mainEntityOfPage": "True",
-    "articleBody": "{{ .Content | safeJS | htmlUnescape | plainify }}"
-  }
-</script>
-{{ end }}-->
 
-
-<meta property="og:title" content="{{ .Title }}" />
+<!--
+  <meta property="og:title" content="{{ .Title }}" />
 <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
@@ -346,7 +298,7 @@
 {{- else -}}
 {{- with $.Site.Params.images -}}<meta itemprop="image" content="{{ index . 0 | absURL }}"/>{{ end -}}
 {{- end -}}
-{{- end -}}
+{{- end -}}-->
 
 <!-- Output all taxonomies as schema.org keywords -->
 <meta itemprop="keywords" content="{{ if .IsPage}}{{ range $index, $tag := .Params.tags }}{{ $tag }},{{ end }}{{ else }}{{ range $plural, $terms := .Site.Taxonomies }}{{ range $term, $val := $terms }}{{ printf "%s," $term }}{{ end }}{{ end }}{{ end }}" />
