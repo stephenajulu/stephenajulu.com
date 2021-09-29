@@ -1,79 +1,49 @@
-<style>
- .column {
-  float: left;
-  width: 33.33%;
-}
+{{ with .Site.Data.storeSection }}
+{{ if .enable }}
+<section class="section blog-preview" id="blog">
+	<div class="blog-preview__shape">
+		<img src="images/blog/blog-shape.svg" alt="blog shape" />
+	</div>
+	<div class="container">
+		<div class="row mb-5">
+			<div class="col-lg-6">
+				<div class="blog-preview__header">
+					<span class="top-title pre-line">{{ .topTitle }}</span>
+					{{ .title | markdownify }}
+				</div>
+			</div>
+			<div class="col-lg-6">
+				<div class="blog-preview__header_button desktop">
+					<a class="btn btn-outline-secondary  btn-zoom m-3" href="{{ .buttonTarget | absURL }}">See all products</a>
+				</div>
+			</div>
+		</div>
 
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-/* Responsive layout - when the screen is less than 600px wide, make the three columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
-}
-</style>
+		<div class="row">
+			{{ range first 3 (where $.Site.RegularPages "Type" "!=" "store") }}
+			<div class="col-lg-4">
+				<div class="blog-preview__item">
+					<div class="blog-preview__item-thumb">
+						<img src="{{ .Params.featureImage | absURL }}" alt="post-image">
+					</div>
+					<div class="blog-preview__item-content bg-white">
+						<h5 class="mb-0">
+							<a class="text-dark" href="{{ .Permalink }}">{{ .Title }}</a>
+						</h5>
+      <span><a href="{{ .Params.productlink }}">Buy Now!</a></span>
+					</div>
+				</div>
+			</div>
+			{{ end }}
 
-
-<section class="section store">
-<div class="testimonial__background_shape">
-        <svg viewBox="0 0 1920 79">
-            <path d="M0 0h1920v79L0 0z" data-name="Path 1450" />
-        </svg>
-    </div>
-    <div class="container">
-        <div class="row text-center">
-            <div class="col-lg-6 offset-lg-3">
-                <div class="testimonial__header">
-                    <span class="top-title">Store</span>
-                  <h2>My Products</h2>
-                </div>
-            </div>
-        </div>
-      <br>
-  
-<div align="center">
-  <script src="https://gumroad.com/js/gumroad.js"></script>
-<a href="https://gumroad.com/l/EEnXP" class="gumroad-button btn-zoom">Buy Gradient Wallpaper(8K) 3.0 Pack</a>
-
-<a href="https://gumroad.com/l/OFKKu" class="gumroad-button btn-zoom">Buy Gradient Wallpaper(LQ) 2.0 Pack</a>
-
-<a class="gumroad-button btn-zoom" href="https://gumroad.com/l/nIgIr">Buy Gradient Wallpaper(LQ) 1.0 Pack</a>
- 
-            </div>
-  </div>
-    </section>
-
-<!--<div class="row">
-  <div class="column">
-        <div class="card text-center " style="background-color:#ffffff;">
-  <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-    <img src="https://mdbcdn.b-cdn.net/img/new/standard/nature/111.jpg" class="img-fluid" />
-    <a href="#!">
-      <div class="mask" style="background-color: rgba(251, 251, 251, 0.15)"></div>
-    </a>
-  </div>
-
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">
-      Some quick example text to build on the card title and make up the bulk of the
-      card's content.
-    </p>
-
-    <button type="button" class="btn btn-primary">Button</button>
-  </div>
-  <div class="card-footer">2 days ago</div>
-</div>
-
-        </div>
-  <div class="column"></div>
-  <div class="column"></div>
-</div>-->
-
-
-
+		</div>
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="blog-preview__header_button mobile">
+					<a class="btn btn-outline-secondary btn-zoom" href="{{ .buttonTarget | absURL }}">See all products</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+{{ end }} {{ end }}
