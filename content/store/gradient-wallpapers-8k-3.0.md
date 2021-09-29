@@ -6,6 +6,7 @@ productlink = "https://stephenajulu.gumroad.com/l/EEnXP"
 title = "Gradient Wallpapers(8K) 3.0"
 
 +++
+
 35 Gradient Wallpapers at 8K resolution that look amazing on a TV, Laptop, Desktop, or Mobile Phone.
 
 For mobile phones, kindly rotate the image.
