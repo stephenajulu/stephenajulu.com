@@ -47,11 +47,11 @@
 					</div>
 					<div class="blog-page__item-content bg-white">
 						<h5 class="mb-0">
-							<a class="text-dark gumroad-button" href="{{ .Permalink }}">{{ .Title }}</a>
+							<a class="text-dark" href="{{ .Permalink }}">{{ .Title }}</a>
 						</h5>
-						<span class="small">{{ .Params.productprice }}</span>
+						<span>{{ .Params.productprice }}</span>
 						<br>
-						<span><a href="{{ .Params.productlink }}" target="_blank">Buy Now!</a></span>
+						<a href="{{ .Params.productlink }}" class="btn btn-primary btn-zoom" target="_blank">Buy Now!</a>
 					</div>
 				</div>
 			</div>
