@@ -2,8 +2,9 @@
 date = 2021-09-29T09:00:00Z
 featureImage = "/images/default.png"
 postImage = "/images/cover-1.png"
-productlink = "https://stephenajulu.gumroad.com/l/IxIlr"
+productlink = "https://gum.co/IxIlr"
 title = "Wealth Forest Brand & Logos"
+productprice = "$1+"
 
 +++
 Wealth Forest is a personal finance blog that seeks to help individuals manage their money and grow financially independent. They believe in F.I.R.E and focus on Stocks/Shares, REITs, ETFs, Cryptocurrencies, Real Estate, and various other investment choices. They are dedicated to delivering quality content.
