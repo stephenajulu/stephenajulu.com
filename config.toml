@@ -27,13 +27,14 @@ name = "Work"
 url = "#portfolio"
 weight = 4
 [[menu.main]]
-name = "Contact"
-url = "/contact"
-weight = 5
-[[menu.main]]
 name = "Shop"
 url = "/store"
+weight = 5
+[[menu.main]]
+name = "Contact"
+url = "/contact"
 weight = 6
+
 
 # Sitemap Menu
 [[menu.sitemap]]
