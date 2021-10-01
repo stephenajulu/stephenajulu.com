@@ -3,7 +3,7 @@ date = 2021-09-29T09:00:00Z
 featureImage = "/images/default.png"
 postImage = "/images/cover-1.png"
 productlink = "https://gum.co/IxIlr"
-title = "Wealth Forest Brand & Logos"
+title = "Wealth Forest Brand Logos"
 productprice = "$1+"
 
 +++
