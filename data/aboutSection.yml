@@ -3,10 +3,8 @@ enable: true
 topTitle: About
 title: "## About me"
 content: Hi! I'm Stephen, a Frontend Web Developer, Designer and Creator. I'm currently freelancing but I am open for work. I spend
-  most of my days writing articles on my [blog](https://ajulusthoughts.stephenajulu.com),
-  learning new things, creating [products](https://stephenajulu.com/store), designing
-  & building things. I'm interested in the latest tech trends and providing
-  the bespoke services.
+  most of my days designing/building things(websites, products) at [Uravity](https://uravity.netlify.app), writing articles at [Ajulu's Thoughts](https://ajulusthoughts.stephenajulu.com),
+  and creating [products](https://stephenajulu.com/store). I'm interested in Tech, Design, Blockchain, AI, and Cybersecurity. 
 button1Name: Hire me
 button2Name: Download CV
 button1Target: contact
