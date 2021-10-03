@@ -34,9 +34,13 @@ name = "Shop"
 url = "/store"
 weight = 5
 [[menu.main]]
+name = "Notes"
+url = "/notes"
+weight = 6
+[[menu.main]]
 name = "Contact"
 url = "/contact"
-weight = 6
+weight = 7
 
 
 # Sitemap Menu
