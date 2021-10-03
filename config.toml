@@ -1,14 +1,16 @@
 baseURL = "https://stephenajulu.com"
-languageCode = "en-us"
+languageCode = "en"
 paginate = 12
 enableEmoji = true
-title = "Stephen Ajulu | Web Developer, Designer & Creator"
+title = "Stephen Ajulu"
+
+# Enable for syntax highlighting
+pygmentsUseClasses = true
+# Enable highlighting for code fences
+pygmentsCodeFences = true
+# pygmentsCodefencesGuessSyntax = true
 # Author
-[author]
-email = "alunje73@gmail.com"
-facebook = "stephenajulu"
-name = "Stephen Ajulu"
-twitter = "@stephenajulu"
+
 # Main Menu
 [[menu.main]]
 name = "Home"
@@ -55,14 +57,28 @@ blogPageURL = "blog"
 servicesPageURL = "services"
 storePageURL = "store"
 contactLink = "contact"
-copyright = "© Stephen Ajulu"
+copyright = "©2021 Stephen Ajulu"
 footerLogo = "images/site-navigation/logogrey.png" #footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "https://formspree.io/f/alunje73@gmail.com"
 logo = "images/site-navigation/logo2.svg"
 featureImage = "images/social.png"
 description = "Stephen Ajulu is a Frontend Web Developer, Designer & Creator, interested in building digital products, apps, brands, and experiences. Contact him now to request a service, book a consultation or hire him!"
 monetization = "$ilp.uphold.com/GLrwmQrfDeU9"
-authorname = "Stephen Ajulu"
+author = "Stephen Ajulu"
+keywords = "Product Design, UX Design, UI Design, Front-end Web Development, Small businesses, Automation, Typography, Technology, Design, Cyber Security, Digital Products, Apps, Stephen Ajulu, Ajulu, Blog, Ajulu's Thoughts"
+strapline = "Front-end Web Development, Design & Content Creation"
+location = "Nairobi, Kenya"
+
+[author]
+name = "Stephen Ajulu"
+email = "alunje73@gmail.com"
+twitter = "https://twitter.com/stephenajulu"
+facebook = "https://facebook.com/stephenajulu"
+github = "https://github.com/stephenajulu"
+linkedin = "https://linkedin.com/in/stephenajulu"
+
+# Enable Emojis
+enableEmoji = true
 
 [params.address]
 address = "Nairobi, Kenya."
@@ -87,3 +103,16 @@ weight = 3
 icon = "fa-github-square"
 url = "https://www.github.com/stephenajulu"
 weight = 4
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+series = "series"
+  
+[outputs]
+home = [ "HTML", "RSS" ]
+
+[outputFormats]
+[outputFormats.RSS]
+mediatype = "application/rss"
+  baseName = "feed"
