@@ -84,6 +84,23 @@
 <meta property="twitter:image" content="https://stephenajulu.com/images/social.png">
 {{ end }}
   
+<!-- Schema -->
+<meta itemprop="name" content="{{ $isHomePage := eq .Title .Site.Title }}{{ .Title }}{{ if eq $isHomePage false }} - {{ .Site.Title }}{{ end }}">
+<meta itemprop="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+{{- if .IsPage -}}
+{{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
+{{ with .PublishDate }}<meta itemprop="datePublished" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }} />{{ end}}
+{{ with .Lastmod }}<meta itemprop="dateModified" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }} />{{ end}}
+<meta itemprop="wordCount" content="{{ .WordCount }}">
+{{ if isset .Params "featureImage" }}
+<meta itemprop="image" content="{{ .Params.featureImage | absURL }}">
+{{ else }}
+<meta itemprop="image" content="https://stephenajulu.com/images/social.png"/>
+  {{ end }}
+<!-- Output all taxonomies as schema.org keywords -->
+<meta itemprop="keywords" content="{{ if .IsPage}}{{ range $index, $tag := .Params.tags }}{{ $tag }},{{ end }}{{ else }}{{ range $plural, $terms := .Site.Taxonomies }}{{ range $term, $val := $terms }}{{ printf "%s," $term }}{{ end }}{{ end }}{{ end }}" />
+{{- end -}}
+  
 <!-- Bing Webmasters Verification -->
 <meta name="msvalidate.01" content="6430529B77E917E3ECFFD9F0F986DDAD" />
   
