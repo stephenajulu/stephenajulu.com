@@ -45,9 +45,9 @@
   </script>
 
 {{ "<!-- Meta, SEO and More -->" | safeHTML }}
-  <meta name="title" content="{{ .Title }}">
-  <meta name="description" content="{{ .Description }}">
-    <meta name="author" content="{{ .Site.Params.authorname }}">
+  <meta name="title" content="{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
+  <meta name="description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ $.Site.Params.Description }}{{ end }}">
+    <meta name="author" content="{{ $.Site.Params.authorname }}">
 
     <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
