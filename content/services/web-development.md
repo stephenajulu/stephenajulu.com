@@ -3,7 +3,7 @@ date = 2021-09-27T10:00:00Z
 featureImage = "/images/daniel-korpai-pKRNxEguRgM-unsplash.jpg"
 postImage = "/images/lee-campbell-DtDlVpy-vvQ-unsplash.jpg"
 title = "Web Development"
-description = "I build amazing-looking and responsive websites, dashboards, and platforms that are fast and efficient and evolve your users' experience. Contact me now!"
+description = "I build amazing-looking and responsive websites, dashboards, and platforms that are fast and efficient and evolve your users' experience. Contact me!"
 
 +++
 I build amazing-looking and responsive websites, dashboards, and platforms that are fast and efficient and evolve your users’ experience.
