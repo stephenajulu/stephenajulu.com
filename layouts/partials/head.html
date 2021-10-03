@@ -66,7 +66,7 @@
 {{ if isset .Params "featureImage" }}
 <meta property="og:image" content="{{ .Params.featureImage }}">
 <!-- else if no image in frontmatter, and sections are not equal to articles or notes, then display image --> 
-{{ else if and (ne .Section "blog") (ne .Section "portfolio") (ne .Section "store") (ne .Section "services") }}
+{{ else }}
 <meta property="og:image" content="https://stephenajulu.com/images/social.png">
 {{ end }}
   
@@ -80,7 +80,7 @@
 {{ if isset .Params "featureImage" }}
 <meta property="twitter:image" content="{{ .Params.featureImage }}">
 <!-- else if no image in frontmatter, and sections are not equal to articles or notes, then display image --> 
-{{ else if and (ne .Section "blog") (ne .Section "portfolio") (ne .Section "store") (ne .Section "services") }}
+{{ else }}
 <meta property="twitter:image" content="https://stephenajulu.com/images/social.png">
 {{ end }}
   
