@@ -1,3 +1,4 @@
 ---
 title: Articles
+description: Here are some of Stephen Ajulu's articles. You can find more at his blog: Ajulu's Thoughts. He is a Frontend Web Developer, Designer and Creator, interested in building digital products, brands and experiences.
 ---
