@@ -1,0 +1,13 @@
+---
+label: Notes Template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: datetime
+  name: date
+  label: date
+- type: textarea
+  name: description
+  label: Description
