@@ -1,6 +1,6 @@
 <head>
   <meta charset="utf-8" />
-  <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+  <title>{{ if .IsHome -}}{{ .Site.Title }} &middot; {{ $.Site.Params.strapline }}{{- else -}}{{ .Title }} | {{ .Site.Title }} &middot; {{ $.Site.Params.strapline }} {{- end }}</title>
 
 {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -43,15 +43,66 @@
    const el = document.createElement('pwa-update');
    document.body.appendChild(el);
   </script>
+  
+{{ "<!-- RSS Link-->" | safeHTML}}
+{{ with .OutputFormats.Get "rss" -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+{{ end -}}
 
 {{ "<!-- Meta, SEO and More -->" | safeHTML }}
   <meta name="title" content="{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
   <meta name="description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ $.Site.Params.Description }}{{ end }}">
-    <meta name="author" content="{{ $.Site.Params.authorname }}">
+  <meta name="author" content="{{ $.Site.Params.authorname }}">
+  {{ with .Site.Params.keywords }}<meta name="keywords" content="{{ . }}">{{ end }}
+  {{ with .Site.LanguageCode }}<meta http-equiv="content-language" content="{{ . }}" />{{ end }}
+  
+<!-- Open Graph / Facebook -->
+<meta property="og:title" content="{{ if .IsHome -}}{{ .Site.Title }} &middot; {{ $.Site.Params.strapline }}{{- else -}}{{ .Title }} | {{ .Site.Title }} &middot; {{ $.Site.Params.strapline }} {{- end }}">
+<meta property="og:description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ $.Site.Params.Description }}{{ end }}">
+<meta property="og:site_name" content="{{ if .IsHome -}}{{ .Site.Title }} &middot; {{ $.Site.Params.strapline }}{{- else -}}{{ .Title }} | {{ .Site.Title }} &middot; {{ $.Site.Params.strapline }} {{- end }}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ .Permalink }}">
+<!-- if featured image exists in file frontmatter, use for open graph data -->
+{{ if isset .Params "featureImage" }}
+<meta property="og:image" content="{{ .Params.featureImage }}">
+<!-- else if no image in frontmatter, and sections are not equal to articles or notes, then display image --> 
+{{ else if and (ne .Section "blog") (ne .Section "portfolio") (ne .Section "store") (ne .Section "services") }}
+<meta property="og:image" content="https://stephenajulu.com/images/social.png">
+{{ end }}
+  
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="{{ .Permalink }}">
+<meta property="twitter:title" content="{{ $isHomePage := eq .Title .Site.Title }}{{ .Title }}{{ if eq $isHomePage false }} - {{ .Site.Title }}{{ end }}">
+<meta property="twitter:description" content="{{ if eq $isHomePage false }} {{ .Description }}{{ end }} {{ $isHomePage := eq .Title .Site.Title }}{{ .Site.Params.description }}">
+<link rel="canonical" href="{{ .Permalink }}">
+<!-- if featured image exists in file frontmatter, use for twitter card -->
+{{ if isset .Params "featureImage" }}
+<meta property="twitter:image" content="{{ .Params.featureImage }}">
+<!-- else if no image in frontmatter, and sections are not equal to articles or notes, then display image --> 
+{{ else if and (ne .Section "blog") (ne .Section "portfolio") (ne .Section "store") (ne .Section "services") }}
+<meta property="twitter:image" content="https://stephenajulu.com/images/social.png">
+{{ end }}
+  
+<!-- Bing Webmasters Verification -->
+<meta name="msvalidate.01" content="6430529B77E917E3ECFFD9F0F986DDAD" />
+  
+<!-- Yandex Webmasters Verification -->
+<meta name="yandex-verification" content="020f67e243126bd7" />
+  
+<!-- Pinterest Verification -->
+<meta name="p:domain_verify" content="5f4e876bcc15cfd56239589defc9f674"/>
+  
+<!-- Me -->    
+{{ with .Site.Author.name }}<meta name="author" content="{{ . }}">{{ end }}
+<link href="mailto:{{ .Site.Author.email }}" rel="me">
+<link href="{{ .Site.Author.twitter }}" rel="me">
+<link href="{{ .Site.Author.github }}" rel="me">
+<link href="{{ .Site.Author.linkedin }}" rel="me">
 
-    <meta name="mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="application-name" content="{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
+<meta name="application-name" content="{{ .Title }}">
 <meta name="apple-mobile-web-app-title" content="{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
