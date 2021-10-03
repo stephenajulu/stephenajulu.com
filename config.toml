@@ -57,6 +57,7 @@ weight = 3
 blogPageURL = "blog"
 servicesPageURL = "services"
 storePageURL = "store"
+notesPageURL = "notes"
 contactLink = "contact"
 copyright = "©2021 Stephen Ajulu"
 footerLogo = "images/site-navigation/logogrey.png" #footerLogo = "images/contact/widget-logo.png"
