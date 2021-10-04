@@ -10,6 +10,8 @@ Currently using Portio(with mods) to power my website
 
 Not optimized yet. 
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/06a9949f-ca2c-4de6-923b-1a912bb49d9d/deploy-status)](https://app.netlify.com/sites/stephenajulu7/deploys)
+
 ---
 <h3>Portio Hugo</h3>
 <img src="https://user-images.githubusercontent.com/25920065/91142412-8a895c80-e6d2-11ea-93dd-5de59ce60adf.jpg" alt="screenshot" width="100%">
