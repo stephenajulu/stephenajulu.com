@@ -4,6 +4,7 @@ paginate = 12
 enableEmoji = true
 title = "Stephen Ajulu"
 rssLimit = 25
+enableRobotsTXT = true
 
 # Enable for syntax highlighting
 pygmentsUseClasses = true
