@@ -1,7 +1,8 @@
 ---
-title: First Newsletter
+title: #1 - first newsletter
 date: 2020-09-13T12:49:27+06:00
-description: My Very First Newsletter
+description: Welcome to My Very First Newsletter
+slug: 1
 ---
 
 Hi, how are you doing. Love you guys. Go check out my [twitter](https://twitter.com/stephenajulu)
