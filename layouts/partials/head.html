@@ -109,6 +109,9 @@
 <meta itemprop="keywords" content="{{ if .IsPage}}{{ range $index, $tag := .Params.tags }}{{ $tag }},{{ end }}{{ else }}{{ range $plural, $terms := .Site.Taxonomies }}{{ range $term, $val := $terms }}{{ printf "%s," $term }}{{ end }}{{ end }}{{ end }}" />
 {{- end -}}
   
+<!-- Google Search Console Verification -->
+<meta name="google-site-verification" content="c8lAsC8okuKcaCQHHrKqgMab0b9LUnE9JtCxSqaFJ8g" />
+ 
 <!-- Bing Webmasters Verification -->
 <meta name="msvalidate.01" content="6430529B77E917E3ECFFD9F0F986DDAD" />
   
