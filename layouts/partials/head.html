@@ -52,7 +52,7 @@
 {{ "<!-- Meta, SEO and More -->" | safeHTML }}
   <meta name="title" content="{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
   <meta name="description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ $.Site.Params.Description }}{{ end }}">
-  <meta name="author" content="{{ .Site.Params.author.name }}">
+  <meta name="author" content="{{ .Site.Params.author }}">
   {{ with .Site.Params.keywords }}<meta name="keywords" content="{{ . }}">{{ end }}
   {{ with .Site.LanguageCode }}<meta http-equiv="content-language" content="{{ . }}" />{{ end }}
   
