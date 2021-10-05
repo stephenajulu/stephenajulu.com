@@ -94,10 +94,12 @@
           <h3>Contact Form</h3>
         </div>
         <div class="contact-form-input">
-          <form id="contact-form" action="{{ .Site.Params.formspreeURL }}" method="POST">
+          <form id="contact-form" netlify name="contactform" data-netlify-honeypot="bot-field" action="{{ .Site.Params.formaction }}" method="POST">
 
             <div class="form-row">
 
+              <input class="hidden" name="bot-field" placeholder="Don't fill this out if you're a human" style="display: none;"/>
+              
               <div class="form-group col-md-6 pr-3">
                 <input type="text" class="form-control" name="Name" placeholder="Name" required />
               </div>
