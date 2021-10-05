@@ -5,13 +5,10 @@ enableEmoji = true
 title = "Stephen Ajulu"
 rssLimit = 25
 enableRobotsTXT = true
-
-# Enable for syntax highlighting
+enableGitInfo = true
 pygmentsUseClasses = true
-# Enable highlighting for code fences
 pygmentsCodeFences = true
-# pygmentsCodefencesGuessSyntax = true
-# Author
+pygmentsCodefencesGuessSyntax = true
 
 # Main Menu
 [[menu.main]]
@@ -35,8 +32,8 @@ name = "Shop"
 url = "/store"
 weight = 5
 [[menu.main]]
-name = "Notes"
-url = "/notes"
+name = "Newsletter"
+url = "/newsletter"
 weight = 6
 [[menu.main]]
 name = "Contact"
