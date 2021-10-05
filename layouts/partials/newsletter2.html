@@ -1,10 +1,11 @@
 <section class="section" align="center">
 <div align="center">
   <h3>Subscribe to My Newsletter</h3>
-<form action="https://www.getrevue.co/profile/stephenajulu/add_subscriber" name="newsletter" target="_blank" class="seva-form formkit-form" data-sv-form="2623754" data-uid="27537da517" data-format="inline" data-version="5" method="POST" min-width="400 500 600 700 800">
+  <div id="revue-embed">
+<form action="https://www.getrevue.co/profile/stephenajulu/add_subscriber" name="newsletter" target="_blank" class="seva-form formkit-form" id="revue-form" name="revue-form" data-sv-form="2623754" data-uid="27537da517" data-format="inline" data-version="5" method="POST" min-width="400 500 600 700 800">
   <div data-style="clean">
         <div data-element="fields" data-stacked="false" class="seva-fields formkit-fields">
-            <div class="formkit-field"><input class="formkit-input" aria-label="Email Address" placeholder="Email Address" required="" type="email" style="color: rgb(0, 0, 0); border-color: rgb(227, 227, 227); border-radius: 50px; font-weight: 700;"></div><button data-element="submit" class="formkit-submit formkit-submit" style="color: rgb(255, 255, 255); background-color: rgb(99, 32, 214); border-radius: 50px; font-weight: 700;">
+            <div class="formkit-field"><input class="formkit-input revue-form-field" name="member[email]" id="member_email" aria-label="Email Address" placeholder="Email Address" required="" type="email" style="color: rgb(0, 0, 0); border-color: rgb(227, 227, 227); border-radius: 50px; font-weight: 700;"></div><button data-element="submit" class="formkit-submit formkit-submit" name="member[subscribe]" id="member_submit" style="color: rgb(255, 255, 255); background-color: rgb(99, 32, 214); border-radius: 50px; font-weight: 700;">
                 <div class="formkit-spinner">
                     <div></div>
                     <div></div>
@@ -14,5 +15,6 @@
         </div>
     </div>
 </form>
+  </div>
     </div>
 </section>
