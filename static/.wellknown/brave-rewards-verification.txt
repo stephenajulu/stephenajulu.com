@@ -1,4 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
 Domain: stephenajulu.com
-Token: 9fc611c7b56ffed43edc1968bf03bb9a3f984bade72a407594e2982ba1847850
+Token: 0e7b139fc49bbcd67c7fe4248b587fddb0692e101a844d04b63531c502185efc
