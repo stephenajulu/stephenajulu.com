@@ -7,8 +7,6 @@
         <h3 class="breadCrumb__title">{{ .Title }}</h3>
         <nav aria-label="breadcrumb" class="d-flex justify-content-center">
           <ol class="breadcrumb align-items-center">
-            <li class="breadcrumb-item"><a href={{ .Site.BaseURL }}>Home</a></li>
-            <li class="breadcrumb-item"><a href={{ .Site.Params.newsletterPageURL | absURL }}>All Newsletters</a></li>
             <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
           </ol>
         </nav>
@@ -16,6 +14,8 @@
     </div>
   </div>
 </header>
+
+<br />
 
 <section class="section singleBlog">
   <div class="container">
