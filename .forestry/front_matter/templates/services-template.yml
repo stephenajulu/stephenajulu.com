@@ -1,0 +1,22 @@
+---
+label: Services Template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: featureImage
+  label: featureImage
+- type: file
+  name: postImage
+  label: postImage
+- type: textarea
+  name: description
+  label: Description
+pages:
+- content/services/ui-ux-web-design.md
+- content/services/web-development.md

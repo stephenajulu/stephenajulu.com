@@ -1,0 +1,27 @@
+---
+label: Store Template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: productlink
+  label: productlink
+- type: file
+  name: featureImage
+  label: featureImage
+- type: file
+  name: postImage
+  label: postImage
+- type: textarea
+  name: description
+  label: Description
+pages:
+- content/store/gradient-wallpaper-pack-2-for-low-res-screens.md
+- content/store/gradient-wallpaper-pack-v1-for-low-res-screens.md
+- content/store/gradient-wallpapers-8k-3.0.md
+- content/store/wealth-forest-brand-logos.md

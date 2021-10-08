@@ -2,14 +2,9 @@
 enable: true
 topTitle: About
 title: "## About me"
-content: Hi! My name is Stephen Ajuu, and I’m a Frontend Web Developer, Designer(Graphic,
-  Web), Creator(Content, Products), and an aspiring Novelist. I'm currently pursuing
-  my Bachelor’s Degree while freelancing but I am open for employment/work. I spend
-  most of my days writing articles on my [blog](https://ajulusthoughts.stephenajulu.com),
-  learning new things, creating [products](https://stephenajulu.gumroad.com), designing
-  & building things. I'm also a technology, design, engineering, architecture, creative
-  writing, and cyber security enthusiast interested in the latest trends and providing
-  the best services.
+content: Hi! I'm Stephen, a Frontend Web Developer, Designer and Creator. I'm currently freelancing but I am open for work. I spend
+  most of my days designing/building things(websites, products) at [Uravity](https://uravity.netlify.app), writing articles at [Ajulu's Thoughts](https://ajulusthoughts.stephenajulu.com),
+  and creating [products](https://stephenajulu.com/store). I'm interested in Tech, Design, Blockchain, AI, and Cybersecurity. 
 button1Name: Hire me
 button2Name: Download CV
 button1Target: contact

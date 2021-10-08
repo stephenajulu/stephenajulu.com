@@ -1,6 +1,6 @@
 <head>
   <meta charset="utf-8" />
-  <title>{{ .Title }}</title>
+  <title>{{ if .IsHome -}}{{ .Site.Title }} &middot; {{ $.Site.Params.strapline }}{{- else -}}{{ .Title }} | {{ .Site.Title }} &middot; {{ $.Site.Params.strapline }} {{- end }}</title>
 
 {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -18,6 +18,10 @@
 {{ "<!-- Stylesheets -->" | safeHTML }}
 {{ $style := resources.Get "scss/style.scss" | resources.ToCSS | minify }}
   <link href="{{ $style.Permalink }}" rel="stylesheet" />
+  
+{{ "<!-- Newsletter Form Stylesheet -->" | safeHTML }}
+  {{ $newslettercss := resources.Get "css/newsletter2.css" | minify }}
+  <link href="{{ $newslettercss.Permalink }}" rel="stylesheet" />
 
 {{ "<!--Favicon -->" | safeHTML }}
   <link rel="shortcut icon" href="{{ "images/favicon.ico" | absURL }}" type="image/x-icon" />
@@ -37,25 +41,101 @@
 {{ "<!-- Umami Analytics -->" | safeHTML }}
     <script async defer data-website-id="2b9da817-0396-4139-ae52-35a24eb40860" src="https://ajulusanalytics.herokuapp.com/umami.js"></script>
 
-{{ "<!-- Collect Chat -->" | safeHTML }}
-    <script>(function(w, d) { w.CollectId = "613a0261ef0a6c4814d2d601"; var h = d.head || d.getElementsByTagName("head")[0]; var s = d.createElement("script"); s.setAttribute("type", "text/javascript"); s.async=true; s.setAttribute("src", "https://collectcdn.com/launcher.js"); h.appendChild(s); })(window, document);</script>
-
 {{ "<!-- PWA Script -->" | safeHTML }}
   <script type="module">
    import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
    const el = document.createElement('pwa-update');
    document.body.appendChild(el);
   </script>
+  
+{{ "<!-- RSS Link-->" | safeHTML}}
+{{ range .AlternativeOutputFormats -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+{{ end -}}
 
 {{ "<!-- Meta, SEO and More -->" | safeHTML }}
-  <meta name="title" content="{{ .Title }}">
-  <meta name="description" content="Hi!👋 I'm Stephen Ajulu, a Web Developer, Designer & Creator. To hire me & learn more, visit my website!">
-    <meta name="author" content="Stephen Ajulu">
+  <meta name="title" content="{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
+  <meta name="description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ $.Site.Params.Description }}{{ end }}">
+  <meta name="author" content="{{ .Site.Params.author }}">
+  {{ with .Site.Params.keywords }}<meta name="keywords" content="{{ . }}">{{ end }}
+  {{ with .Site.LanguageCode }}<meta http-equiv="content-language" content="{{ . }}" />{{ end }}
+  
+<!-- Open Graph / Facebook -->
+<meta property="og:title" content="{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
+<meta property="og:description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ $.Site.Params.Description }}{{ end }}">
+<meta property="og:site_name" content="{{ if .IsHome -}}{{ .Site.Title }} &middot; {{ $.Site.Params.strapline }}{{- else -}}{{ .Title }} | {{ .Site.Title }} &middot; {{ $.Site.Params.strapline }} {{- end }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<!-- if featured image exists in file frontmatter, use for open graph data -->
+{{ if isset .Params "featureImage" }}
+<meta property="og:image" content="{{ .Params.featureImage | absURL }}">
+<!-- else if no image in frontmatter, and sections are not equal to articles or notes, then display image --> 
+{{ else }}
+<meta property="og:image" content="https://stephenajulu.com/images/social.png">
+{{ end }}
+{{- if .IsPage }}
+{{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
+<meta property="article:section" content="{{ .Section }}" />
+{{ with .PublishDate }}<meta property="article:published_time" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }} />{{ end }}
+{{ with .Lastmod }}<meta property="article:modified_time" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }} />{{ end }}
+{{- end -}}
+  
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="{{ .Permalink }}">
+<meta property="twitter:title" content="{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
+<meta property="twitter:description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ $.Site.Params.Description }}{{ end }}">
+<link rel="canonical" href="{{ .Permalink }}">
+<!-- if featured image exists in file frontmatter, use for twitter card -->
+{{ if isset .Params "featureImage" }}
+<meta property="twitter:image" content="{{ .Params.featureImage | absURL }}">
+<!-- else if no image in frontmatter, and sections are not equal to articles or notes, then display image --> 
+{{ else }}
+<meta property="twitter:image" content="https://stephenajulu.com/images/social.png">
+{{ end }}
+<meta name="twitter:creator" content="@{{ .Site.Params.creator }}" />
+<meta name="twitter:site" content="@{{ .Site.Params.creator }}"/>
+  
+<!-- Schema -->
+<meta itemprop="name" content="{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
+<meta itemprop="description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ $.Site.Params.Description }}{{ end }}">
+{{- if .IsPage -}}
+{{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
+{{ with .PublishDate }}<meta itemprop="datePublished" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }} />{{ end}}
+{{ with .Lastmod }}<meta itemprop="dateModified" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }} />{{ end}}
+<meta itemprop="wordCount" content="{{ .WordCount }}">
+{{ if isset .Params "featureImage" }}
+<meta itemprop="image" content="{{ .Params.featureImage | absURL }}">
+{{ else }}
+<meta itemprop="image" content="https://stephenajulu.com/images/social.png"/>
+  {{ end }}
+<!-- Output all taxonomies as schema.org keywords -->
+<meta itemprop="keywords" content="{{ if .IsPage}}{{ range $index, $tag := .Params.tags }}{{ $tag }},{{ end }}{{ else }}{{ range $plural, $terms := .Site.Taxonomies }}{{ range $term, $val := $terms }}{{ printf "%s," $term }}{{ end }}{{ end }}{{ end }}" />
+{{- end -}}
+  
+<!-- Google Search Console Verification -->
+<meta name="google-site-verification" content="c8lAsC8okuKcaCQHHrKqgMab0b9LUnE9JtCxSqaFJ8g" />
+ 
+<!-- Bing Webmasters Verification -->
+<meta name="msvalidate.01" content="6430529B77E917E3ECFFD9F0F986DDAD" />
+  
+<!-- Yandex Webmasters Verification -->
+<meta name="yandex-verification" content="020f67e243126bd7" />
+  
+<!-- Pinterest Verification -->
+<meta name="p:domain_verify" content="5f4e876bcc15cfd56239589defc9f674"/>
+  
+<!-- Me -->    
+{{ with .Site.Author.name }}<meta name="author" content="{{ . }}">{{ end }}
+<link href="mailto:{{ .Site.Author.email }}" rel="me">
+<link href="{{ .Site.Author.twitter }}" rel="me">
+<link href="{{ .Site.Author.github }}" rel="me">
+<link href="{{ .Site.Author.linkedin }}" rel="me">
 
-    <meta name="mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="application-name" content="Stephen Ajulu">
-<meta name="apple-mobile-web-app-title" content="Stephen Ajulu">
+<meta name="application-name" content="{{ .Title }}">
+<meta name="apple-mobile-web-app-title" content="{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
 <link rel="apple-touch-icon" href="meta/ios/ios-appicon-120-120.png">
@@ -98,258 +178,5 @@
 <meta name="theme-color" content="#000000">
 
 <link rel="manifest" href="manifest.json">
-
-
-
-{{ "<!-- Schema JSONLD -->" | safeHTML }}
-<script type="application/ld+json">
-{
-   "@context":"https://schema.org",
-   "@type":"Person",
-   "address":{
-      "@type":"PostalAddress",
-      "addressLocality":"Nairobi",
-      "addressRegion":"Machakos",
-      "addressCountry":"Kenya",
-      "postalCode":"0740128010",
-      "streetAddress":"Neema Crescent 322"
-   },
-   "email":"alunje73@gmail.com",
-   "image":"https://stephenajulu.com/images/2.jpg",
-   "jobTitle":"Frontend Web Developer, Designer & Creator",
-   "name":"Stephen Ajulu",
-   "alternateName":"Stephen Odero Ajulu Otieno",
-   "alumniOf":[
-      {
-         "@type":"CollegeOrUniversity",
-         "name":"St. Paul's University"
-      },
-      {
-         "@type":"CollegeOrUniversity",
-         "name":"Institute of Software Technologies"
-      },
-      {
-         "@type":"CollegeOrUniversity",
-         "name":"Epren School of Professional Studies"
-      }
-   ],
-   "affiliation":[
-      {
-         "@type":"Organization",
-         "name":"Uravity"
-      },
-       {
-         "@type":"Organization",
-         "name":"OwlSec Technologies"
-      },
-      {
-         "@type":"Organization",
-         "name":"Ajulu's Thoughts"
-      }
-   ],
-   "Description":"Technology, Design, Engineering, Architecture, and Cybersecurity Enthusiast. A young man with dreams of changing the world. Hi!👋 I'm Stephen Ajulu, a Web Developer, Designer & Creator. To hire me & learn more, visit my website!",
-   "disambiguatingDescription":"Founder of Uravity and The Noesis Magazine",
-   "birthPlace":"Nairobi, Kenya",
-   "birthDate":"1995-09-01",
-   "height":"5.5 inches",
-   "gender":"male",
-   "nationality":"Kenyan",
-   "telephone":"+254726024210",
-   "url":"http://stephenajulu.com",
-   "sameAs":[
-      "https://www.facebook.com/stephenajulu",
-      "https://www.linkedin.com/in/stephenajulu",
-      "http://twitter.com/stephenajulu",
-      "http://instagram.com/stephenajulu",
-      "https://www.youtube.com/channel/UC043ZXL-t3yqtgcIxJmkHuA",
-      "https://github.com/stephenajulu/",
-      "https://codepen.io/stephenajulu",
-      "https://dev.to/stephenajulu",
-      "https://stephenajulu.medium.com/",
-      "https://linktr.ee/stephenajulu",
-      "https://dribbble.com/stephenajulu",
-      "https://anchor.fm/stephenajulu",
-      "https://www.buymeacoffee.com/stephenajulu",
-      "https://discordapp.com/users/643865037664026652",
-      "https://www.figma.com/@stephenajulu",
-      "https://soundcloud.com/stephenajulu",
-      "https://ajulusthoughts.stephenajulu.com"
-   ]
-}
-</script>
-  
-{{ if .IsHome }}
-<script type="application/ld+json">
-{
-    "@context": "http://schema.org",
-    "@type": "WebSite",
-    "name": "Stephen Ajulu's Personal Website",
-    "url": "https://stephenajulu.com",
-    "description": "Hi!👋 I'm Stephen Ajulu, a Web Developer, Designer & Creator. To hire me & learn more, visit my website!",
-    "thumbnailUrl": "https://stephenajulu.com/logo.png"
-}
-</script>
-{{ end }}
-
-{{ if .IsPage }}
-<script type="application/ld+json">
-{
-    "@context": "http://schema.org",
-    "@type": "WebPage",
-    "name": "{{ .Title }}",
-    "description": {{ .Summary }},
-    "publisher": {
-        "@type": "ProfilePage",
-        "name": "Stephen Ajulu"
-    }
-}
-</script>
-{{ end }}
-
-<!--{{ if eq .Section "blog" }}
-<script type="application/ld+json">
-  {
-    "@context":"http://schema.org",
-    "@type": "BlogPosting", 
-    "image": "{{ .Params.featureImage | absURL }}", 
-    "url": "{{ .Permalink }}",
-    "headline": "{{ .Title }}",
-    "dateCreated": "{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}",
-    "datePublished": "{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" | safeHTML }}",
-    "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}",
-    "inLanguage": "{{ .Site.LanguageCode }}",
-    "isFamilyFriendly": "true",
-    "copyrightYear": "{{ .PublishDate.Format "2006" | safeHTML }}",
-    "copyrightHolder": "Stephen Ajulu",
-    "contentLocation": {
-      "@type": "Place",
-      "name": "Nairobi, Kenya"
-    },
-    "accountablePerson": {
-      "@type": "Person",
-      "name": "Stephen Ajulu",
-      "url": "https://stephenajulu.com"
-    },
-    "author": {
-      "@type": "Person",
-      "name": "Stephen Ajulu",
-      "url": "https://stephenajulu.com"
-    },
-    "creator": {
-      "@type": "Person",
-      "name": "Stephen Ajulu",
-      "url": "https://stephenajulu.com"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "Stephen Ajulu",
-      "url": "https://stephenajulu.com",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://stephenajulu.com/logo.png"
-      }
-    },
-    "mainEntityOfPage": "True",
-    "articleBody": "{{ .Content | safeJS | htmlUnescape | plainify }}"
-  }
-</script>
-{{ end }}-->
-
-
-<meta property="og:title" content="{{ .Title }}" />
-<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
-<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
-<meta property="og:url" content="{{ .Permalink }}" />
-
-{{- with $.Params.images -}}
-{{- range first 6 . }}<meta property="og:image" content="{{ . | absURL }}" />{{ end -}}
-{{- else -}}
-{{- $images := $.Resources.ByType "image" -}}
-{{- $featured := $images.GetMatch "*feature*" -}}
-{{- if not $featured }}{{ $featured = $images.GetMatch "{*featureImage*,*cover*,*thumbnail*}" }}{{ end -}}
-{{- with $featured -}}
-<meta property="og:image" content="{{ $featured.Permalink }}"/>
-{{- else -}}
-{{- with $.Site.Params.images }}<meta property="og:image" content="{{ index . 0 | absURL }}"/>{{ end -}}
-{{- end -}}
-{{- end -}}
-
-{{- if .IsPage }}
-{{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
-<meta property="article:section" content="{{ .Section }}" />
-{{ with .PublishDate }}<meta property="article:published_time" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }} />{{ end }}
-{{ with .Lastmod }}<meta property="article:modified_time" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }} />{{ end }}
-{{- end -}}
-
-{{- with .Params.audio }}<meta property="og:audio" content="{{ . }}" />{{ end }}
-{{- with .Params.locale }}<meta property="og:locale" content="{{ . }}" />{{ end }}
-{{- with .Site.Params.title }}<meta property="og:site_name" content="{{ . }}" />{{ end }}
-{{- with .Params.videos }}{{- range . }}
-<meta property="og:video" content="{{ . | absURL }}" />
-{{ end }}{{ end }}
-
-{{- /* If it is part of a series, link to related articles */}}
-{{- $permalink := .Permalink }}
-{{- $siteSeries := .Site.Taxonomies.series }}
-{{ with .Params.series }}{{- range $name := . }}
-  {{- $series := index $siteSeries ($name | urlize) }}
-  {{- range $page := first 6 $series.Pages }}
-    {{- if ne $page.Permalink $permalink }}<meta property="og:see_also" content="{{ $page.Permalink }}" />{{ end }}
-  {{- end }}
-{{ end }}{{ end }}
-
-{{- /* Facebook Page Admin ID for Domain Insights */}}
-{{- with .Site.Social.facebook_admin }}<meta property="fb:admins" content="{{ . }}" />{{ end }}
-
-{{- with $.Params.images -}}
-<meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="{{ index . 0 | absURL }}"/>
-{{ else -}}
-{{- $images := $.Resources.ByType "image" -}}
-{{- $featured := $images.GetMatch "*feature*" -}}
-{{- if not $featured }}{{ $featured = $images.GetMatch "{*featureImage*,*cover*,*thumbnail*}" }}{{ end -}}
-{{- with $featured -}}
-<meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="{{ $featured.Permalink }}"/>
-{{- else -}}
-{{- with $.Site.Params.images -}}
-<meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="{{ index . 0 | absURL }}"/>
-{{ else -}}
-<meta name="twitter:card" content="summary"/>
-{{- end -}}
-{{- end -}}
-{{- end }}
-<meta name="twitter:title" content="{{ .Title }}"/>
-<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}"/>
-{{ with .Site.Social.twitter -}}
-<meta name="twitter:site" content="@{{ . }}"/>
-{{ end -}}
-
-<meta itemprop="name" content="{{ .Title }}">
-<meta itemprop="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
-
-{{- if .IsPage -}}
-{{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
-{{ with .PublishDate }}<meta itemprop="datePublished" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }} />{{ end}}
-{{ with .Lastmod }}<meta itemprop="dateModified" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }} />{{ end}}
-<meta itemprop="wordCount" content="{{ .WordCount }}">
-
-{{- with $.Params.images -}}
-{{- range first 6 . -}}<meta itemprop="image" content="{{ . | absURL }}">{{ end -}}
-{{- else -}}
-{{- $images := $.Resources.ByType "image" -}}
-{{- $featured := $images.GetMatch "*feature*" -}}
-{{- if not $featured }}{{ $featured = $images.GetMatch "{*featureImage*,*cover*,*thumbnail*}" }}{{ end -}}
-{{- with $featured -}}
-<meta itemprop="image" content="{{ $featured.Permalink }}">
-{{- else -}}
-{{- with $.Site.Params.images -}}<meta itemprop="image" content="{{ index . 0 | absURL }}"/>{{ end -}}
-{{- end -}}
-{{- end -}}
-
-<!-- Output all taxonomies as schema.org keywords -->
-<meta itemprop="keywords" content="{{ if .IsPage}}{{ range $index, $tag := .Params.tags }}{{ $tag }},{{ end }}{{ else }}{{ range $plural, $terms := .Site.Taxonomies }}{{ range $term, $val := $terms }}{{ printf "%s," $term }}{{ end }}{{ end }}{{ end }}" />
-{{- end -}}
 
 </head>

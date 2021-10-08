@@ -1,14 +1,15 @@
 baseURL = "https://stephenajulu.com"
-languageCode = "en-us"
+languageCode = "en"
 paginate = 12
 enableEmoji = true
-title = "Stephen Ajulu | Web Developer, Designer & Creator"
-# Author
-[author]
-email = "alunje73@gmail.com"
-facebook = "stephenajulu"
-name = "Stephen Ajulu"
-twitter = "@stephenajulu"
+title = "Stephen Ajulu"
+rssLimit = 25
+enableRobotsTXT = true
+enableGitInfo = true
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
 # Main Menu
 [[menu.main]]
 name = "Home"
@@ -27,9 +28,18 @@ name = "Work"
 url = "#portfolio"
 weight = 4
 [[menu.main]]
+name = "Shop"
+url = "/store"
+weight = 5
+[[menu.main]]
+name = "Newsletter"
+url = "/newsletter"
+weight = 6
+[[menu.main]]
 name = "Contact"
 url = "/contact"
-weight = 5
+weight = 7
+
 
 # Sitemap Menu
 [[menu.sitemap]]
@@ -47,16 +57,33 @@ weight = 3
 
 [params]
 blogPageURL = "blog"
+servicesPageURL = "services"
+storePageURL = "store"
+newsletterPageURL = "newsletter"
 contactLink = "contact"
-copyright = "© Stephen Ajulu."
-footerLogo = "images/contact/widget-logo.png"
-formspreeURL = "https://formspree.io/f/alunje73@gmail.com"
+copyright = "©2021 Stephen Ajulu"
+footerLogo = "images/site-navigation/logogrey.png" #footerLogo = "images/contact/widget-logo.png"
+formaction = "thankyou"
 logo = "images/site-navigation/logo2.svg"
-featureImage = "images/featureImage"
-image = "images/featureImage"
-images = "images/featureImage"
-description = "Hi!👋 I'm Stephen Ajulu, a Web Developer, Designer & Creator To hire me & learn more, visit my website!"
+featureImage = "images/social.png"
+description = "Stephen Ajulu is a Frontend Web Developer, Designer & Creator, interested in building digital products, apps, brands, and experiences. Contact him now to request a service, book a consultation or hire him!"
 monetization = "$ilp.uphold.com/GLrwmQrfDeU9"
+author = "Stephen Ajulu"
+keywords = "Product Design, UX Design, UI Design, Front-end Web Development, Web Design, Hugo, JAMstack, Small businesses, Automation, Typography, Technology, Design, Cyber Security, Digital Products, Apps, Stephen Ajulu, Ajulu, Blog, Ajulu's Thoughts"
+strapline = "Frontend Web Developer, Designer and Creator"
+location = "Nairobi, Kenya"
+creator = "stephenajulu"
+
+[author]
+name = "Stephen Ajulu"
+email = "alunje73@gmail.com"
+twitter = "https://twitter.com/stephenajulu"
+facebook = "https://facebook.com/stephenajulu"
+github = "https://github.com/stephenajulu"
+linkedin = "https://linkedin.com/in/stephenajulu"
+
+# Enable Emojis
+enableEmoji = true
 
 [params.address]
 address = "Nairobi, Kenya."
@@ -81,3 +108,19 @@ weight = 3
 icon = "fa-github-square"
 url = "https://www.github.com/stephenajulu"
 weight = 4
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+series = "series"
+  
+[outputs]
+home = [ "HTML", "RSS" ]
+
+[outputFormats]
+[outputFormats.RSS]
+mediatype = "application/rss"
+baseName = "feed"
+
+[permalinks]
+page = '/:title'
