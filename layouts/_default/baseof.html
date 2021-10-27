@@ -3,6 +3,7 @@
 {{ partial "head.html" . }}
 
 <body>
+  <div id="loader"></div>
   {{ partial "navbar.html" . }}
   <div id="content">
     {{ block "main" . }}{{ end }}
