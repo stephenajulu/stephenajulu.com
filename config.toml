@@ -32,8 +32,8 @@ name = "Shop"
 url = "/store"
 weight = 5
 [[menu.main]]
-name = "Newsletter"
-url = "/newsletter"
+name = "Blog"
+url = "/blog"
 weight = 6
 [[menu.main]]
 name = "Contact"
