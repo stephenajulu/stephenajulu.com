@@ -38,7 +38,7 @@
       <div class="row">
           <div class="col-lg-12">
               <div class="singleBlog__feature">
-                  <img src={{ .Params.postImage | absURL }} alt="feature-image">
+                  <img src="{{if .Params.postImage }}{{ .Params.postImage | absURL }}{{ else }}{{ .Params.hero | absURL }}{{end}}" alt="post-image">
               </div>
           </div>
       </div>
