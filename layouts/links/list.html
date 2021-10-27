@@ -21,9 +21,17 @@
 
   <!-- CSS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link rel="stylesheet" href="css/normalize2.css">
-  <link rel="stylesheet" href="css/skeleton-dark2.css">
-  <link rel="stylesheet" href="css/brands2.css">
+{{ "<!-- Newsletter Form Stylesheet -->" | safeHTML }}
+{{ $normalize2css := resources.Get "css/normalize2.css" | minify }}
+<link href="{{ $normalize2css.Permalink }}" rel="stylesheet" />
+	
+{{ "<!-- Newsletter Form Stylesheet -->" | safeHTML }}
+{{ $skeletondark2css := resources.Get "css/skeleton-dark2.css" | minify }}
+<link href="{{ $skeletondark2css.Permalink }}" rel="stylesheet" />
+	
+{{ "<!-- Newsletter Form Stylesheet -->" | safeHTML }}
+{{ $brands2css := resources.Get "css/brands2.css" | minify }}
+<link href="{{ $brands2css.Permalink }}" rel="stylesheet" />
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
