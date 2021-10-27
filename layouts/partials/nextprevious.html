@@ -2,7 +2,7 @@
       <div class="col-lg-10 offset-lg-1">
         <nav class="case-details-nav d-flex justify-content-between align-items-center">
           {{ if .PrevInSection }}
-          <div class="previous d-flex" align="left">
+          <div class="previous d-flex align-items-center">
             <div class="icon mr-3">
               <svg xmlns="http://www.w3.org/2000/svg" width="15.556" height="28.285" viewBox="0 0 15.556 28.285">
                 <g data-name="Group 1243" fill="#2d2d2d">
@@ -11,7 +11,7 @@
                 </g>
               </svg>
             </div>
-            <div class="content">
+            <div class="content text-left" align="left">
               <span class="small">Prev post</span>
               <h5 class="title"><a class="text-dark"
                   href="{{ .PrevInSection.Permalink }}">{{ .PrevInSection.Title }}</a></h5>
@@ -20,8 +20,8 @@
           {{ end }}
           
 {{ if .NextInSection }}
-          <div class="next d-flex" align="right">
-            <div class=" content text-right">
+          <div class="next d-flex align-items-center">
+            <div class=" content text-right" align="right">
               <span class="small">Next post</span>
               <h5 class="title">
                 <a class="text-dark" href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }}</a>
