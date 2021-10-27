@@ -45,6 +45,3 @@ With the fraud leading to the loss of huge sums of money from banks and other fi
 
 > ###### _If you are a regular internet user, guy in tech/cybersec, or you are bank/organization employee/executive i suggest you read these for solutions and more information:_ [_Kenya’s Cyber Insecurity_](https://ajulusthoughts.wordpress.com/2019/05/27/kenyas-cyber-insecurity/), [_Cybersecurity & Ethical Hacking Certifications_](https://ajulusthoughts.wordpress.com/2019/06/05/top-certifications-for-cybersecurity-and-ethical-hacking-enthusiasts/), [_Hacking/Cybersecurity/IT Jargon_](https://ajulusthoughts.wordpress.com/2019/06/07/hacker-cybersecurity-i-t-jargon-explained/), [_Public Services Portal IFMIS Hacked_](https://ajulusthoughts.wordpress.com/2019/06/03/public-services-portal-ifmis-hacked/), [_Kenya National Development Site Defaced_](https://ajulusthoughts.wordpress.com/2019/06/03/kenya-national-development-site-nditc-defaced-by-hackers/), [_Data Protection and Security Tips _](https://ajulusthoughts.wordpress.com/2020/01/27/basic-data-security/)_and _[_4 simple tips for security_](https://ajulusthoughts.wordpress.com/2020/02/14/4-simple-online-security-tips/)
 >
-> ###### Stephen Ajulu
-
-{{< subscribe email="alunje73@gmail.com" >}}
