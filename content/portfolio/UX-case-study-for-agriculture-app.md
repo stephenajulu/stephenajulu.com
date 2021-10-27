@@ -1,7 +1,7 @@
 ---
 title: UX Case Study for Agriculture App
 date: 2020-08-12T12:13:40+00:00
-thumbnail: images/portfolio/portfolio-4.png
+hero: images/portfolio/portfolio-4.png
 service: UX Design
 client: Jane Doe
 description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
