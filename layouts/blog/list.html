@@ -37,7 +37,7 @@
 			<div class="col-lg-4">
 				<div class="blog-page__item">
 					<div class="blog-page__item-thumb">
-						<img src="{{if .featureImage }}{{ .Params.featureImage | absURL }}else{{ .Params.hero | absURL }}{{end}}" alt="post-image">
+						<img src="{{if .Params.featureImage }}{{ .Params.featureImage | absURL }}else{{ .Params.hero | absURL }}{{end}}" alt="post-image">
 					</div>
 					<div class="blog-page__item-content bg-white">
 						<span class="small">{{ .PublishDate.Format "January 2, 2006" }}</span>
