@@ -67,10 +67,7 @@
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
 <!-- if featured image exists in file frontmatter, use for open graph data -->
-{{ if isset .Params "postImage" }}
-<meta property="og:image" content="{{ .Params.postImage | absURL }}">
-<!-- else if no image in frontmatter, and sections are not equal to articles or notes, then display image --> 
-{{ else }}
+{{ if isset .Params "hero" }}
 <meta property="og:image" content="{{ .Params.hero | absURL }}">
 {{ else }}  
 <meta property="og:image" content="https://stephenajulu.com/images/social.png">
@@ -89,8 +86,8 @@
 <meta property="twitter:description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ $.Site.Params.Description }}{{ end }}">
 <link rel="canonical" href="{{ .Permalink }}">
 <!-- if featured image exists in file frontmatter, use for twitter card -->
-{{ if isset .Params "featureImage" }}
-<meta property="twitter:image" content="{{ .Params.featureImage | absURL }}">
+{{ if isset .Params "hero" }}
+<meta property="twitter:image" content="{{ .Params.hero | absURL }}">
 <!-- else if no image in frontmatter, and sections are not equal to articles or notes, then display image --> 
 {{ else }}
 <meta property="twitter:image" content="https://stephenajulu.com/images/social.png">
@@ -106,8 +103,8 @@
 {{ with .PublishDate }}<meta itemprop="datePublished" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }} />{{ end}}
 {{ with .Lastmod }}<meta itemprop="dateModified" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }} />{{ end}}
 <meta itemprop="wordCount" content="{{ .WordCount }}">
-{{ if isset .Params "featureImage" }}
-<meta itemprop="image" content="{{ .Params.featureImage | absURL }}">
+{{ if isset .Params "hero" }}
+<meta itemprop="image" content="{{ .Params.hero | absURL }}">
 {{ else }}
 <meta itemprop="image" content="https://stephenajulu.com/images/social.png"/>
   {{ end }}
