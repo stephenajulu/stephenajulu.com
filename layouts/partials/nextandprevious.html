@@ -1,9 +1,9 @@
-<div style="display: inline;">
+<ul style="display: inline;list-style-type:none;">
 {{ if .PrevInSection }}
-              <div align="left">←<h5 class="title"><a class="text-dark" href="{{ .PrevInSection.Permalink }}">Previous Article</a></h5></div>
+              <li align="left">←<h5 class="title"><a class="text-dark" href="{{ .PrevInSection.Permalink }}">Previous Article</a></h5></li>
           {{ end }}
           
 {{ if .NextInSection }}
-              <div align="right">→<h5 class="title"><a class="text-dark" href="{{ .NextInSection.Permalink }}">Next Article</a></h5></div>
+              <li align="right">→<h5 class="title"><a class="text-dark" href="{{ .NextInSection.Permalink }}">Next Article</a></h5></li>
           {{ end }}
-</div>
+</ul>
