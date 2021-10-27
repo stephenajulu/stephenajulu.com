@@ -11,7 +11,7 @@
                 </g>
               </svg>
             </div>
-            <div class="content text-left" align="left" style="align:left;text-align:left;">
+            <div class="content text-left">
               <span class="small">Prev post</span>
               <h5 class="title"><a class="text-dark"
                   href="{{ .PrevInSection.Permalink }}">{{ .PrevInSection.Title }}</a></h5>
@@ -21,7 +21,7 @@
           
 {{ if .NextInSection }}
           <div class="next d-flex align-items-center">
-            <div class=" content text-right" align="right" style="align:right;text-align:right;">
+            <div class=" content text-right">
               <span class="small">Next post</span>
               <h5 class="title">
                 <a class="text-dark" href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }}</a>
