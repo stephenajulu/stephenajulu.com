@@ -1,0 +1,7 @@
+<div class="section narrow" align="center">
+{{ range (.GetTerms "tags") }}
+  <h6 class="section narrow" style="border: 1px solid #6166DC; width: auto; display: inline-block; text-align: center; margin: auto; padding: 0 5px 0; color: #6166DC; text-color: #6166DC; border-radius: 25px; margin-bottom: 10px;">
+    <a href="{{ .Permalink }}">{{ .Title | urlize }}</a>
+  </h6>&nbsp;
+{{ end }}
+</div>
