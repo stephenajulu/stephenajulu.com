@@ -46,6 +46,8 @@
           <div class="col-lg-12">
               <div class="singleBlog__content">
                   {{ .Content }}
+                  {{ partial "share.html" . }}
+                  {{ partial "nextprevious.html" . }}
                   {{ partial "comments.html" . }}
               </div>
           </div>
