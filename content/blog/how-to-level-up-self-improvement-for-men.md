@@ -46,7 +46,7 @@ I'm no physical fitness expert. These exercises are meant to be simple that you 
 
 I suggest reading 10 pages a day. Start with self-help books. I recommended some in a previous post.
 
-{{< articlepreview "/post/11-books-all-men-should-read" >}}
+{{< articlepreview "/blog/13-books-all-men-should-read-updated.md" >}}
 
 You can even try audiobooks and summaries. There's a guy on YouTube who makes great summaries: One Percent Better, search and try 'The Rational Male" summary.
 
