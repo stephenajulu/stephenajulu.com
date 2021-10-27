@@ -1,0 +1,144 @@
+<style>
+* {box-sizing: border-box;}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #CD2653;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+</style>
+
+
+<div class="container section narrow">
+  <form name="contact" data-netlify="true">
+    <label for="fname">Your Name</label>
+    <input type="text" id="name" name="name" placeholder="e.g. John Doe" required>
+    
+     <label for="fname">Your Comany</label>
+    <input type="text" id="companyname" name="companyname" placeholder="e.g. ABC Company">
+
+    <label for="fname">Your Email</label>
+    <input type="text" id="email" name="email" placeholder="e.g. you@email.com" required pattern="^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*$">
+
+    <label for="purpose">Purpose</label>
+    <select type="radio" id="purpose" name="purpose">
+      <option value="advertise">Advertise/Become a Sponsor🤝</option>
+      <option value="opinion">Voice an opinion 🗣</option>
+      <option value="opinion">Become an guest writer 😎</option>
+      <option value="feature">Feature us(Hooray!)🎉</option>
+      <option value="issue">Report an issue/bug 🙁🐛</option>
+      <option value="research">Request coverage on a topic 🤩</option>
+      <option value="legal">Copyright and Legal 👮‍♂️</option>
+      <option value="hi">Just saying hi 👋</option>
+      <option value="newsletter">Join Our Newsletter 📨</option>
+      <option value="other">Other 😃</option>
+    </select>
+    
+      <!-- Multiple Radios 
+<div class="form-group">
+  <label class="col-md-4 control-label" for="purpose">Purpose</label>
+<br>
+&nbsp;
+  <div class="col-md-4">
+  <div class="radio">
+    <label for="purpose-0">
+      <input type="radio" name="purpose" id="purpose-0" value="1" checked="checked">
+      Advertise/Become a Sponsor 🤝
+    </label>
+	</div>
+  <div class="radio">
+    <label for="purpose-1">
+      <input type="radio" name="purpose" id="purpose-1" value="2">
+      Become an guest writer 😎
+    </label>
+	</div>
+  <div class="radio">
+    <label for="purpose-2">
+      <input type="radio" name="purpose" id="purpose-2" value="3">
+      Voice an opinion 🗣
+    </label>
+	</div>
+  <div class="radio">
+    <label for="purpose-3">
+      <input type="radio" name="purpose" id="purpose-3" value="4">
+      Inquire about my services 💼
+    </label>
+	</div>
+  <div class="radio">
+    <label for="purpose-4">
+      <input type="radio" name="purpose" id="purpose-4" value="5">
+      Feature us(Hooray!) 🎉
+    </label>
+	</div>
+  <div class="radio">
+    <label for="purpose-5">
+      <input type="radio" name="purpose" id="purpose-5" value="6">
+      Report an issue/bug 🙁🐛
+    </label>
+	</div>
+  <div class="radio">
+    <label for="purpose-6">
+      <input type="radio" name="purpose" id="purpose-6" value="7">
+      Request coverage on a topic 🤩
+    </label>
+	</div>
+  <div class="radio">
+    <label for="purpose-7">
+      <input type="radio" name="purpose" id="purpose-7" value="8">
+      Copyright and Legal 👮‍♂️
+    </label>
+	</div>
+  <div class="radio">
+    <label for="purpose-8">
+      <input type="radio" name="purpose" id="purpose-8" value="9">
+      Just saying hi 👋
+    </label>
+	</div>
+  <div class="radio">
+    <label for="purpose-9">
+      <input type="radio" name="purpose" id="purpose-9" value="10">
+      Join Our Newsletter 📨
+    </label>
+	</div>
+  <div class="radio">
+    <label for="purpose-10">
+      <input type="radio" name="purpose" id="purpose-10" value="11">
+      Other 😃
+    </label>
+	</div>
+  </div>
+</div>-->
+ 
+    
+<br>
+    <label for="subject">Your Message</label>
+    <textarea id="subject" name="subject" placeholder="Write your message here(markdown supported).." style="height:200px"></textarea>
+
+    <input type="submit" value="Send">
+  </form>
+</div>
+

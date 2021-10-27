@@ -1,0 +1,19 @@
+{{$page := .Site.GetPage (.Get 0)}}
+<section id="articleNext" class="section nartrow" align="center" style="align:center; justify-content:center;">
+    <div class="next-articles-grid">
+        <div class="post-row" style="align:center; justify-content:center;">
+                <a href="{{ $page.RelPermalink }}" class="article-link" id="article-link-bigger">
+                    <div>
+                        <div class="image-container">
+                            <img src="{{ $page.Params.hero }}" class="article-image" alt="{{ $page.Title }}"/>
+                        </div>
+                        <div>
+                            <h2 class="article-title" align="center">
+                                {{ $page.Title }}
+                            </h2>
+                        </div>
+                    </div>
+                </a>
+        </div>
+    </div>
+</section>

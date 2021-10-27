@@ -1,0 +1,6 @@
+<audio controls style="width: 100%; margin-bottom: 20px">
+    {{ with .Get "ogg" }}<source src="{{ . }}" type="audio/ogg">{{ end }}
+    {{ with .Get "mp3" }}<source src="{{ . }}" type="audio/mpeg">{{ end }}
+    {{ with .Get "wav" }}<source src="{{ . }}" type="audio/wav">{{ end }}
+    Your browser does not support the audio element.
+</audio>

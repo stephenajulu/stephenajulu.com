@@ -73,6 +73,13 @@ keywords = "Product Design, UX Design, UI Design, Front-end Web Development, Web
 strapline = "Frontend Web Developer, Designer and Creator"
 location = "Nairobi, Kenya"
 creator = "stephenajulu"
+GithubEdit = "https://github.com/stephenajulu/ajulusthoughts2/edit/master/content/"
+monetization = "$ilp.uphold.com/GLrwmQrfDeU9"
+
+[adsense]
+client = "ca-pub-2099668045881016"
+inArticleSlot = "5485551778"
+BannerSlot = "8662937936"
 
 [author]
 name = "Stephen Ajulu"
@@ -113,6 +120,24 @@ weight = 4
 tag = "tags"
 category = "categories"
 series = "series"
+author = "authors"
+
+[related]
+  includeNewer = true
+  threshold = 0
+  toLower = false
+[[related.indices]]
+  name = 'keywords'
+  weight = 200
+[[related.indices]]
+  name = 'date'
+  weight = 10
+[[related.indices]]
+  name = 'tags'
+  weight = 50
+[[related.indices]]
+  name = 'categories'
+  weight = 10
   
 [outputs]
 home = [ "HTML", "RSS" ]
