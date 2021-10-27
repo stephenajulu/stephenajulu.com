@@ -116,31 +116,3 @@ Get a quote: [**info@owlsectechnologies.co.ke**](mailto:info@owlsectechnologies.
 Visit our website: [**owlsectechnologies.co.ke**](https://owlsectechnologies.co.ke)
 
 # **SOURCE:** [**AJULU'S THOUGHTS**](https://ajulusthoughts.wordpress.com/2020/03/31/building-a-beautiful-progressive-jamstack-blog-part-1/)
-
-<p>
-
-{{< subscribe email="ajulu@stephenajulu.com" >}}
-
-</p>
-
-{{< rawhtml >}}
-
-<p>
-
-<script src="https://utteranc.es/client.js"
-
-repo="stephenajulu/ajulusthoughts1"
-
-issue-term="pathname"
-
-label="Comment"
-
-theme="github-light"
-
-crossorigin="anonymous" async>
-
-</script>
-
-</p>
-
-{{< /rawhtml >}}
