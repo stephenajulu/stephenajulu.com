@@ -67,10 +67,12 @@
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
 <!-- if featured image exists in file frontmatter, use for open graph data -->
-{{ if isset .Params "featureImage" }}
-<meta property="og:image" content="{{ if .Params.postImage }}{{ .Params.postImage | absURL }}{{ else }}{{ .Params.hero | absURL }}{{ else }}{{ .Params.featureImage | absURL }}{{ end }}">
+{{ if isset .Params "postImage" }}
+<meta property="og:image" content="{{ .Params.postImage | absURL }}">
 <!-- else if no image in frontmatter, and sections are not equal to articles or notes, then display image --> 
 {{ else }}
+<meta property="og:image" content="{{ .Params.hero | absURL }}">
+{{ else }}  
 <meta property="og:image" content="https://stephenajulu.com/images/social.png">
 {{ end }}
 {{- if .IsPage }}
