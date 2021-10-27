@@ -1,8 +1,0 @@
-<div class="section narrow latestposts">
-  <ul>
-  {{ range first 5 (where site.RegularPages "Type" "post") }}
-    <li style="font-family: DM Serif Display; font-weight: 600;"><a href="{{ .RelPermalink }}">{{ .Title }}<sup style="font-size: 10px;">{{ .Date.Format "JAN 2" }}</sup></a></li>
-  {{ end }}
-    <li style="font-family: DM Serif Display; font-weight: 600;"><a href="/">All Posts</a></li>
-  </ul>
-</div>
