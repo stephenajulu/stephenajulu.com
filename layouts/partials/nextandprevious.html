@@ -1,10 +1,9 @@
-<div style="display: inline-block;">
+<div style="display: inline;">
 {{ if .PrevInSection }}
-              <div align="left">←<span class="small">Prev post</span><h5 class="title"><a class="text-dark" href="{{ .PrevInSection.Permalink }}">{{ .PrevInSection.Title | truncate 10 }}...</a></h5></div>
+              <div align="left">←<h5 class="title"><a class="text-dark" href="{{ .PrevInSection.Permalink }}">Previous Article</a></h5></div>
           {{ end }}
           
 {{ if .NextInSection }}
-              <div align="right">→<span class="small">Next post</span><h5 class="title"><a class="text-dark" href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title | truncate 10 }}...</a></h5></div>
-             
+              <div align="right">→<h5 class="title"><a class="text-dark" href="{{ .NextInSection.Permalink }}">Next Article</a></h5></div>
           {{ end }}
 </div>
