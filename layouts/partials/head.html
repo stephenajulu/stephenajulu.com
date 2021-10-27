@@ -112,6 +112,34 @@
 <meta itemprop="keywords" content="{{ if .IsPage}}{{ range $index, $tag := .Params.tags }}{{ $tag }},{{ end }}{{ else }}{{ range $plural, $terms := .Site.Taxonomies }}{{ range $term, $val := $terms }}{{ printf "%s," $term }}{{ end }}{{ end }}{{ end }}" />
 {{- end -}}
   
+     {{ if .IsHome }}
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "{{ .Site.Title }}",
+        "url": "{{ .Site.BaseURL }}",
+        "description": "{{ with .Params.Description }}{{ . }}{{ else }}{{ $.Site.Params.Description }}{{ end }}",
+        "thumbnailUrl": "https://stephenajulu.com/images/author.jpg"
+    }
+    </script>
+    {{ end }}
+  
+  {{ if .IsPage }}
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "WebPage",
+        "name": "{{ .Title }} | {{ .Site.Title }}",
+        "description": "{{ with .Params.Description }}{{ . }}{{ else }}{{ $.Site.Params.Description }}{{ end }}",
+        "publisher": {
+            "@type": "ProfilePage",
+            "name": "Stephen Ajulu"
+        }
+    }
+    </script>
+    {{ end }}
+  
 <!-- Google Search Console Verification -->
 <meta name="google-site-verification" content="c8lAsC8okuKcaCQHHrKqgMab0b9LUnE9JtCxSqaFJ8g" />
  
