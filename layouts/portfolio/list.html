@@ -36,7 +36,7 @@
         <div class="portfolio-item-grid">
           {{ range (where $.Site.RegularPages "Type" "portfolio") }}
           <div class="portfolio-item">
-            <img src="{{ .Params.thumbnail }}" class="portfolio-item-thumb" alt="portfolio-thumb" />
+            <img src="{{ .Params.hero }}" class="portfolio-item-thumb" alt="portfolio-thumb" />
             <div class="portfolio-item-content">
               <span>{{ .Params.service }}</span>
               <h3 class="mb-0">
