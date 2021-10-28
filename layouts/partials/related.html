@@ -1,12 +1,12 @@
 {{ $related := .Site.RegularPages.Related . | first 2 }}
 			{{ with $related }}
 <div class="row">
+	<h4>More Articles From {{ .Site.Title }}</h4>
 			{{ range . }}
-			<h4>More Articles From {{ .Site.Title }}</h4>
 			<div class="col-lg-4">
 				<div class="blog-preview__item">
 					<div class="blog-preview__item-thumb">
-						<a href="{{ .Permalink }}"><img src="{{ .Params.hero | absURL }}" alt="featurepost-image"></a>
+						<a href="{{ .Permalink }}"><img src="{{ .Params.hero }}" alt="featurepost-image"></a>
 					</div>
 					<div class="blog-preview__item-content bg-white">
 						<span class="small">{{ .PublishDate.Format "January 2, 2006" }}</span>
