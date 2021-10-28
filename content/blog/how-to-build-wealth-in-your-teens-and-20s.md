@@ -48,6 +48,8 @@ Invest immediately you get your income. I'd suggest you invest in index funds if
 
 Generally, I suggest you invest in stocks, cryptocurrencies, mutual funds, unit trusts, ETFs, NFTs, and others. Rule of thumb: Invest 30%(50% is great) of your income, if you can invest more, do it. Working on an ebook that will teach you more ways to invest and even simplify investing.
 
+{{< articlepreview "/blog/investment-opportunities" >}}
+
 ### 5. Get a job or build a business
 
 This is a no-brainer. Apply to jobs or build a business, even better: do both. You need as much money as possible. Don't be afraid to do "low caliber" jobs. If you can do multiple small jobs without burning out or experiencing degrading health, do it.
@@ -68,7 +70,7 @@ See a previous post on how you can become healthy.
 
 **Also Remember More Sun, More Fermented Foods, More Movement/Exercise.**
 
-{{< articlepreview "/post/mini-self-improvement-framework-for-everyone" >}}
+{{< articlepreview "/blog/mini-self-improvement-framework-for-everyone" >}}
 
 ### 8. Learn & build your skills
 
