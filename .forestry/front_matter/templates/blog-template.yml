@@ -9,11 +9,8 @@ fields:
   name: date
   label: date
 - type: file
-  name: featureImage
-  label: featureImage
-- type: file
-  name: postImage
-  label: postImage
+  name: hero
+  label: Hero
 - type: textarea
   name: description
   label: Description
