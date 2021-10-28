@@ -1,7 +1,8 @@
-{{ $related := .Site.RegularPages.Related . | first 2 }}
+{{ $related := .Site.RegularPages.Related . | first 3 }}
 			{{ with $related }}
 <div class="row">
 	<h4>Related Articles</h4>
+<br>
 			{{ range . }}
 			<div class="col-lg-4">
 				<div class="blog-preview__item">
