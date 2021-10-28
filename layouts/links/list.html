@@ -189,7 +189,7 @@
 	      
 	<!-- Blog Posts -->
 	{{ range first 3 (where $.Site.RegularPages "Type" "blog") }}
-        <a class="button button-default" href="{{ .Permalink }}" target="_blank" re="noopener">{{ .Title | truncate 20 }}</a>
+        <a class="button button-default" href="{{ .Permalink }}" target="_blank" re="noopener">{{ .Title | truncate 25 }}</a>
         <br>
 	{{ end }}
         
