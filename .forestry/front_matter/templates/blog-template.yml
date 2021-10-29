@@ -14,3 +14,5 @@ fields:
 - type: textarea
   name: description
   label: Description
+pages:
+- content/blog/metaverse-vr-ar-and-more.md
