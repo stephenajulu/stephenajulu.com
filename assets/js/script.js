@@ -90,8 +90,8 @@ $(document).ready(function () {
     infinite: false,
     slidesToShow: 3,
     slidesToScroll: 1,
-    dots: false,
-    arrows: true,
+    dots: true,
+    arrows: false,
     responsive: [
       {
         breakpoint: 992,
