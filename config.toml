@@ -9,6 +9,7 @@ enableGitInfo = true
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
+metaDataFormat = yaml
 
 # Main Menu
 [[menu.main]]
