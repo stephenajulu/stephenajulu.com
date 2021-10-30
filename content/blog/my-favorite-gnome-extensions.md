@@ -13,3 +13,5 @@ Hi there, it's been a while. Today I'll be sharing the top gnome extensions that
 4. [Hibernation Status Button](https://extensions.gnome.org/extension/755/hibernate-status-button/): Adds a Hibernate button in the Status menu. Using the Alt modifier, you can also select Hybrid Sleep instead.
 5. [Extension List](https://extensions.gnome.org/extension/3088/extension-list/): Simple gnome-shell extension manager in the top panel
 6. [WinTile](https://extensions.gnome.org/extension/1723/wintile-windows-10-window-tiling-for-gnome/): WinTile is a hotkey-driven window tiling system for GNOME that imitates the standard Win-Arrow keys of Windows 10, allowing you to maximize, maximize to sides or 1/4 sized to corner across a single or multiple monitors using just Super+Arrow.
+
+Next, I'll talk about the metaverse.
