@@ -5,6 +5,7 @@ hero = "/images/2021-10-30_11-44.png"
 title = "My Favorite Gnome Extensions"
 
 +++
+
 Hi there, it's been a while. Today I'll be sharing the top gnome extensions that I've liked since switching to Linux, specifically Zorin 16 OS.
 
 1. [Bluetooth Quick Connect](https://extensions.gnome.org/extension/1401/bluetooth-quick-connect/): Allows connecting to paired devices from the gnome control panel.
