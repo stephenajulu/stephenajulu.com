@@ -49,12 +49,8 @@ url = "https://stephenajulu.gumroad.com"
 weight = 1
 [[menu.sitemap]]
 name = "Latest Articles"
-url = "https://ajulusthoughts.stephenajulu.com"
+url = "https://stephenajulu.com/blog"
 weight = 2
-[[menu.sitemap]]
-name = "Newsletter"
-url = "https://stephenajulu.substack.com/subscribe"
-weight = 3
 
 [params]
 blogPageURL = "blog"
