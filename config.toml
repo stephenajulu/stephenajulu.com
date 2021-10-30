@@ -150,3 +150,6 @@ baseName = "feed"
 
 [permalinks]
 page = '/:title'
+
+[markup.goldmark.renderer]
+unsafe= true
