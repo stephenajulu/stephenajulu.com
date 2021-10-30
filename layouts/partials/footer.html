@@ -1,6 +1,5 @@
-{{ partial "newsletter2.html" . }}
 {{ partial "h-card.html" . }}
-{{ partial "contactButton.html" . }}
+{{ partial "newsletter2.html" . }}
 <section class="footer" id="contact">
 	<div class="footer__background_shape">
 		<svg viewBox="0 0 1920 79">
@@ -57,8 +56,8 @@
 					<h4 class="base-font">Address</h4>
 					{{ $address := .Site.Params.address }}
 					<ul class="fa-ul small">
-						<li class="mb-2"><a class="text-light" href="tel:{{ $address.phone }}"><span class="fa-li"><i
-										class="fa fa-phone"></i></span>{{ $address.phone }}</a></li>
+						<!--<li class="mb-2"><a class="text-light" href="tel:{{ $address.phone }}"><span class="fa-li"><i
+										class="fa fa-phone"></i></span>{{ $address.phone }}</a></li>-->
 						<li class="mb-2"><a class="text-light" href="mailto:{{ $address.email }}"><span class="fa-li"><i
 										class="fa fa-envelope"></i></span>{{ $address.email }}</a></li>
 						<li class="mb-2">
@@ -88,6 +87,7 @@
 			</div>
 		</div>
 	</div>
+{{ partial "contactButton.html" . }}
 </section>
 <script src="{{ "plugins/jQuery/jquery.min.js" | absURL }}"></script>
 <script src="{{ "plugins/bootstrap/bootstrap.min.js" | absURL }}"></script>
