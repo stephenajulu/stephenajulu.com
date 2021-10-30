@@ -11,8 +11,10 @@ categories:
 - linux
 - gnome
 - gnome extensions
-authors
+authors:
 - Stephen Ajulu
+
+
 ---
 
 Hi there, it's been a while. Today I'll be sharing the top gnome extensions that I've liked since switching to Linux, specifically Zorin 16 OS.
