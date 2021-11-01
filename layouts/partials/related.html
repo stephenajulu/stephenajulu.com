@@ -1,5 +1,4 @@
-{{ $related := .Site.RegularPages.Related . | first 3 }}
-{{ with $related }}
+{{ range (where site.RegularPages "Type" .Type).Related . | first 3 }}
 <h4>See Also</h4>
 <ul style="list-style-type: square;">
 	{{ range . }}
