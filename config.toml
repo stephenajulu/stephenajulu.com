@@ -121,20 +121,26 @@ author = "authors"
 
 [related]
   includeNewer = true
-  threshold = 0
+  threshold = 80
   toLower = false
 [[related.indices]]
   name = 'keywords'
-  weight = 200
+  weight = 50
+[[related.indices]]
+  name = "description"
+  weight = 30
 [[related.indices]]
   name = 'date'
   weight = 10
 [[related.indices]]
   name = 'tags'
-  weight = 50
+  weight = 30
 [[related.indices]]
   name = 'categories'
   weight = 10
+[[related.indices]]
+  name = "title"
+  weight = 20
   
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
