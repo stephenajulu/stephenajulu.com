@@ -1,5 +1,5 @@
 {{ range (where site.RegularPages "Type" .Type).Related . | first 3 }}
   {{ if .Params.hero }}
-    <a href="{{ .Permalink }}"><img src="{{ .Params.hero | absURL }}" alt="featurepost-image"></a>
+    <a href="{{ .Permalink }}">{{ .Title }}</a><br>
   {{ end }}
 {{ end }}
