@@ -1,4 +1,4 @@
-{{ range (where site.RegularPages "Type" .Type).Related | first 3 }}
+{{ range ( first 3 ( where .Site.Pages "Type" "blog" ).Related ) }}
 <h4>See Also</h4>
 <ul style="list-style-type: square;">
 	{{ range . }}
@@ -6,4 +6,3 @@
 	{{ end }}
 </ul>
 {{ end }}
-<!-- {{ range ( first 3 ( where .Site.Pages "Type" "blog" ).Related ) }} -->
