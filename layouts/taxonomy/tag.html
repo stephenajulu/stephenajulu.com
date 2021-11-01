@@ -1,0 +1,20 @@
+<div class="container">
+<div class="row">
+			{{ range .Data.Pages }}
+			<div class="col-lg-4">
+				<div class="blog-preview__item">
+					<div class="blog-preview__item-thumb">
+						<a href="{{ .Permalink }}"><img src="{{ .Params.hero | absURL }}" alt="featurepost-image" width="261px" height="147px"></a>
+					</div>
+					<div class="blog-preview__item-content bg-white">
+						<span class="small">{{ .PublishDate.Format "January 2, 2006" }}</span>
+						<h5 class="mb-0">
+							<a class="text-dark" href="{{ .Permalink }}">{{ .Title }}</a>
+						</h5>
+					</div>
+				</div>
+			</div>
+			{{ end }}
+
+		</div>
+</div>
