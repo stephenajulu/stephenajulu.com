@@ -46,14 +46,14 @@
           <div class="col-lg-12">
               <div class="singleBlog__content">
                   {{ .Content }}
+              <br>
+                  {{ partial "related2.html" . }}
               </div>
             
               <div align="center">{{ partial "share.html" . }}</div>
-            <div class="extras">
+            <div class="extras container">
                 <br>
                   {{ partial "nextandprevious.html" . }}
-              <br>
-                  {{ partial "related2.html" . }}
                 <hr>
                   {{ partial "comments.html" . }}
             </div>
