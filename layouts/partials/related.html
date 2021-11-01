@@ -1,4 +1,5 @@
 {{ $related := (where (.Site.RegularPages.Related .) "Type" "blog") }}
+{{ with $related }}
 <h5>See Also</h5>
 <ul style="list-style-type: square;">
 	{{ range first 3  $related }}
