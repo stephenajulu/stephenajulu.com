@@ -46,9 +46,8 @@
           <div class="col-lg-12">
               <div class="singleBlog__content">
                   {{ .Content }}
-                  {{ partial "tags.html" . }}
-              <br>
                   {{ partial "related.html" . }}
+                  {{ partial "tags.html" . }}
               </div>
             
               <div align="center">{{ partial "share.html" . }}</div>
