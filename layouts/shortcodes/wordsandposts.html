@@ -1,0 +1,8 @@
+{{ $scratch := newScratch }}
+{{ range (where .Site.RegularPages "Type" "in" (slice "blog")) }}
+{{ $scratch.Add "fullwordcount" .WordCount }}
+{{ end }}
+
+### Info
+
+{{ len (where .Site.RegularPages "Section" "=" "blog") }} posts ( {{ $scratch.Get "fullwordcount" | lang.NumFmt 0 }}words ) have been published on StephenAjulu.com.
