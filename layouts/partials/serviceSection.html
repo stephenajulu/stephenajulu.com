@@ -51,13 +51,13 @@
                                 </svg>
                             </div>
                             <div class="icon">
-                                <img src=" {{ .image | absURL }} " alt="ui-ux">
+                                <img src=" {{ .image | absURL }} " alt="ui-ux" width="103.93">
                             </div>
                         </div>
                         <div class="mt-5">
                             {{ .content | markdownify }}
                             <br>
-                            <a class="see-more-btn" href="{{ .link | absURL }}">Learn More</a>
+                            <a class="see-more-btn" href="{{ .link | absURL }}">→</a>
                         </div>
                     </div>
                     {{ end }}
