@@ -3,6 +3,6 @@
 {{ $scratch.Add "fullwordcount" .WordCount }}
 {{ end }}
 
-#### A liitle bit of info
+#### Here's a litle bit of info:
 
 {{ len (where .Site.RegularPages "Section" "=" "blog") }} posts ({{ $scratch.Get "fullwordcount" | lang.NumFmt 0 }}words) have been published on [Stephen Ajulu](https://stephenajulu.com)
