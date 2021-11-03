@@ -9,6 +9,6 @@ button1Name: Hire me
 button2Name: Download CV
 button1Target: contact
 button2Target: documents/cv.docx
-image: images/6.jpg
+#image: images/6.jpg
 subtitle: ''
 title2: ''
