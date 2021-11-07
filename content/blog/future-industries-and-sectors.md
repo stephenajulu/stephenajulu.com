@@ -50,7 +50,7 @@ description: Here are the industries and sectors that are going to boom or are a
  5. Virtual, Augmented, and Mixed Reality
  6. Metaverse
  7. Cryptocurrencies
- 8. Decentralized Manufacturing
+ 8. Decentralized Manufacturing/Home-based Manufacturing
  9. Natural Plant Medications and Supplements(Including microdose psychedelic and THC/CBD therapy)
 10. Decentralized Finance
 11. Biotechnology
