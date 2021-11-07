@@ -27,5 +27,6 @@ fields:
   default: []
   label: Tags
 pages:
+- content/blog/future-industries-and-sectors.md
 - content/blog/metaverse-vr-ar-and-more.md
 - content/blog/my-favorite-gnome-extensions.md
