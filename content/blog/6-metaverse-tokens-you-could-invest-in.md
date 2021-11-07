@@ -40,7 +40,7 @@ tags:
 - nft
 - etf
 title: 6 Metaverse Tokens You Could Invest In
-date: 2021-11-07T15:47:34+03:00
+date: 2021-11-07T15:47:34.000+03:00
 hero: "/images/metaverse-1200x900.jpg"
 description: Here Are 6 Metaverse Tokens You Could Invest In
 
@@ -127,4 +127,4 @@ Think of the Metaverse Index token as a metaverse ETF but for the crypto markets
 
 ![](https://trustwallet.com/assets/images/blog/7-metaverse-tokens-you-should-know-about-7.png)
 
-Source: [7 Metaverse Tokens](https://trustwallet.com/blog/7-metaverse-tokens-you-should-know-about)
+Source: [7 Metaverse Tokens By Trust Wallet Blog](https://trustwallet.com/blog/7-metaverse-tokens-you-should-know-about)
