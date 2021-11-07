@@ -79,8 +79,6 @@ Users can purchase LAND on the platform using MANA. Besides being used to purcha
 
 MANA’s total supply is fixed at 2.6 billion MANA. That means that there will never be more than 2.6 billion MANA at any given time.
 
-![](https://trustwallet.com/assets/images/blog/7-metaverse-tokens-you-should-know-about-4.png)
-
 ### Axie Infinity (AXS)
 
 Axie Infinity is an NFT-based online video game that uses the Ethereum-based digital tokens **AXS** and SLP. In the play-to-earn game, players breed, raise, and battle their digital pets known as Axies. The Axie Infinity game uses the governance token AXS.
@@ -88,8 +86,6 @@ Axie Infinity is an NFT-based online video game that uses the Ethereum-based dig
 Token holders are able to vote and shape the direction of the game world. This is different from traditional games, where the game developers make all the decisions. AXS owners are not only able to stake their tokens and earn more, but they are also able to vote for different governance proposals.
 
 The Axie universe also uses the Smooth Love Potion (SLP) token. The SLP token is primarily used for breeding purposes. Players can earn the SLP token by winning adventures and battles in the game. The main difference between the SLP and AXS token is that it’s not a governance token. Hence, it’s not used to vote. The AXS token has a total supply of 270 million.
-
-![](https://trustwallet.com/assets/images/blog/7-metaverse-tokens-you-should-know-about-3.png)
 
 ### Enjin Coin (ENJ)
 
@@ -99,15 +95,11 @@ NFTs minted within the Enjin environment are directly backed by **ENJ**. ENJ is 
 
 Additionally, Enjin recently raised close to $19 million that will be used to build Polkadot-based blockchain for NFTs. ENJ token has a maximum supply of 1 billion tokens.
 
-![](https://trustwallet.com/assets/images/blog/7-metaverse-tokens-you-should-know-about-5.png)
-
 ### The Sandbox (SAND)
 
 With a maximum supply of 3 billion, **SAND** is another token that should be on your metaverse radar. The Sandbox is a virtual world that, like most platforms on this guide, is built on the Ethereum blockchain.
 
 On the platform, players are able to build, monetize, and own their gaming experience. The platform uses the SAND token, which is an ERC-20 utility token that is used for governance, staking, and transfers.
-
-![](https://trustwallet.com/assets/images/blog/7-metaverse-tokens-you-should-know-about-6.png)
 
 ### Star Atlas (ATLAS)
 
@@ -124,7 +116,5 @@ The **Metaverse Index (MVI) token** is another interesting example of a metavers
 With the MVI token, owners are able to get exposure to a wide variety of tokens from various crypto projects that encompass sectors like online gaming, NFTs, and virtual worlds.
 
 Think of the Metaverse Index token as a metaverse ETF but for the crypto markets. The Metaverse Index token has a maximum supply of 39,602 tokens.
-
-![](https://trustwallet.com/assets/images/blog/7-metaverse-tokens-you-should-know-about-7.png)
 
 Source: [7 Metaverse Tokens By Trust Wallet Blog](https://trustwallet.com/blog/7-metaverse-tokens-you-should-know-about)
