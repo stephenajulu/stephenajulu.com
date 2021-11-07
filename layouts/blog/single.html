@@ -12,7 +12,7 @@
             <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
           </ol>
         </nav>
-        <span class="small">{{ .PublishDate.Format "January 2, 2006" }}</span>
+        <span class="small">{{ .PublishDate.Format "January 2, 2006" }}</span><br />
         {{ range (.GetTerms "authors") }}<span class="small"><a href="{{ .Permalink }}">{{ .Title }}</a></span>{{ end }}
       </div>
     </div>
