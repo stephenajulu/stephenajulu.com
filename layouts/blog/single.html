@@ -13,6 +13,7 @@
           </ol>
         </nav>
         <span class="small">{{ .PublishDate.Format "January 2, 2006" }}</span>
+        {{ range (.GetTerms "authors") }}<span class="small"><a href="{{ .Permalink }}">{{ .Title }}</a></span>{{ end }}
       </div>
     </div>
   </div>
