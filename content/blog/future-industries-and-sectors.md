@@ -57,6 +57,7 @@ description: Here are the industries and sectors that are going to boom or are a
 12. Neurotechnology (Think Neuralink or Fully Immersive VR)
 13. Nanotechnology
 14. Space Technology
+15. Cloud Computing
 
 Science Fiction is slowly becoming non-fiction
 
