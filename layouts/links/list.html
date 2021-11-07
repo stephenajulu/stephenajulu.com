@@ -100,20 +100,20 @@
         
 	<!-- Blog Posts -->
 	{{ range first 1 (where $.Site.RegularPages "Type" "blog") }}
-        <a class="button button-default" href="{{ .Permalink }}" target="_blank" re="noopener">{{ .Title | truncate 30 }}</a>
+        <a class="button button-default" href="{{ .Permalink }}" target="_blank" re="noopener" title="{{ .Title }}">My Latest Article</a>
         <br>
 	{{ end }}
 	      
         <!-- Personal Website -->
-        <a class="button button-default" href="https://stephenajulu.com" target="_blank" re="noopener"><img class="icon" src="icons/website.svg" alt="Website Icon">My Website</a>
+        <a class="button button-default" href="https://stephenajulu.com" target="_blank" re="noopener"><img class="icon" src="icons/website.svg" alt="Website Icon">Website</a>
         <br>
         
         <!-- Blog -->
-        <a class="button button-default" href="https://stephenajulu.com/blog" target="_blank" re="noopener"><img class="icon" src="icons/blog.svg" alt="Blog Icon">Latest Articles</a>
+        <a class="button button-default" href="https://stephenajulu.com/blog" target="_blank" re="noopener"><img class="icon" src="icons/blog.svg" alt="Blog Icon">Blog</a>
         <br>
         
         <!-- Store -->
-        <a class="button button-default" href="https://stephenajulu.gumroad.com" target="_blank" re="noopener"><img class="icon" src="icons/shop.svg" alt="Shop Icon">My Shop</a>
+        <a class="button button-default" href="https://stephenajulu.gumroad.com" target="_blank" re="noopener"><img class="icon" src="icons/shop.svg" alt="Shop Icon">Shop</a>
         <br>
         
         <!-- Newsletter -->
@@ -194,7 +194,7 @@
 	      
 	<!-- Blog Posts -->
 	{{ range first 3 (where $.Site.RegularPages "Type" "blog") }}
-        <a class="button button-default" href="{{ .Permalink }}" target="_blank" re="noopener">{{ .Title | truncate 25 }}</a>
+        <a class="button button-default" href="{{ .Permalink }}" target="_blank" re="noopener">{{ .Title | truncate 30 }}</a>
         <br>
 	{{ end }}
         
