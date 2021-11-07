@@ -58,6 +58,7 @@ description: Here are the industries and sectors that are going to boom or are a
 13. Nanotechnology
 14. Space Technology
 15. Cloud Computing
+16. Web3/Decentralized Web
 
 Science Fiction is slowly becoming non-fiction
 
