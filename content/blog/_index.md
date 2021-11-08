@@ -1,5 +1,5 @@
 ---
-title: Stephen Ajulu's Articles
+title: Stephen Ajulu's Blog
 breadcrumb: Blog
 description: Welcome to Stephen Ajulu's blog, where we talk about all kinds of tech, cybersecurity, lifestyle, finance, cryptocurrencies, science fiction and more.
 ---
