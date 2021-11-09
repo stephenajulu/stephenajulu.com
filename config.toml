@@ -94,13 +94,17 @@ icon = "fa-twitter-square"
 url = "https://twitter.com/stephenajulu"
 weight = 2
 [[params.social]]
+icon = "fa-instagram"
+url = "https://instagram.com/stephenajulu"
+weight = 3
+[[params.social]]
 icon = "fa-linkedin-square"
 url = "https://www.linkedin.com/in/stephenajulu"
-weight = 3
+weight = 4
 [[params.social]]
 icon = "fa-github-square"
 url = "https://www.github.com/stephenajulu"
-weight = 4
+weight = 5
 
 [taxonomies]
 tag = "tags"
