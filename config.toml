@@ -105,6 +105,10 @@ weight = 4
 icon = "fa-github-square"
 url = "https://www.github.com/stephenajulu"
 weight = 5
+[[params.social]]
+icon = "fa-rss-square"
+url = "https://stephenajulu.com/feed.xml"
+weight = 6
 
 [taxonomies]
 tag = "tags"
