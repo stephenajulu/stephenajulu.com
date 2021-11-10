@@ -100,7 +100,7 @@
         
 	<!-- Blog Posts -->
 	{{ range first 1 (where $.Site.RegularPages "Type" "blog") }}
-        <a class="button button-default" href="{{ .Permalink }}" target="_blank" re="noopener" title="{{ .Title }}">My Latest Article</a>
+        <a class="button button-default" href="{{ .Permalink }}" target="_blank" re="noopener" title="{{ .Title }}">Latest Article</a>
         <br>
 	{{ end }}
 	      
