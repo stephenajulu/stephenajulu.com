@@ -38,24 +38,6 @@
             <p>{{ .PublishDate.Format "January 2, 2006" }}</p>
           </div>
         </div>
-        <div class="row mb-5">
-          <div class="col-lg-6">
-            <div class="case-details-service">
-              <h3>Challenge</h3>
-              <p>
-                {{ .Params.challenge }}
-              </p>
-            </div>
-          </div>
-          <div class="col-lg-6">
-            <div class="case-details-service">
-              <h3>Solution</h3>
-              <p>
-                {{ .Params.solution }}
-              </p>
-            </div>
-          </div>
-        </div>
         <div class="case-details-thumb mb-5">
           <img src="{{ .Params.hero | absURL }}" alt="case-details" />
         </div>
