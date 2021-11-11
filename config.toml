@@ -21,17 +21,21 @@ name = "About"
 url = "#about"
 weight = 2
 [[menu.main]]
-name = "Shop"
-url = "/store"
+name = "Portfolio"
+url = "/portfolio"
 weight = 3
 [[menu.main]]
 name = "Blog"
 url = "/blog"
 weight = 4
 [[menu.main]]
+name = "Shop"
+url = "/store"
+weight = 5
+[[menu.main]]
 name = "Contact"
 url = "/contact"
-weight = 5
+weight = 6
 
 
 # Sitemap Menu
@@ -45,7 +49,7 @@ weight = 1
 blogPageURL = "blog"
 servicesPageURL = "services"
 storePageURL = "store"
-newsletterPageURL = "newsletter"
+portfolioPageURL = "portfolio"
 contactLink = "contact"
 linkslink = "links"
 copyright = "Stephen Ajulu"
