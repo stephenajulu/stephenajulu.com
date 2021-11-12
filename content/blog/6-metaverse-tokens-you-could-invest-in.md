@@ -118,3 +118,9 @@ With the MVI token, owners are able to get exposure to a wide variety of tokens 
 Think of the Metaverse Index token as a metaverse ETF but for the crypto markets. The Metaverse Index token has a maximum supply of 39,602 tokens.
 
 Source: [7 Metaverse Tokens By Trust Wallet Blog](https://trustwallet.com/blog/7-metaverse-tokens-you-should-know-about)
+
+To buy any of these cryptocurrencies I suggest you use Binance.
+
+Binance is a cryptocurrency exchange that is currently the largest exchange in the world in terms of the daily trading volume of cryptocurrencies.
+
+#### Register by visiting this link: [**Binance**](https://accounts.binance.com/en/register?ref=CL2JFAB6)
