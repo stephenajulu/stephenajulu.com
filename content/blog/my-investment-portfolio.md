@@ -67,6 +67,8 @@ Starting up with stocks, mutual funds, crypto, and finally, my future "to invest
 
 #### Profit: +9,029
 
+#### Time Frame: 7 Months
+
 ### My "To Invest In" List
 
 **Stocks**: MTN Uganda, Safaricom, Equity, Remaining NSE 25 Share Index, Vanguard 500 Index Fund(US), ABSA NewGold ETF, Facebook/Meta(US), Google/Alphabet(US),  and Tesla(US)
