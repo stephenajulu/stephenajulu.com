@@ -71,7 +71,7 @@ Starting up with stocks, mutual funds, crypto, and finally, my future "to invest
 
 ### My "To Invest In" List
 
-**Stocks**: MTN Uganda, Safaricom, Equity, Remaining NSE 25 Share Index, Vanguard 500 Index Fund(US), ABSA NewGold ETF, Facebook/Meta(US), Google/Alphabet(US),  and Tesla(US)
+**Stocks**: MTN Uganda, Safaricom, Equity Bank, Kenya Commercial Bank, B.O.C, Kenya, Centum, Total Energies, NSE, The Remaining NSE 25 Share Index, Vanguard 500 Index Fund(US), ABSA NewGold ETF, Facebook/Meta(US), Google/Alphabet(US),  and Tesla(US)
 
 **Cryptocurrencies**: More Ethereum, Decentraland, Axie Infinity, Enjin Coin, Metaverse Index Token, Chainlink, Loopring, Polkadot, Solana, Polygon/Mantic, Illuvium, and Veechain
 
