@@ -29,7 +29,7 @@ Hi, how are you?
 
 Today I'll be revealing my investment portfolio in a bid to encourage young people in their teens, twenties, and thirties to invest.
 
-Starting up with my stock portfolio then mutual fund, then crypto and finally I'll show you what I am eyeing and currently researching.
+Starting up with stocks, mutual funds, crypto, and finally, my future "to invest in" list.
 
 ### Current Stock Portfolio
 
