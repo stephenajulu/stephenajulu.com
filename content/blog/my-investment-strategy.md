@@ -17,7 +17,7 @@ tags:
 - real estate
 - real estate investment trust
 title: My Investment Strategy
-date: 2021-11-13T12:24:00+03:00
+date: 2021-11-13T12:24:00.000+03:00
 hero: "/images/adeolu-eletu-unrkg2jh1j0-unsplash.jpg"
 description: Here's my investment strategy and how i diversify
 
@@ -38,6 +38,8 @@ I currently don't own any real estate investments aside from Stanlib Fahari I-RE
 
 I'm also looking forward to buying Ugandan and American stocks soon, so index funds will be joining the list in which I'll allocate 20% and then move a few of the others down.
 
+Aside from these, I am planning to buy ETFs like the ABSA NewGold ETF and more.
+
 I am very interested in the crypto market so that percentage isn't likely to change anytime soon. The reason for this is as I mention in my previous post which I'll link down below. Crypto has been my "**golden goose**" out of all my investments crypto has brought me the **highest returns on investment** and as such I will stick with it for a while. To top this off the crypto market is still growing. Then there are the **metaverse crypto tokens** that are growing as well. So I believe crypto will remain my golden goose unless something else brings in more.
 
 I'd like to make myself clear, every investment listed above aside from Mutual Funds will be held long-term for ATLEAST 6 months and ATMOST 30 years.
@@ -52,6 +54,8 @@ I use **Genghis Capital** for Kenyan Stocks(They also have a money market mutual
 
 Note: I haven't listed savings, retirement funds, life insurance, and the likes, simply because they don't belong in this category. If you'd like me to talk about them kindly comment down below.
 
+My plan is to live solely on investments. 
+
 That's it for today.
 
 Hope you have a great one!
@@ -59,8 +63,6 @@ Hope you have a great one!
 Quote of today
 
 > Saving is puting your money to rest, investing is making your money work for you even while you are asleep
-
-#### **NOTE:** People who follow guides like this(even from "professionals") without doing their own research are "fools". No one knows the best thing for you to invest in. All we provide are recommendations. Read, learn then do your own research.
 
 ##### Additional Resources
 
