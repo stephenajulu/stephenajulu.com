@@ -2,9 +2,9 @@
 enable: true
 topTitle: About
 title: "## About me"
-content: Hi! I'm Stephen, a Frontend Web Developer, Designer and Creator. I'm currently freelancing but I am open for work. I spend
-  most of my days designing/building things(websites, products) at [Uravity](https://uravity.netlify.app), writing articles at [Ajulu's Thoughts](https://ajulusthoughts.stephenajulu.com),
-  and creating [products](https://stephenajulu.com/store). I'm interested in Tech, Design, Blockchain, AI, and Cybersecurity. 
+content: Hi! I'm Stephen, a Frontend Web Developer, Graphic Designer and Creator. I'm currently building *Julz Insight* while pursuing Information Technology but I am open for work. I spend
+  most of my days creating things(websites, products, brands), writing [articles](https://stephenajulu.com/blog),
+  and selling [products](https://stephenajulu.com/store). I have profound interest in Technology, Design, Blockchain, Artificial Intelligence, and Cybersecurity. My other areas of interest are in JAMstack, Frontend Web Development and Human Computer Interactions.
 button1Name: Hire me
 button2Name: Download CV
 button1Target: contact
