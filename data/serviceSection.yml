@@ -8,32 +8,36 @@ service:
   - content: >
       #### Web Development & Management
       
-      I create amazing-looking and responsive websites that evolve your users’ experience.
+      I create fast and responsive websites that evolve your users’ experience and lead to engagement.
     image: images/service/webundraw.svg
     link: services/web-development/
   - content: >
       #### Graphic Design & Branding
-
+    
+      I create amazing designs such as posters, logos, social media posts, ADs, wallpapers and more.
     image: images/service/graphicbrandingundraw.svg
     link: #
   - content: >
       #### Computer, Laptop and Accessories Supply
       
-      I supply new and refurbished computers, laptops, and their respective accessories. Quality guarenteed. Kenya only.
+      I supply new and refurbished computers, laptops, and their respective accessories. Quality guaranteed. Kenya only.
     image: images/service/computersupplyundraw.svg
     link: services/computer-supply/
   - content: >
       #### Content Creation & Management
 
+      I can create content that evoke the reader's emotions on the topic all while being concise, clear and creative. The 5 C's actualized!
     image: images/service/contentundraw.svg
     link: #
   - content: >
       #### Web Performance & Search Engine Optimization
 
+      I can make your website even faster and more search engine optimized therefore guarantee more traffic, sales and engagement
     image: images/service/seoundraw.svg
     link: #
   - content: >
       #### I.T & General Consultation
 
+      With my years of experience coupled with my unwavering enthusiasim for technology, I can give specialised advice and help you solve your problems creatively.
     image: images/service/consultationundraw.svg
     link: #
