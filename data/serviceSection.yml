@@ -8,36 +8,36 @@ service:
   - content: >
       #### Web Development & Management
       
-      I create fast and responsive websites that evolve your users’ experience and lead to engagement. I can also manage and tweak existing websites e.g want to display google ads, i can do that!
+      I create fast and responsive websites that evolve your users’ experience and lead to engagement. I can also do more!
     image: images/service/webundraw.svg
     link: services/web-development/
   - content: >
       #### Graphic Design & Branding
     
-      I create amazing designs such as posters, logos, social media posts, ADs, wallpapers and more. I can also refine existing designs e.g make them higher resolution or more mordern
+      I create amazing designs such as posters, logos, social media posts, ADs, wallpapers and more. I can also do more!
     image: images/service/graphicbrandingundraw.svg
     link: #
   - content: >
       #### Computer, Laptop and Accessories Supply
       
-      I supply new and refurbished computers, laptops, and their respective accessories. Quality guaranteed. Kenya only. I also offer free 24 year basic maintenance and repair on all units bought from me.
+      I supply new and refurbished computers, laptops, and their respective accessories. I can also supply more!
     image: images/service/computersupplyundraw.svg
     link: #
   - content: >
       #### Content Creation & Management
 
-      I can create content that evoke the reader's emotions on the topic all while being concise, clear and creative. The 5 C's actualized! I can also edit content. To see my work, visit my blog and read some of my articles.
+      I can create content that evoke the reader's emotions on the topic all while being concise, clear and creative. I can also create more
     image: images/service/contentundraw.svg
     link: #
   - content: >
       #### Web Performance & Search Engine Optimization
 
-      I can make your website even faster and more search engine optimized therefore guarantee more traffic, sales and engagement. I can also manage your social media account and provide additional services where needed.
+      I can make your website even faster and more search engine optimized therefore guarantee more traffic, sales and engagement. I can also do more.
     image: images/service/seoundraw.svg
     link: #
   - content: >
       #### I.T & General Consultation
 
-      I have been in tech for 10 years and have been alive for 26. With these years of experience coupled with my unwavering enthusiasim for technology and life, I can give specialised advice and help you solve your problems creatively.
+      With my years of experience coupled with my unwavering enthusiasim for technology, I can give specialised advice. I can also do more.
     image: images/service/consultationundraw.svg
     link: #
