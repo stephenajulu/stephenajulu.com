@@ -17,11 +17,11 @@ service:
     image: images/service/graphicbrandingundraw.svg
     link: #
   - content: >
-      #### UI/UX Web Design
+      #### Computer, Laptop and Accessories Supply
       
-      Smart UX and UI design allow the creation of unique and good-looking apps that are a pleasure to use.
-    image: images/service/designundraw.svg
-    link: services/ui-ux-web-design/
+      I supply new and refurbished computers, laptops, and their respective accessories. Quality guarenteed. Kenya only.
+    image: images/service/computersupplyundraw.svg
+    link: services/computer-supply/
   - content: >
       #### Content Creation & Management
 
