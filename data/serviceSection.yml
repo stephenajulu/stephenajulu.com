@@ -22,7 +22,7 @@ service:
       
       I supply new and refurbished computers, laptops, and their respective accessories. Quality guaranteed. Kenya only. I also offer free 24 year basic maintenance and repair on all units bought from me.
     image: images/service/computersupplyundraw.svg
-    link: services/computer-supply/
+    link: #
   - content: >
       #### Content Creation & Management
 
