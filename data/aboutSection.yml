@@ -2,7 +2,7 @@
 enable: true
 topTitle: About
 title: "## About me"
-content: Hi! I'm Stephen Ajulu, a Frontend Web Developer, Graphic Designer and Creator. I build things, write [articles](https://stephenajulu.com/blog), and sell [products](https://stephenajulu.com/store). I have a profound interest in Technology and Design. I also love to solve problems. Contact me to learn more about my services and what I can do for you.
+content: Hi! I'm Stephen Ajulu, a Frontend Web Developer, Graphic Designer and Creator. I build things(websites, logos, posters, brands, experiences), write [articles](https://stephenajulu.com/blog), and sell [products](https://stephenajulu.com/store). I have a profound interest in Technology and Design. I also love to solve problems. Contact me to learn more about my services and what I can do for you.
 button1Name: Let's Talk
 button2Name: Download CV
 button1Target: contact
