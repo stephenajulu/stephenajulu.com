@@ -16,7 +16,7 @@ tags:
 - self mastery
 title: The New 1% Elite
 date: 2021-11-19T11:08:00+03:00
-hero: "/images/my-post-1.png"
+hero: "/images/helena-lopes-uze35tk5uoa-unsplash.jpg"
 description: Here are the new 1% elite members of society that are silently taking
   over the world. Are you one of them? or Are you striving to become one of them?
   If not, you should!
