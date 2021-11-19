@@ -3,13 +3,14 @@ languageCode = "en"
 paginate = 9
 enableEmoji = true
 title = "Stephen Ajulu"
-rssLimit = 25
+rssLimit = 30
 enableRobotsTXT = true
 enableGitInfo = true
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 metaDataFormat = "yaml"
+
 
 # Main Menu
 [[menu.main]]
@@ -21,7 +22,7 @@ name = "About"
 url = "#about"
 weight = 2
 [[menu.main]]
-name = "Work"
+name = "Portfolio"
 url = "#portfolio"
 weight = 3
 [[menu.main]]
@@ -53,19 +54,21 @@ footerLogo = "images/site-navigation/signaturewhite (Custom).png" #footerLogo = 
 formaction = "thankyou"
 logo = "images/site-navigation/logo2.svg"
 featureImage = "images/social.png"
-description = "Hi there! My name is Stephen Ajulu, I'm a Frontend Web Developer, Designer & Creator, focused on building impactful products, apps, brands, websites and experiences. Contact me now to request a service, book a consultation or hire me!"
+description = "Hi! I'm Stephen Ajulu, a Web Developer, Designer, & Creator, focused on building impactful products, brands, websites, and solutions. Contact me to request a service, book a consultation or support my problem-solving endeavors"
 monetization = "$ilp.uphold.com/GLrwmQrfDeU9"
 author = "Stephen Ajulu"
-keywords = "Stephen Ajulu, Ajulu, Product Design, UX Design, UI Design, Front-end Web Development, Web Design, Hugo, JAMstack, Small businesses, Automation, Typography, Technology, Design, Cyber Security, Digital Products, Apps, Stephen Ajulu, Ajulu, Blog, Ajulu's Thoughts"
-strapline = "Web Developer, Designer and Creator"
+keywords = "Stephen Ajulu, Ajulu, Product Design, Front-end Web Development, Web Design, Hugo, JAMstack, Small businesses, Typography, Technology, Design, Cyber Security, Digital Products, Apps, Blog, Ajulu's Thoughts, Problem Solving, Solutions, Sustainability, Innovation"
+strapline = "Web Developer, Designer, Creator & Entrepreneur"
 location = "Nairobi, Kenya"
 creator = "stephenajulu"
 GithubEdit = "https://github.com/stephenajulu/stephenajulu.com7/edit/master/content/"
+
 
 [adsense]
 client = "ca-pub-2099668045881016"
 inArticleSlot = "5485551778"
 BannerSlot = "8662937936"
+
 
 [author]
 name = "Stephen Ajulu"
@@ -75,14 +78,13 @@ facebook = "https://facebook.com/stephenajulu"
 github = "https://github.com/stephenajulu"
 linkedin = "https://linkedin.com/in/stephenajulu"
 
-# Enable Emojis
-enableEmoji = true
 
 [params.address]
 address = "Nairobi, Kenya."
 email = "alunje73@gmail.com"
 openingHours = "Contact me between 8am to 5pm, East Africa Time UTC+3"
 phone = "+254726024210"
+
 
 # Social icons
 [[params.social]]
@@ -110,11 +112,13 @@ icon = "fa-rss-square"
 url = "https://stephenajulu.com/feed.xml"
 weight = 6
 
+
 [taxonomies]
 tag = "tags"
 category = "categories"
 series = "series"
 author = "authors"
+
 
 [related]
   includeNewer = true
@@ -139,6 +143,7 @@ author = "authors"
   name = "title"
   weight = 20
   
+  
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
 
@@ -151,4 +156,4 @@ baseName = "feed"
 page = '/:title'
 
 [markup.goldmark.renderer]
-unsafe= true
+unsafe = true
