@@ -7,6 +7,6 @@ button1Name: Let's Talk
 button2Name: Download CV
 button1Target: contact
 button2Target: documents/cv2.docx
-image: images/6.jpg
+image: images/about/about.svg
 subtitle: ''
 title2: ''
