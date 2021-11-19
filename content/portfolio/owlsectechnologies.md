@@ -8,5 +8,3 @@ description: Website Development + Brand Design for OwlSec Technologies
 
 ---
 Website Development + Brand Design for OwlSec Technologies
-
-![](/images/portfolio/Owlsec Tech Wbsite.png)
