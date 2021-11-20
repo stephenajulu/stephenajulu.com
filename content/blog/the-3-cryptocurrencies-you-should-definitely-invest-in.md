@@ -51,4 +51,6 @@ NB: This article is not financial advice. Do your research. I recommend you star
 
 To finalize, if you’d like to invest in the aforementioned cryptocurrencies then invest with Binance and get 5%: [**Buy and Trade Crypto With The Best Exchange: Binance**](https://www.jadeblack.co/?ref=kuzqn53jomp-)
 
+Have a great day everyone!
+
 Photo by [Executium](https://unsplash.com/@executium?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
