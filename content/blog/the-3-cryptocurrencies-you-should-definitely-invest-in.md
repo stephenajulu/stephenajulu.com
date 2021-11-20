@@ -27,7 +27,6 @@ date: 2021-11-20T14:36:00+03:00
 hero: "/images/executium-ltazfutkcl8-unsplash.jpg"
 description: Here are 3 cryptocurrencies I believe you should invest in right now
   before the end of 2021
-draft: true
 
 ---
 Hi there, here are 3 cryptocurrencies I believe you should invest in right now before the end of 2021
@@ -44,7 +43,7 @@ Bitcoin is the biggest crypto right now and it still has the potential to grow. 
 
 The metaverse is hyped right now. I believe it's going to continue to grow. Buy this and you should be good.
 
-Others to buy: Dogecoin, Solana, Decentraland, Binance Coin, and Shiba Inu
+Others to include that have potential: Dogecoin, Solana, Decentraland, Binance Coin, and Shiba Inu
 
 NB: This article is not financial advice. Do your research. I recommend you start with Web 3.0, Metaverse, and Defi.
 
