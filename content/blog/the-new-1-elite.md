@@ -49,7 +49,7 @@ The New 1% are:
 
 Align yourself with these and I believe you will be elite. Self-respect is key.
 
-The New 1% also dress well, smell good and wear cool shades. That's why today I'm hooking you up with a 10% discount on quality clothing, fragrance, and eyewear. 
+The New 1% also dress well, smell good and wear cool shades. That's why today I'm hooking you up with a 10% discount on quality clothing, fragrance, and eyewear.
 
 [**Visit ESNTLS for top-notch discounted clothing that makes you look great and feel even greater!**](https://www.esntls.co/?ref=kuzqn53jomp-)
 
@@ -58,7 +58,5 @@ The New 1% also dress well, smell good and wear cool shades. That's why today I'
 [**Visit JadeBlack for top-note discounted sunglasses and glasses that draw out your game face perfectly!**](https://www.jadeblack.co/?ref=kuzqn53jomp-)
 
 All the people who use my link get 10% off all their products + free shipping(if you live in the US). Bookmark the links for future purchases because I can assure you that you will love these products.
-
-To finalize, if you'd like to invest in the aforementioned cryptocurrencies then invest with Binance and get 5%: [**Buy and Trade Crypto With The Best Exchange: Binance**](https://www.jadeblack.co/?ref=kuzqn53jomp-)
 
 Have a great day.
