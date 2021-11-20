@@ -15,7 +15,7 @@ tags:
 - creation
 - self mastery
 title: The New 1% Elite
-date: 2021-11-19T11:08:00+03:00
+date: 2021-11-19T11:08:00.000+03:00
 hero: "/images/helena-lopes-uze35tk5uoa-unsplash.jpg"
 description: Here are the new 1% elite members of society that are silently taking
   over the world. Are you one of them? or Are you striving to become one of them?
@@ -48,5 +48,17 @@ The New 1% are:
 * **Believe in a Supreme Creator**: Let's be honest, nothing creates itself. Nothing occurs by its self. There has to be a source of creation. I believe this source is God, the creator of Heaven and Earth and since He is the source, he wasn't created and instead just is. He is, He will be and He will always be there for you. I like what He calls Himself: "I am that I am". Basically means he existed, he exists and will always exist, there's no beginning to Him and no end. He is the source and He made us in His own image.  Hence the reason we are able to **create** things.
 
 Align yourself with these and I believe you will be elite. Self-respect is key.
+
+The New 1% also dress well, smell good and wear cool shades. That's why today I'm hooking you up with a 10% discount on quality clothing, fragrance, and eyewear. 
+
+[**Visit ESNTLS for top-notch 1% clothing that makes you look great and feel even better!**](https://www.esntls.co/?ref=kuzqn53jomp-)
+
+[**Visit Santa Lucia Fragrance for top-notch 1% perfumes that make you smell great!**](https://santaluciafragrance.com/?ref=kuzqn53jomp-)
+
+[**Visit JadeBlack for top-note 1% sunglasses and glasses that draw out your game face perfectly!**](https://www.jadeblack.co/?ref=kuzqn53jomp-)
+
+All the people who use my link get 10% off all their products + free shipping(if you live in the US). Bookmark the link as well for future purchases.
+
+Plus if you'd like to invest in the aforementioned crypto currencies then register with Binance and get 5%: [**Buy and Trade Crypto With The Best Exchange: Binance**](https://www.jadeblack.co/?ref=kuzqn53jomp-)
 
 Have a good day.
