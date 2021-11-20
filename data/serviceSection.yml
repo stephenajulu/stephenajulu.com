@@ -14,30 +14,30 @@ service:
   - content: >
       #### Graphic Design & Branding
     
-      I create amazing designs such as posters, logos, social media posts, ADs, wallpapers and more. I can also do more!
+      I create amazing designs such as posters, logos, social media posts, ADs, wallpapers among other things. I can also do more!
     image: images/service/graphicbrandingundraw.svg
     link: #
   - content: >
       #### Computer, Laptop and Accessories Supply
       
-      I supply new and refurbished computers, laptops, and their respective accessories. I can also supply more!
+      I supply new and refurbished computers, laptops, and their respective accessories. I can also supply other things e.g stationery and conduct surveys.
     image: images/service/computersupplyundraw.svg
     link: #
   - content: >
       #### Content Creation & Management
 
-      I can create content that evoke the reader's emotions on the topic all while being concise, clear and creative. I can also create more
+      I have been a content creator for 6 years hence i can create content that evokes the reader's emotions on the topic all while being concise, clear and creative. 
     image: images/service/contentundraw.svg
     link: #
   - content: >
       #### Web Performance & Search Engine Optimization
 
-      I can make your website even faster and more search engine optimized therefore guarantee more traffic, sales and engagement. I can also do more.
+      I can make your website even faster and more search engine optimized therefore guaranting more traffic, sales and engagement. I can also do website tweaks e.g adding ads.
     image: images/service/seoundraw.svg
     link: #
   - content: >
       #### I.T & General Consultation
 
-      With my years of experience coupled with my unwavering enthusiasim for technology, I can give specialised advice. I can also do more.
+      With my years of experience coupled with my unwavering enthusiasim for technology, I can give specialised advice. I can also help optimize business processes and more.
     image: images/service/consultationundraw.svg
     link: #
