@@ -33,6 +33,10 @@ weight = 4
 name = "Store"
 url = "/store"
 weight = 5
+[[menu.main]]
+name = "Newsletter"
+url = "#newsletter"
+weight = 6
 
 
 # Sitemap Menu
