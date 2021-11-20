@@ -49,6 +49,6 @@ Others to include that have potential: Dogecoin, Solana, Decentraland, Binance C
 
 NB: This article is not financial advice. Do your research. I recommend you start with Web 3.0, Metaverse, and Defi.
 
-To 
+To finalize, if you’d like to invest in the aforementioned cryptocurrencies then invest with Binance and get 5%: [**Buy and Trade Crypto With The Best Exchange: Binance**](https://www.jadeblack.co/?ref=kuzqn53jomp-)
 
 Photo by [Executium](https://unsplash.com/@executium?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
