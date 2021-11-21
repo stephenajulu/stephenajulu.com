@@ -13,7 +13,7 @@ tags:
 - mindset
 - habits
 title: 6 Compounding Habits
-date: 2021-11-21T21:13:00.000+03:00
+date: 2021-11-21T16:53:00+03:00
 hero: "/images/aziz-acharki-u3c79seha7k-unsplash.jpg"
 description: The 1% implement these 6 habits for massive success. So should you. They
   have a compounding effect on you and they are easy.
