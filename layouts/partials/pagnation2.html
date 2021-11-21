@@ -1,0 +1,13 @@
+{{ $pageLimit := 3 }}
+{{ range $index, $element := $pag.Pagers }}
+  {{ if eq . $pag }}
+    <li class="page-item active">
+      <a class="page-link" href="{{ $element.URL }}">{{ $element.PageNumber }}</a>
+    </li>
+  {{ else }}
+    {{ if le $index $pageLimit }}
+    <li class="page-item">
+      <a class="page-link" href="{{ $element.URL }}">{{ $element.PageNumber }}</a>
+    </li>
+  {{ end }}
+{{ end }}
