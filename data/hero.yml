@@ -3,7 +3,7 @@ enable: true
 topTitle: Hi! I'm Stephen Ajulu
 content: |
   ## Frontend Web Developer, Designer & Creator
-  I create, design, & sell things.<br/>I also write & give advice!<br/>Scroll Down To Learn More ↓
+  I create, design, & sell things.<br/>I also write & give advice!<br/>Scroll Down To Learn More ↓ or
 buttonName: Contact me →
 buttonURL: contact
 image: images/rsz_2.png
