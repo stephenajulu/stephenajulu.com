@@ -25,7 +25,6 @@ date: 2021-11-22T05:26:00+03:00
 hero: "/images/matheus-ferrero-tkrrvwxjb_8.jpg"
 description: 'Here are 5 things that will set a man in his 20s apart from the rest
   of the pack. '
-draft: true
 
 ---
 Hi men! 
