@@ -1,5 +1,36 @@
-  <script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
-  <script>
-    window.formbutton=window.formbutton||function(){(formbutton.q=formbutton.q||[]).push(arguments)};
-    formbutton("create", {action: "https://formspree.io/f/alunje73@gmail.com"})
-  </script>
+<script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
+<script>
+  window.formbutton = window.formbutton || function() {
+    (formbutton.q = formbutton.q || []).push(arguments)
+  };
+  formbutton("create", {
+    action: "https://formspree.io/f/alunje73@gmail.com",
+    title: "Contact me",
+    description: "Send me a message and i'll reach out soon",
+    theme: "classic",
+    fields: [
+      {
+        name: "email",
+        type: "email",
+        label: "Your Email",
+        required: true
+      },
+      {
+        name: "Message",
+        type: "textarea"
+      },
+      {
+        type: "submit"
+      }
+    ],
+    styles: {
+      fontFamily: '"Poppins", san-serif',
+      button: {
+        background: "#6320D6"
+      },
+      title: {
+        background: "#6320D6",
+      }
+    },
+  })
+</script>
