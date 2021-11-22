@@ -1,5 +1,5 @@
 ---
-title: Stephen Ajulu & Brands
+title: Brands
 description: Here lives the projects, brands, startups and businesses of Stephen Ajulu. His dreams live here as well awaiting execution.
 ---
 
