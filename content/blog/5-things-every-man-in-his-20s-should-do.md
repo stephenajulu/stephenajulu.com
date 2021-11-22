@@ -126,6 +126,16 @@ Here are some benefits of journaling
 
 Anyway guys, that's it for now. For those who learn and implement this, "Greatness is coming". 
 
-Have a great day. 
+Before i go:
 
-Before i go, consider these:
+Men in their 20s should also dress well, smell good and wear cool shades. That’s why today I’m hooking you up with a 10% discount on quality clothing, fragrance, and eyewear.
+
+[**Visit ESNTLS for top-notch discounted clothing that makes you look great and feel even greater!**](https://www.esntls.co/?ref=kuzqn53jomp-)
+
+[**Visit Santa Lucia Fragrance for top-notch discounted perfumes that make you smell great!**](https://santaluciafragrance.com/?ref=kuzqn53jomp-)
+
+[**Visit JadeBlack for top-note discounted sunglasses and glasses that draw out your game face perfectly!**](https://www.jadeblack.co/?ref=kuzqn53jomp-)
+
+All the men who use my link get 10% off all their products + free shipping(if you live in the US). Bookmark the links for future purchases because I can assure you that you will love these products.
+
+Have a great day.
