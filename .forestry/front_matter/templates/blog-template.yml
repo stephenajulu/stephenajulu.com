@@ -27,6 +27,7 @@ fields:
   default: []
   label: Tags
 pages:
+- content/blog/5-things-every-man-in-his-20s-should-do.md
 - content/blog/6-metaverse-tokens-you-could-invest-in.md
 - content/blog/cryptocurrencies-you-should-watch-2021.md
 - content/blog/future-industries-and-sectors.md
