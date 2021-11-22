@@ -109,6 +109,12 @@ Journaling is the writing down of thoughts for present reflection and future ref
 
 Journaling allows you to organize your thoughts, document your goals, make life decisions, and even heal from past traumas. It’s truly a powerful tool that when incorporated into your regular routine can provide numerous benefits.
 
+### Why Should Men Journal?
+
+Although many men may scoff at the thought of keeping a journal, many of the greatest visionaries in history had journals: Leonardo Da Vinci, Albert Einstein, Nikola Tesla, and Ernest Hemingway to name a few. Not to mention the numerous benefits from journaling are well-documented.
+
+### Benefits of journaling 
+
 Here are some benefits of journaling
 
 * Manages stress
@@ -117,3 +123,9 @@ Here are some benefits of journaling
 * Boosts your mood
 * Improves memory
 * Reduces symptoms of anxiety and depression
+
+Anyway guys, that's it for now. For those who learn and implement this, "Greatness is coming". 
+
+Have a great day. 
+
+Before i go, consider these:
