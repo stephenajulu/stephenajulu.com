@@ -100,7 +100,7 @@
         
 	<!-- Blog Posts -->
 	{{ range first 1 (where $.Site.RegularPages "Type" "blog") }}
-        <a class="button button-default" href="{{ .Permalink }}" target="_blank" re="noopener" title="{{ .Title }}">The Latest Article</a>
+        <a class="button button-default" href="{{ .Permalink }}" target="_blank" re="noopener" title="{{ .Title }}">Read The Latest Article</a>
         <br>
 	{{ end }}
 	      
@@ -198,12 +198,6 @@
 	      
 	<a class="button button-universal" href="https://accounts.binance.com/en/register?ref=CL2JFAB6">Register For Binance & Get 5%</a>
 	<br>
-	      
-	<!-- Blog Posts -->
-	{{ range first 3 (where $.Site.RegularPages "Type" "blog") }}
-        <a class="button button-default" href="{{ .Permalink }}" target="_blank" re="noopener">{{ .Title | truncate 30 }}</a>
-        <br>
-	{{ end }}
         
       </div>
     </div>
