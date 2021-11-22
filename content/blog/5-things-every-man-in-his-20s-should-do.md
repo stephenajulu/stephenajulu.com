@@ -103,4 +103,13 @@ Please men, keep a journal. All great men, men of renowned wrote journals. Write
 
 The mental clarity this will give you will leave you astonished wondering why you didn't start early. 
 
+What is journaling you? 
+
 Here are some benefits of journaling
+
+* Manages stress
+* Gives you immortality
+* Allows introspection and reflection
+* Boosts your mood
+* Improves memory
+* Reduces symptoms of anxiety and depression
