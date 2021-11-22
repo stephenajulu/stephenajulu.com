@@ -103,7 +103,11 @@ Please men, keep a journal. All great men, men of renowned wrote journals. Write
 
 The mental clarity this will give you will leave you astonished wondering why you didn't start early. 
 
-What is journaling you? 
+### What is journaling you? 
+
+Journaling is the writing down of thoughts for present reflection and future reference. 
+
+Journaling allows you to organize your thoughts, document your goals, make life decisions, and even heal from past traumas. It’s truly a powerful tool that when incorporated into your regular routine can provide numerous benefits.
 
 Here are some benefits of journaling
 
