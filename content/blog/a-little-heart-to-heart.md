@@ -7,9 +7,9 @@ tags:
 - self improvement
 title: A little heart to heart
 date: 2021-11-23T03:02:00+03:00
-hero: ''
-description: 'Here''s a little heart to heart going out to my readers. '
-draft: true
+hero: "/images/kelly-sikkema-4le7k9xvyje.jpg"
+description: 'Here''s a little heart to heart going out to my readers on success and
+  self improvement '
 
 ---
 Hi there, how are you doing? Hope you are well. 
