@@ -12,3 +12,8 @@ description: 'Here''s a little heart to heart going out to my readers. '
 draft: true
 
 ---
+Hi there, how are you doing? Hope you are well. 
+
+So today i read a quote and this is how it read
+
+"
