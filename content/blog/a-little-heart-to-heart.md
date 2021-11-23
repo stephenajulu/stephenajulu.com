@@ -33,3 +33,21 @@ But before this, before the crypto portfolio before the stock portfolio i failed
 But ﻿**somehow God brought me out of it.** ﻿I don't know how and why. 
 
 So guys especially in your teens, twenties and thirties, don't give up. It's not over yet. 
+
+Now I work out, i learn new things, i build my business and i work on my brands/dreams, i invest and i stack good habits. It doesn't have to be perfect.
+
+"Just Do It"
+
+Here's a link to the blog: [https://stephenajulu.com/blog](https://stephenajulu.com/blog "https://stephenajulu.com/blog")
+
+I talk about tech, life, personal finance and self improvement. I'm not an expert, and i often get knowledge from people going against the grain, so please do your own research.
+
+The main lesson is 
+
+**Stack up wins.** 
+
+I don't know what "ditch" you're in right now but don't stay there. It's okay to get depressed, it's okay to feel sad but guys there's still so much you can do. You are still in your prime. 
+
+Look at most of these billionaires. They are in their 40s, 50s, and 60s. Tom Ford tried to invent the bulb 10,000 times, so **don't give up.** 
+
+I've failed more times than i can count, i still do but i decided to learn from them and grow. #growthmindset 
