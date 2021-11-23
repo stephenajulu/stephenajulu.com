@@ -51,3 +51,17 @@ I don't know what "ditch" you're in right now but don't stay there. It's okay to
 Look at most of these billionaires. They are in their 40s, 50s, and 60s. Tom Ford tried to invent the bulb 10,000 times, so **don't give up.** 
 
 I've failed more times than i can count, i still do but i decided to learn from them and grow. #growthmindset 
+
+Don't give up.
+
+### JUST KEEP STACKING WINS NO MATTER HOW SMALL!
+
+You'll often find that direction is better than speed.
+
+Have a great day!
+
+### "And don't forget to stack them wins! A tower isn't built in a day rather it's built by stacking brick after brick."
+
+#### Are you stacking or are you slacking?
+
+_MIC DROP_
