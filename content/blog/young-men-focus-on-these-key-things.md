@@ -26,3 +26,5 @@ I'll start with a quote: "Happiness comes from surpassing your limits"
 2. Investments: Build a great investment portfolio
 3. Success: Build your business or work hard at your job. Keep improving.
 4. Intelligence: Build skills, read books, write and become articulate
+
+Think long-term. Do things that target these 4 everyday. Consistency will get you there. I suggest 10 years.
