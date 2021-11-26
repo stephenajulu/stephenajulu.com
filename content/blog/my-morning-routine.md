@@ -69,6 +69,17 @@ I also drink 1 liter of water during this period.
 
 My day starts at 7:10 AM.
 
-I will either take a shower(cold) or do some deep work/learning until 8:10 AM. It all depends on my schedule. I also write during this time e.g now.
+I will either take a shower(cold) or do some deep work/learning while listening to classical music until 8:10 AM. It all depends on my schedule. I also write during this time e.g now.
 
-And that's it. This is my current schedule. I will do my best and stay consistent as that's the only way to grow and become better. I'll soon add journaling to the reading time frame.
+And that's it. This is my current schedule. I will do my best and stay consistent as that's the only way to grow and become better. I'll soon add journaling to the reading time frame. But aside from that. This is what my mornings have looked like for the past 4 days. I just recently implemented it.
+
+### To summarize:
+
+1. Bed: Social Media, Investments, Making the bed)
+2. Benediction: Praying/Thanksgiving
+3. Body: Working out
+4. Brain: Reading + Deep work/learning
+
+If you'd like to invest in crypto. Register with Binance. It's the best exchange out there plus it provides all the things you need to become a pro-crypto investor. Use this link to get 5%: [Register for a Binance account](https://accounts.binance.com/en/register?ref=CL2JFAB6)
+
+Thank you for reading and have a wonderful day!
