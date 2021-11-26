@@ -20,7 +20,7 @@ Today I'd like to share my morning routine. I have been using it for 4 days now 
 
 ## Waking up: 3:40 AM
 
-I wake up at 3:40 am to give myself a headstart. Note, you don't have to wake up at the same time as me. I do it because I'm comfortable with it. Previously I would wake up at 5:30 am but have recently found myself waking up at that time and hence decided to stick with it. 
+I wake up at 3:40 am to give myself a headstart. Note, you don't have to wake up at the same time as me. I do it because I'm comfortable with it. Previously I would wake up at 5:30 am but have recently found myself waking up at that time and hence decided to stick with it.
 
 The first thing(not always) I do after waking up is to, thank God for His protection and for giving me the ability to see the day. I don't do this at the exact same time sometimes I do it later in the routine. But i hope to be consistent. I just say a short prayer of thanks.
 
@@ -64,10 +64,12 @@ The reason I do workouts first is that they are the hardest thing for me in the 
 
 Once done with my workout, I read a book. Currently reading "How to Think and Grow Rich" by Napoleon Hill. I'll post notes on this book soon. I read for 1 hour.
 
+I also drink 1 liter of water during this period.
+
 ## Official start: 6: 10 AM and Beyond
 
 My day starts at 7:10 AM.
 
-I will either take a shower(cold) or do some deep work/learning until 8:10 AM. It all depends on my schedule.
+I will either take a shower(cold) or do some deep work/learning until 8:10 AM. It all depends on my schedule. I also write during this time e.g now.
 
 And that's it. This is my current schedule. I will do my best and stay consistent as that's the only way to grow and become better. I'll soon add journaling to the reading time frame.
