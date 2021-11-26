@@ -33,7 +33,10 @@ weight = 4
 name = "Blog"
 url = "#blog"
 weight = 5
-
+[[menu.main]]
+name = "Links"
+url = "/links"
+weight = 6
 
 # Sitemap Menu
 [[menu.sitemap]]
