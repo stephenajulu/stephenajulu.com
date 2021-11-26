@@ -75,7 +75,7 @@ And that's it. This is my current schedule. I will do my best and stay consisten
 
 ### To summarize:
 
-1. Bed: Social Media, Investments, Making the bed)
+1. Bed: Social Media, Investments, Making the bed
 2. Benediction: Praying/Thanksgiving
 3. Body: Working out
 4. Brain: Reading + Deep work/learning
