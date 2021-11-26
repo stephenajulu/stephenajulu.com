@@ -67,7 +67,7 @@ I also drink 1 liter of water during this period.
 
 ## Official start: 6: 10 AM and Beyond
 
-My day starts at 7:10 AM.
+My day starts at 6:10 AM.
 
 I will either take a shower(cold) or do some deep work/learning while listening to classical music until 8:10 AM. It all depends on my schedule. I also write during this time e.g now.
 
