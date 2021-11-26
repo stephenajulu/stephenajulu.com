@@ -104,12 +104,12 @@
         
 	<!-- Blog Posts -->
 	{{ range first 1 (where $.Site.RegularPages "Type" "blog") }}
-        <a class="button button-default" href="{{ .Permalink }}" target="_blank" re="noopener" title="{{ .Title }}">Read The Latest Article</a>
+        <a class="button button-messenger" href="{{ .Permalink }}" target="_blank" re="noopener" title="{{ .Title }}">Read The Latest Article</a>
         <br>
 	{{ end }}
 	      
         <!-- Personal Website -->
-        <a class="button button-messenger" href="https://stephenajulu.com" target="_blank" re="noopener"><img class="icon" src="icons/website.svg" alt="Website Icon">Visit My Website</a>
+        <a class="button button-default" href="https://stephenajulu.com" target="_blank" re="noopener"><img class="icon" src="icons/website.svg" alt="Website Icon">Visit My Website</a>
         <br>
         
         <!-- Blog -->
