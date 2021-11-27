@@ -23,15 +23,15 @@ url = "#about"
 weight = 2
 [[menu.main]]
 name = "Portfolio"
-url = "#portfolio"
+url = "/portfolio"
 weight = 3
 [[menu.main]]
 name = "Store"
-url = "#store"
+url = "/store"
 weight = 4
 [[menu.main]]
 name = "Blog"
-url = "#blog"
+url = "/blog"
 weight = 5
 [[menu.main]]
 name = "Links"
