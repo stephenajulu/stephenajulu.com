@@ -34,3 +34,5 @@ DeFi draws inspiration from [blockchain](https://www.coindesk.com/learn/what-is-
 * **Lending platforms**: These platforms use smart contracts to replace intermediaries such as banks that manage lending in the middle.
 * **"Wrapped" bitcoins (WBTC)**: A way of sending bitcoin to the Ethereum network so the bitcoin can be used directly in Ethereum's DeFi system. WBTCs allow users to earn interest on the bitcoin they lend out via the decentralized lending platforms described above.
 * **Prediction markets**: Markets for betting on the outcome of future events, such as elections. The goal of DeFi versions of prediction markets is to offer the same functionality but without intermediaries.
+
+There are more applications that I'll talk about in part 3 of DeFi. 
