@@ -121,3 +121,6 @@ Asset tokenization is one of the core features of the DeFi ecosystem. Tokenizati
 For example, the NFTs are tokenizing unique digital assets that hold value based on the rarity and the demand for any particular digital asset. A plethora of decentralized finance projects are working on tokenizing digital assets for creating, storing, or trading value.
 
 Source: [101Blockchains](https://101blockchains.com/defi-use-cases/)
+
+<!-- raw html -->
+<a href="https://101blockchains.com/blockchain-infographics/"><img src="https://101blockchains.com/wp-content/uploads/2021/05/top-defi-use-cases.png" alt="top defi use cases" border='0'/> </a>
