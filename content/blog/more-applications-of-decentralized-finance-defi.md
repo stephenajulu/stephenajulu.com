@@ -133,5 +133,4 @@ For example, the NFTs are tokenizing unique digital assets that hold value based
 
 Source: [101Blockchains](https://101blockchains.com/defi-use-cases/)
 
-<!-- raw html -->
-<a href="https://101blockchains.com/blockchain-infographics/"><img src="https://101blockchains.com/wp-content/uploads/2021/05/top-defi-use-cases.png" alt="top defi use cases" border='0'/> </a>
+<!-- raw html --> <a href="https://101blockchains.com/blockchain-infographics/"><img src="https://101blockchains.com/wp-content/uploads/2021/05/top-defi-use-cases.png" alt="top defi use cases" border='0' width="300px"/> </a>
