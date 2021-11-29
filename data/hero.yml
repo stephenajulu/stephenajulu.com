@@ -1,8 +1,8 @@
 ---
 enable: true
-topTitle: 
+topTitle: Web Development, Graphic Design & Content Creation
 content: |
- Hi, I'm Stephen Ajulu, a freelance web developer, designer and creator based in Kenya. I do a mix of everything; web development, graphic design, web design, content creation, sales, social media and more. I also write articles and sell digital products.
+  ### Hi, I'm Stephen Ajulu, a freelance web developer, designer and creator based in Kenya. I do a mix of everything; web development, graphic design, web design, content creation, sales, social media and more. I also write articles and sell digital products.
 buttonName: Contact me →
 buttonURL: contact
 image: images/rsz_2.png
