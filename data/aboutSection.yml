@@ -5,8 +5,10 @@ title: "## About me"
 content: Hey! It's Stephen, and as I mentioned above; I build [websites](https://stephenajulu.com/portfolio), solve [problems](https://stephenajulu.com/brands), design [graphics](https://stephenajulu.com/portfolio), optimize [processes](https://stephenajulu.com/book-a-consultation), create [content](https://stephenajulu.com/blog), and sell [products](https://stephenajulu.com/store). I have 8 years of tech experience and love what i do. Let's talk ↓
 button1Name: Contact Me
 button2Name: View Portfolio
+button3Name: Read Blog
 button1Target: contact
 button2Target: portfolio
+button3Target: blog
 image: images/about/about.svg
 subtitle: ''
 title2: ''
