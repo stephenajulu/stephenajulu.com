@@ -4,14 +4,27 @@ authors:
 categories:
 - Technology
 - Finance
-tags: []
+tags:
+- defi
+- decentralized finance
+- finance
+- technology
+- tech
+- financial technology
+- fintech
+- blockchain
 title: More Applications of Decentralized Finance(DeFi)
 date: 2021-11-29T10:48:00+03:00
-hero: ''
+hero: "/images/10-defi-coins.jpg"
 description: Here are a few more applications and use cases of Decentralized Finance
-draft: true
 
 ---
+### Refresher:
+
+DeFi is short for “decentralized finance,” an umbrella term for a variety of financial applications in cryptocurrency or blockchain geared toward disrupting financial intermediaries.
+
+DeFi draws inspiration from [blockchain](https://www.coindesk.com/learn/what-is-blockchain-technology/), the technology behind the digital currency bitcoin, which allows several entities to hold a copy of a history of transactions, meaning it isn’t controlled by a single, central source.
+
 #### Asset Management
 
 One of the biggest impacts of Defi is that users can now enjoy more control of their own assets. Many of the top DeFi projects are offering solutions that allow the users to manage their assets, including — buying, selling, and transferring digital assets. Thus, the users can even earn interest from their digital assets too.
@@ -62,7 +75,7 @@ The infrastructure tools are notable DeFi use cases. Different DeFi projects, su
 
 #### Improved Digital Identity
 
-Blockchain-based [digital identity](https://101blockchains.com/digital-identity/) systems are already getting much traction in recent times. Pairing DeFi protocols with these identity systems could help people access the global economic system.
+Blockchain-based digital identity systems are already getting much traction in recent times. Pairing DeFi protocols with these identity systems could help people access the global economic system.
 
 The traditional approach prizes one’s income or accumulated asset as the nominators for creditworthiness. With DeFi-paired digital identity, it’s possible to consider the other practical attributes, such as — financial activities or professional prowess.
 
@@ -74,21 +87,19 @@ Insurance is one of the major financial industries and has already proven to be 
 
 With the successful implementation of smart contracts, all of these issues with the current system could be solved.
 
-Many DeFi projects (Nexus Mutual, Opyn, and VouchForMe) are even offering [blockchain for insurance](https://101blockchains.com/blockchain-for-insurance/) coverage against DeFi or smart contract risks.
+Many DeFi projects (Nexus Mutual, Opyn, and VouchForMe) are even offering blockchain for insurance coverage against DeFi or smart contract risks.
 
 #### P2P Borrowing and Lending
 
 As DeFi is saying goodbye to the traditional banking systems, a vacuum for the borrowing and lending market has emerged. So, borrowing and lending protocol is one of the vital DeFi use cases.
 
-However, the DeFi ecosystem is more suitable for [peer-to-peer](https://101blockchains.com/peer-to-peer-network/) (P2P) borrowing and lending efforts. Multiple DeFi projects have already entered the market focusing on this particular use case. Among these projects, Compound and PoolTogether are two well-known names. These projects have autonomous interest-based protocols for borrowing and lending assets.
+However, the DeFi ecosystem is more suitable for peer-to-peer (P2P) borrowing and lending efforts. Multiple DeFi projects have already entered the market focusing on this particular use case. Among these projects, Compound and PoolTogether are two well-known names. These projects have autonomous interest-based protocols for borrowing and lending assets.
 
 #### Payment Solutions
 
 One of the core drivers for DeFi was serving the unbanked or underbanked from the get-go. The inherent traits of DeFi make it well-suited for solving the issues of the current global payment systems. DeFi offers faster, safer, and more transparent solutions compared to legacy systems.
 
-As DeFi drops down the need for middlemen, making payments simpler and more transparent, the DeFi-based [blockchain in payment](https://101blockchains.com/blockchain-in-payment/) solutions could become appealing to the unbanked population.
-
-> Eager to learn about [how Decentralized Finance work?](https://101blockchains.com/decentralized-finance-work/) Here’s a guide to understand the technology.
+As DeFi drops down the need for middlemen, making payments simpler and more transparent, the DeFi-based blockchain in payment solutions could become appealing to the unbanked population.
 
 #### Gaming and eSports
 
