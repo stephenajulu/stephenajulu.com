@@ -2,7 +2,12 @@
 enable: true
 topTitle: About
 title: "## About me"
-content: Hey! It's Stephen, and as I mentioned above; I build [websites](https://stephenajulu.com/portfolio), solve [problems](https://stephenajulu.com/brands), design [graphics](https://stephenajulu.com/portfolio), optimize [processes](https://stephenajulu.com/book-a-consultation), create [content](https://stephenajulu.com/blog), and sell [products](https://stephenajulu.com/store). I have 8 years of tech experience and love what i do. Let's talk ↓
+content: Hi, I'm Stephen Ajulu, a freelance web developer, designer and creator based in Kenya. I build [websites](https://stephenajulu.com/portfolio), create [solutions](https://stephenajulu.com/brands), design [graphics](https://stephenajulu.com/portfolio), optimize [processes](https://stephenajulu.com/book-a-consultation), create [content](https://stephenajulu.com/blog), and sell [digital products](https://stephenajulu.com/store). I have 8 years of tech experience and love what i do. Let's talk ↓.
+buttonName: Contact me →
+buttonURL: contact
+image: images/rsz_2.png
+videoThumb: ''
+videoURL: ''
 button1Name: Contact Me
 button2Name: View Portfolio
 button3Name: Read Blog
