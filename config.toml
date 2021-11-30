@@ -15,28 +15,24 @@ metaDataFormat = "yaml"
 # Main Menu
 [[menu.main]]
 name = "Home"
-url = "#home"
+url = "/"
 weight = 1
-[[menu.main]]
-name = "About"
-url = "#about"
-weight = 2
 [[menu.main]]
 name = "Portfolio"
 url = "/portfolio"
-weight = 3
+weight = 2
 [[menu.main]]
 name = "Store"
 url = "/store"
-weight = 4
+weight = 3
 [[menu.main]]
 name = "Blog"
 url = "/blog"
-weight = 5
+weight = 4
 [[menu.main]]
 name = "Links"
 url = "/links"
-weight = 6
+weight = 5
 
 # Sitemap Menu
 [[menu.sitemap]]
