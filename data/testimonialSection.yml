@@ -1,23 +1,27 @@
 ---
-enable: false
-topTitle: Testimonials
+enable: true
+topTitle: What people say
 title: >
-  ## What People Say About Me?
+  ## Testimonials
 
 testimonial:
   - name: Ryan Waweru
-    comment: He is a perfect example of guys in tech, passionate about learning new stuff. He has even built amazing projects. The guy is  tech smart.
+    comment: A tech enthusisast through and through. Passionate about learning new stuff. He has even built amazing personal projects. I am atisfied with his work
     time: Jan 20, 2019
     star: 5
   - name: Justin Omondi
-    comment: He is good! That is all i can say.
+    comment: He's good! That is all i can say.
     time: Jan 16, 2020
-    star: 4
+    star: 5
   - name: Mercy Ndolo
     comment: Give him a project and he will build it and make sure it is according to your specifications. I trust him when it comes to Web Development and Content Creation.
     time: Mar 08, 2020
     star: 4
   - name: Shem Mwabe
-    comment: He brings to the table something none other can. I admire his strategical genius and he is still in his prime. Had him create a business for me. He went above and beyond my expectations 
+    comment: He brings to the table something none other can. I admire his strategical genius. Had him create a business for me. He went above and beyond my expectations. Responsive website, logos and even business setup
+    time: August 08, 2021
+    star: 4
+  - name: Sandra Alusa
+    comment: He meet my expectations. Good work Stephen!
     time: August 08, 2021
     star: 4
