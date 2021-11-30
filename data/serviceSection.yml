@@ -1,0 +1,37 @@
+---
+enable: true
+topTitle: What i offer
+title: >
+  ## Creative Services
+
+service:
+  - content: >
+      #### Web Development & Management
+      
+    image: images/service/webundraw.svg
+    link: services/web-development/
+  - content: >
+      #### Graphic Design & Branding
+    
+    image: images/service/graphicbrandingundraw.svg
+    link: #
+  - content: >
+      #### Computer, Laptop and Accessories Supply
+      
+    image: images/service/computersupplyundraw.svg
+    link: #
+  - content: >
+      #### Content Creation & Management
+
+    image: images/service/contentundraw.svg
+    link: #
+  - content: >
+      #### Web Performance & Search Engine Optimization
+
+    image: images/service/seoundraw.svg
+    link: #
+  - content: >
+      #### I.T & General Consultation
+
+    image: images/service/consultationundraw.svg
+    link: #
