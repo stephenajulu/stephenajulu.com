@@ -24,14 +24,17 @@ tags:
 - mint
 - minting
 title: What are NFTs? Non Fungible Tokens Explained
-date: 
+date: 2021-11-30T18:36:00+03:00
 hero: "/images/nft-art-what-is-it.jpg"
 description: In this article, i'll tell you exactly what nfts are and why they are
   worth a lot of money. Non Fungible Tokens Explained.
-draft: true
 
 ---
-An NFT is a digital asset that represents real-world objects like art, music, in-game items and videos. They are bought and sold online, frequently with [cryptocurrency](https://www.forbes.com/advisor/investing/what-is-cryptocurrency/), and they are generally encoded with the same underlying software as many cryptos.
+Hi there! Today i'd like to talk about NFTs and all the hype surrounding them right now. To begin, we must first know what they are. So,
+
+### What is an NFT?
+
+An NFT is a digital asset that represents real-world objects like art, music, in-game items, and videos. They are bought and sold online, frequently with [cryptocurrency](https://www.forbes.com/advisor/investing/what-is-cryptocurrency/), and they are generally encoded with the same underlying software as many cryptos.
 
 Although they’ve been around since 2014, NFTs are gaining notoriety now because they are becoming an increasingly popular way to buy and sell digital artwork. A staggering [$174 million](https://www.coindesk.com/what-are-nfts) has been spent on NFTs since November 2017.
 
