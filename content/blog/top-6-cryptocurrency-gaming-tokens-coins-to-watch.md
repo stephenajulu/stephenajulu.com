@@ -44,3 +44,5 @@ Here are my top 6 gaming tokens listed with their price as seen during the writi
 6. Illuvium(ILV): $1,699.31 or Ksh 191,342.31
 
 To buy these, I recommend you use Binance: The best cryptocurrency exchange where you can make passive income just for holding your crypto in their savings vault: [**Register for Binance Today and Get 5%**](https://accounts.binance.com/en/register?ref=CL2JFAB6)
+
+To find more gaming tokens, check out: [CoinMarketCap](https://coinmarketcap.com/view/gaming/)
