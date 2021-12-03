@@ -10,8 +10,8 @@ tags:
 - decentralized
 - decentralized finance
 - defi
-title: DeFi vs Traditional Finance
-date: 2021-12-03T11:17:00+03:00
+title: Decentralized Finance vs Traditional Finance
+date: 2021-12-03T11:17:00.000+03:00
 hero: "/images/defi.png"
 description: Here i cover the differences between DeFi and traditional finance
 
