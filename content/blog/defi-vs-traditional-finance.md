@@ -12,7 +12,7 @@ tags:
 - defi
 title: DeFi vs Traditional Finance
 date: 2021-12-03T11:17:00+03:00
-hero: ''
+hero: "/images/defi.png"
 description: Here i cover the differences between DeFi and traditional finance
 draft: true
 
