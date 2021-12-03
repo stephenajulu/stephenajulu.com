@@ -1,6 +1,6 @@
 baseURL = "https://stephenajulu.com"
 languageCode = "en"
-paginate = 27
+paginate = 31
 enableEmoji = true
 title = "Stephen Ajulu"
 rssLimit = 31
