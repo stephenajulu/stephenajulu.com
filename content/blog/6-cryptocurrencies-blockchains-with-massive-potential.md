@@ -28,4 +28,4 @@ description: 6 Blockchains/Cryptocurrencies With Massive Potential
 5. Binance Smart Chain(BNB)
 6. Polkadot(DOT)
 
-   You'll find that these are being used to create more cryptocurrencies. Most are involved in the metaverse/web3 hype.
+You'll find that these blockchains and cryptocurrencies are being used to create more cryptocurrencies and blockchains. Most are also involved in the metaverse and web 3.0 development.
