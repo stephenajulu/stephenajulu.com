@@ -31,3 +31,5 @@ description: 6 Blockchains/Cryptocurrencies With Massive Potential
 You'll find that these blockchains and cryptocurrencies are being used to create more cryptocurrencies and blockchains. Most are also involved in the metaverse and web 3.0 development.
 
 **Buy their cryptocurrencies by registering here:** [**BINANCE**](https://accounts.binance.com/en/register?ref=CL2JFAB6)
+
+NB: NOT FINANCIAL ADVICE!
