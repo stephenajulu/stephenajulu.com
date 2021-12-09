@@ -1,9 +1,9 @@
 baseURL = "https://stephenajulu.com"
 languageCode = "en"
-paginate = 31
+paginate = 33
 enableEmoji = true
 title = "Stephen Ajulu"
-rssLimit = 31
+rssLimit = 33
 enableRobotsTXT = true
 enableGitInfo = true
 pygmentsUseClasses = true
