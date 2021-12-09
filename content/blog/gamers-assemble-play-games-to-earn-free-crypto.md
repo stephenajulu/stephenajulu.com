@@ -59,4 +59,6 @@ In order to take part in any of these play-to-earn games, users will need to do 
 * **Purchase starter items:** All GameFi games are free to download. However, many require players to first purchase characters, native crypto tokens, decks of cards, or upgrades in order to begin.
 * **Pre-funded crypto wallet:** You will need to pre-fund your crypto wallet with a particular cryptocurrency in order to purchase starter items and proceed. [Cryptoblades](https://cryptoblades.gitbook.io/wiki/getting-started), for example, requires users to download [MetaMask](https://www.youtube.com/watch?v=2UFIN_ieh6U), purchase Binance coin (BNB) and exchange it for the game’s native cryptocurrency, SKILL.
 
-Coming Soon: Top GameFi Games
+Coming Soon: **Top GameFi Games**
+
+Source: [CoinDesk](https://www.coindesk.com/learn/gamefi-how-to-earn-crypto-playing-games-online/)
