@@ -67,3 +67,11 @@ Some common ways of using smart contracts are:
 * **Agreements based on the outside world**: Pull in data from the outside world (financial, political, or whatever) with the help of oracles.
 * **Provide the third party**: Similar to how a software library works, smart contracts can work with other smart contracts in a chain.
 * **Storage**: Store information about an application, such as domain registration information or membership records. Storage in a blockchain like Ethereum is unique in that the data is immutable and can't be erased.
+
+## Examples of [blockchain platforms](https://stephenajulu.com/blog/6-cryptocurrencies-blockchains-with-massive-potential/) supporting smart contracts
+
+* **Bitcoin:** Provides a Turing-incomplete script language that allows the creation of custom smart contracts on top of Bitcoin like multisignature accounts, payment channels, escrows, time locks, atomic cross-chain trading, oracles, or multi-party lottery with no operator.
+* **Cardano:** A blockchain platform for smart contracts, using proof of stake
+* **Ethereum:** Implements a Turing-complete language on its blockchain, a prominent smart contract framework.
+* **EOS.IO:** A blockchain platform for smart contracts
+* **Tezos:** A blockchain platform modifying its own set of rules with minimal disruption to the network through an on-chain governance model
