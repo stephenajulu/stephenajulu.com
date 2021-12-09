@@ -26,6 +26,10 @@ tags:
 - non fungible tokens
 - play to earn
 - blockchain
+- metamask
+- ethereum
+- solana
+- cardano
 title: 'Gamers Assemble: Play Games To Earn Crypto! GameFi Explained'
 date: 2021-12-09T16:35:00+03:00
 hero: "/images/gamefi.jpg"
