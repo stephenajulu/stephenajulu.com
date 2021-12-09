@@ -40,3 +40,5 @@ What computations are the miners making exactly? In Bitcoin, miners spit out the
 The goal of the miners is to create a hash matching Bitcoin's current "target." They must create a hash with enough zeroes in front. The probability of getting several zeros in a row is very low. But miners across the world are making trillions of such computations a second, so it takes them about 10 minutes on average to hit this target.
 
 Whoever reaches the goal first wins a batch of the bitcoin cryptocurrency. Then the Bitcoin protocol creates a new value that miners must hash, and miners start the race for finding the winning proof-of-work all over again.
+
+Source: [CoinDesk](https://www.coindesk.com/learn/2020/12/16/what-is-proof-of-work/)
