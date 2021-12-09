@@ -27,7 +27,6 @@ hero: "/images/1_cc8xg5pc8lf5id8u_vu0fw.jpeg"
 description: Earning interest on your idle crypto assets is a great way of making
   your money work for you. Here are 6 ways you can generate passive income while holding
   crypto.
-draft: true
 
 ---
 Passive income is money generated from ventures in which an individual is not actively involved. For the most part, all you need to do is invest your money or digital assets in a particular crypto investment strategy or platform and watch it generate profit. In some cases, the earnings are fixed and predictable. In others, several factors beyond your control may come into play.
