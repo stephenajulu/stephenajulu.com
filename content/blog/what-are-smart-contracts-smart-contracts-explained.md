@@ -30,7 +30,7 @@ Smart contracts permit trusted transactions and agreements to be carried out amo
 
 Smart contracts are made possible by [blockchains](https://stephenajulu.com/blog/what-is-blockchain-how-does-it-work-blockchain-explained/), a network of computers that work together to enforce rules on the network without requiring the help of an intermediary.
 
-## How smart contracts work
+### How smart contracts work
 
 Smart contracts work by following simple “if/when…then…” statements that are written into code on a blockchain. A network of computers executes the actions when predetermined conditions have been met and verified. These actions could include releasing funds to the appropriate parties, registering a vehicle, sending notifications, or issuing a ticket. The [blockchain](https://stephenajulu.com/blog/what-is-blockchain-how-does-it-work-blockchain-explained/) is then updated when the transaction is completed. That means the transaction cannot be changed, and only parties who have been granted permission can see the results.
 
@@ -40,7 +40,7 @@ Then the smart contract can be programmed by a developer – although increasing
 
 With conventional contracts, a document outlines the terms of a relationship between two parties, which is enforceable by law. If one Party A violates the terms, Party B can take Party A to court for not complying with the agreement. A smart contract fortifies such agreements in code so the rules are automatically enforced without courts (or any third party) getting involved.
 
-## Benefits of smart contracts
+### Benefits of smart contracts
 
 #### Speed, efficiency, and accuracy
 
@@ -58,7 +58,7 @@ Blockchain transaction records are encrypted, which makes them very hard to hack
 
 Smart contracts remove the need for intermediaries to handle transactions and, by extension, their associated time delays and fees.
 
-## What can smart contracts be used for?
+### What can smart contracts be used for?
 
 Some common ways of using smart contracts are:
 
@@ -68,7 +68,7 @@ Some common ways of using smart contracts are:
 * **Provide the third party**: Similar to how a software library works, smart contracts can work with other smart contracts in a chain.
 * **Storage**: Store information about an application, such as domain registration information or membership records. Storage in a blockchain like Ethereum is unique in that the data is immutable and can't be erased.
 
-## Examples of [blockchain platforms](https://stephenajulu.com/blog/6-cryptocurrencies-blockchains-with-massive-potential/) supporting smart contracts
+### Examples of [blockchain platforms](https://stephenajulu.com/blog/6-cryptocurrencies-blockchains-with-massive-potential/) supporting smart contracts
 
 * **Bitcoin:** Provides a Turing-incomplete script language that allows the creation of custom smart contracts on top of Bitcoin like multisignature accounts, payment channels, escrows, time locks, atomic cross-chain trading, oracles, or multi-party lottery with no operator.
 * **Cardano:** A blockchain platform for smart contracts, using proof of stake
