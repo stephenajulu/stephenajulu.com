@@ -92,3 +92,5 @@ Both players then have a limited amount of time to build a deck of cards they wi
 * **Blockchain:** Hive blockchain
 * **Monthly user base:** [120,000](https://dappradar.com/hive/games/splinterlands)
 * **The initial investment required:** You must buy the summoner’s spellbook for $10 if you want to unlock the play-to-earn features and receive DEC tokens.
+
+Source: [CoinDesk](https://www.coindesk.com/learn/gamefi-how-to-earn-crypto-playing-games-online/)
