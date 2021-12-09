@@ -40,15 +40,15 @@ The original concept behind the invention of [blockchain technology](https://ste
 
 ### **2. Financial exchanges**
 
-Many companies have popped up over the past few years offering decentralized cryptocurrency exchanges. Using [blockchain](https://stephenajulu.com/blog/what-is-blockchain-how-does-it-work-blockchain-explained/) for exchanges allows for faster and less expensive transactions. Moreover, a [decentralized exchange](https://stephenajulu.com/blog/decentralized-finance-defined/) doesn't require investors to deposit their assets with the centralized authority, which means they maintain greater control and security. While blockchain-based exchanges primarily deal in cryptocurrency, the concept could be applied to more traditional investments as well.
+Many companies have popped up over the past few years offering decentralized cryptocurrency exchanges. Using [blockchain](https://stephenajulu.com/blog/what-is-blockchain-how-does-it-work-blockchain-explained/) for exchanges allows for faster and less expensive transactions. Moreover, a [decentralized exchange](https://stephenajulu.com/blog/decentralized-finance-defined/) doesn't require investors to deposit their assets with the centralized authority, which means they maintain greater control and security. While [blockchain](https://stephenajulu.com/blog/what-is-blockchain-how-does-it-work-blockchain-explained/)-based exchanges primarily deal in cryptocurrency, the concept could be applied to more traditional investments as well.
 
 ### **3. Lending**
 
-Lenders can use blockchain to execute collateralized loans through [smart contracts](https://stephenajulu.com/blog/what-are-smart-contracts-smart-contracts-explained/). Smart contracts built on the blockchain allow certain events to automatically trigger things like a service payment, a margin call, full repayment of the loan, and release of collateral. As a result, loan processing is faster and less expensive, and lenders can offer better rates.
+Lenders can use [blockchain](https://stephenajulu.com/blog/what-is-blockchain-how-does-it-work-blockchain-explained/) to execute collateralized loans through [smart contracts](https://stephenajulu.com/blog/what-are-smart-contracts-smart-contracts-explained/). Smart contracts built on the [blockchain](https://stephenajulu.com/blog/what-is-blockchain-how-does-it-work-blockchain-explained/) allow certain events to automatically trigger things like a service payment, a margin call, full repayment of the loan, and release of collateral. As a result, loan processing is faster and less expensive, and lenders can offer better rates.
 
 ### **4. Insurance**
 
-Using smart contracts on a blockchain can provide greater transparency for customers and [insurance providers](https://www.fool.com/investing/stock-market/market-sectors/financials/insurance-stocks/). Recording all claims on a blockchain would keep customers from making duplicate claims for the same event. Furthermore, using smart contracts can speed up the process for claimants to receive payments.
+Using smart contracts on a [blockchain](https://stephenajulu.com/blog/what-is-blockchain-how-does-it-work-blockchain-explained/) can provide greater transparency for customers and insurance providers. Recording all claims on a blockchain would keep customers from making duplicate claims for the same event. Furthermore, using smart contracts can speed up the process for claimants to receive payments.
 
 ### **5. Real estate**
 
