@@ -42,21 +42,10 @@ With conventional contracts, a document outlines the terms of a relationship bet
 
 ### Benefits of smart contracts
 
-#### Speed, efficiency, and accuracy
-
-Once a condition is met, the contract is executed immediately. Because smart contracts are digital and automated, there’s no paperwork to process and no time spent reconciling errors that often result from manually filling in documents.
-
-#### Trust and transparency
-
-Because there’s no third party involved, and because encrypted records of transactions are shared across participants, there’s no need to question whether information has been altered for personal benefit.
-
-#### Security
-
-Blockchain transaction records are encrypted, which makes them very hard to hack. Moreover, because each record is connected to the previous and subsequent records on a distributed ledger, hackers would have to alter the entire chain to change a single record.
-
-#### Savings
-
-Smart contracts remove the need for intermediaries to handle transactions and, by extension, their associated time delays and fees.
+* **Speed, efficiency, and accuracy:** Once a condition is met, the contract is executed immediately. Because smart contracts are digital and automated, there’s no paperwork to process and no time spent reconciling errors that often result from manually filling in documents.
+* **Trust and transparency:** Because there’s no third party involved, and because encrypted records of transactions are shared across participants, there’s no need to question whether information has been altered for personal benefit.
+* **Security:** Blockchain transaction records are encrypted, which makes them very hard to hack. Moreover, because each record is connected to the previous and subsequent records on a distributed ledger, hackers would have to alter the entire chain to change a single record.
+* **Savings:** Smart contracts remove the need for intermediaries to handle transactions and, by extension, their associated time delays and fees.
 
 ### What can smart contracts be used for?
 
