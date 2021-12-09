@@ -13,8 +13,7 @@ tags:
 - central bank digital currency
 - stablecoin
 - digital currency
-title: What are CBDCs? Why Countries are Exploring and Creating Their Own Central
-  Bank Digital Currency.
+title: What are CBDCs? Central Bank Digital Currency Defined
 date: 2021-12-09T12:31:00+03:00
 hero: "/images/cbdc.jpeg"
 description: Why Countries are rushing to create their own central bank digital currency.
