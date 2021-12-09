@@ -22,7 +22,7 @@ tags:
 - mining
 - yield farming
 title: Don't Just HODL Crypto Make Money While You Sleep With It
-date: 2021-12-09T14:53:00+03:00
+date: 2021-12-09T14:53:00.000+03:00
 hero: "/images/1_cc8xg5pc8lf5id8u_vu0fw.jpeg"
 description: Earning interest on your idle crypto assets is a great way of making
   your money work for you. Here are 6 ways you can generate passive income while holding
@@ -39,7 +39,7 @@ However, simply buying and holding a crypto asset for any length of time does no
 
 ### Proof-of-stake (PoS) staking
 
-[Proof-of-stake](https://www.coindesk.com/proof-of-stake) is a type of blockchain consensus mechanism designed to allow distributed network participants to reach an agreement on new data entering the blockchain. Note that blockchains enable open and decentralized networks where participants contribute to governance and processes involved in validating transactions. This is critical because such a community-focused approach eliminates the need for central authorities like banks. In most cases, blockchains randomly pick participants, elevate them to the status of validators, and reward them for their efforts.
+[Proof-of-stake](https://stephenajulu.com/blog/what-is-proof-of-stake-proof-of-stake-explained/) is a type of blockchain consensus mechanism designed to allow distributed network participants to reach an agreement on new data entering the blockchain. Note that blockchains enable open and decentralized networks where participants contribute to governance and processes involved in validating transactions. This is critical because such a community-focused approach eliminates the need for central authorities like banks. In most cases, blockchains randomly pick participants, elevate them to the status of validators, and reward them for their efforts.
 
 The systems used to pick validators vary from blockchain to blockchain. Some blockchain networks require users to deposit or commit their financial resources to the network. Here, the blockchain selects validators from a pool of users that have staked a specified sum of its native digital asset. In return, validators earn interest on the staked funds for contributing to the validity of the network. This validation mechanism is what is called proof-of-stake. It provides an opportunity for holders (those in it for the long haul) to generate passive income.
 
@@ -87,15 +87,22 @@ Certain tokens offer holders a fraction of the revenue of the company that issue
 
 ### Yield farming
 
-[Yield farming](https://www.coindesk.com/defi-yield-farming-comp-token-explained) is another decentralized, or [DeFi, ](https://www.coindesk.com/what-is-defi)method of earning passive crypto income. This is made possible by the dynamic operations of decentralized exchanges, which are basically trading platforms where users rely on the combination of smart contracts (programmable and self-executing computer contracts) and investors for the liquidity necessary to execute trades. Here, users do not trade against brokers or other traders. Instead, they trade against funds deposited by investors – known as liquidity providers – into special smart contracts known as liquidity pools. In turn, liquidity providers receive a proportional amount of trading fees from the pool.
+[Yield farming](https://www.coindesk.com/defi-yield-farming-comp-token-explained) is another decentralized, or [DeFi, ](https://stephenajulu.com/blog/decentralized-finance-defined/)method of earning passive crypto income. This is made possible by the dynamic operations of decentralized exchanges, which are basically trading platforms where users rely on the combination of smart contracts (programmable and self-executing computer contracts) and investors for the liquidity necessary to execute trades. Here, users do not trade against brokers or other traders. Instead, they trade against funds deposited by investors – known as liquidity providers – into special smart contracts known as liquidity pools. In turn, liquidity providers receive a proportional amount of trading fees from the pool.
 
 To start earning passive income via this system you first have to take up the role of a liquidity provider (LP) on a DeFi exchange such as Uniswap, Aave, or PancakeSwap.
 
 To start earning these fees, you have to deposit a specified ratio of two or more digital assets into a liquidity pool.
+
 * For example, in order to provide liquidity to an ETH/USDT pool, you will need to deposit both ETH and USDT tokens into it.
 
 Once you deposit liquidity, the decentralized exchange will transfer LP tokens representing your share of the total funds locked in the liquidity pool. You can then stake these LP tokens using supported decentralized lending platforms and earn additional interest. This strategy allows you to earn two separate interest rates from a single deposit.
 
 The crypto passive income opportunities listed in this guide are just some of the many ways you can make extra profit with your idle digital assets. Note that none of these opportunities are risk-free. Hence, it is advisable to carry out your own research, seek professional guidance from a qualified financial advisor, and determine what best suits your investment goals.
+
+I'd like to introduce to you: Binance.
+
+The best crypto exchange. Binance has a specific feature known as the Binance Vault that enables you to earn passive income on the crypto you hold with relatively low risk. With Binance, you can just buy crypto, add it to your Earn Vault and sleep knowing your crypto is growing. 
+
+To use this, kindly register with Binance using this link: [Register With Binance and Get 20%](https://accounts.binance.com/en/register?ref=CL2JFAB6)
 
 Source: [CoinDesk](https://www.coindesk.com/learn/top-6-crypto-passive-income-generators-for-2021/)
