@@ -38,6 +38,8 @@ Within a smart contract, there can be as many stipulations as needed to satisfy 
 
 Then the smart contract can be programmed by a developer – although increasingly, organizations that use [blockchain](https://stephenajulu.com/blog/what-is-blockchain-how-does-it-work-blockchain-explained/) for business provide templates, web interfaces, and other online tools to simplify structuring smart contracts.
 
+With conventional contracts, a document outlines the terms of a relationship between two parties, which is enforceable by law. If one Party A violates the terms, Party B can take Party A to court for not complying with the agreement. A smart contract fortifies such agreements in code so the rules are automatically enforced without courts (or any third party) getting involved.
+
 ## Benefits of smart contracts
 
 #### Speed, efficiency, and accuracy
@@ -55,3 +57,13 @@ Blockchain transaction records are encrypted, which makes them very hard to hack
 #### Savings
 
 Smart contracts remove the need for intermediaries to handle transactions and, by extension, their associated time delays and fees.
+
+## What can smart contracts be used for?
+
+Some common ways of using smart contracts are:
+
+* **Multisignature accounts**: Funds can only be spent when a required percentage of people agree.
+* **Encoding financial agreements**: Manage agreements between users. Say, if one person buys insurance from an insurance company, the rules of when the insurance can be redeemed can be programmed into a smart contract.
+* **Agreements based on the outside world**: Pull in data from the outside world (financial, political, or whatever) with the help of oracles.
+* **Provide the third party**: Similar to how a software library works, smart contracts can work with other smart contracts in a chain.
+* **Storage**: Store information about an application, such as domain registration information or membership records. Storage in a blockchain like Ethereum is unique in that the data is immutable and can't be erased.
