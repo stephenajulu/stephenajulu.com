@@ -3,7 +3,7 @@ enable: true
 topTitle: Hi! I'm Stephen Ajulu
 content: |
   ## I create digital products, solutions & content
-  I build [websites](services/web-development/), write [articles](/blog), design [graphics](/portfolio), give [advice](/book-a-consultation) and sell [digital products](/shop).
+  I build [websites](services/web-development/), write [articles](/blog), design [graphics](/portfolio), give [advice](/book-a-consultation) & sell [digital products](/shop).
 buttonName: Get In Touch Now →
 buttonURL: contact
 image: images/rsz_2.png
