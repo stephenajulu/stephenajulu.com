@@ -20,8 +20,8 @@
   <link href="{{ $style.Permalink }}" rel="stylesheet" />
   
 {{ "<!-- Newsletter Form Stylesheet -->" | safeHTML }}
-  {{ $newslettercss := resources.Get "css/newsletter2.css" | minify }}
-  <link href="{{ $newslettercss.Permalink }}" rel="stylesheet" />
+  {{ $scrollbarcss := resources.Get "css/scrollbar.css" | minify }}
+  <link href="{{ $scrollbarcss.Permalink }}" rel="stylesheet" />
 
 {{ "<!--Favicon -->" | safeHTML }}
   <link rel="shortcut icon" href="{{ "images/favicon.ico" | absURL }}" type="image/x-icon" />
