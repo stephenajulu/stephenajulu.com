@@ -98,6 +98,6 @@ I'd like to end with a quote: "Strong Men and Feminine Women Create Good Times, 
 
 Share your thoughts in the comments and if this triggered you, I'd like to know why, so do due diligence.
 
-And of course. Do due diligence, raise your testosterone, and research. I've written [articles](https://stephenajulu.com/blog) that can help you in your journey. Go read them.
+And of course. Do due diligence, raise your testosterone, and research. I've written a plethora of [articles](https://stephenajulu.com/blog) that can help you in your journey. Go read them.
 
 Have a great day!
