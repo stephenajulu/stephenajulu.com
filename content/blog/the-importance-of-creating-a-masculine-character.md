@@ -57,7 +57,7 @@ To create one, we first must know the characteristics of one. Here are a few exa
 * Physically, Emotionally and Mentally Strong
 * Intelligent and Highly Skilled
 * Calm, Collected, and Stoic
-* Having the ability to exercise extreme violence but remaining virtuous - A controlled monster. The true meaning of morality, virtue and humility. [Definition first coined by Jordan Peterson](https://www.youtube.com/watch?v=QQ5oqgJWJyw). A harmless person is not a virtuous person. When a harmless person tastes power, they cease to be virtuous as they become drunk with it and begin showing their true colors.
+* Having the ability to exercise extreme violence but remaining virtuous - A controlled monster. The true meaning of morality, virtue, and humility. [Definition first coined by Jordan Peterson](https://www.youtube.com/watch?v=QQ5oqgJWJyw). A harmless person is not a virtuous person. When a harmless person tastes power, they cease to be virtuous as they become drunk with it and begin showing their true colors.
 * Self Control
 * A Risk Taker
 * Kind and Generous
@@ -98,6 +98,6 @@ I'd like to end with a quote: "Strong Men and Feminine Women Create Good Times, 
 
 Share your thoughts in the comments and if this triggered you, I'd like to know why, so do due diligence.
 
-And of course. Do due diligence, raise your testosterone and research.
+And of course. Do due diligence, raise your testosterone, and research.
 
 Have a great day!
