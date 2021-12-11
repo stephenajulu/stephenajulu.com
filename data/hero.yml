@@ -2,8 +2,8 @@
 enable: true
 topTitle: Hi! I'm Stephen Ajulu
 content: |
-  ## I create digital products, solutions & content
-  I build [websites](services/web-development/), write [articles](/blog), design [graphics](/portfolio), give [advice](/book-a-consultation) & sell [digital products](/shop).
+  ## I create products, solutions & content
+  ###### I have been building [websites](services/web-development/), writing [articles](/blog), designing [graphics](/portfolio), giving [advice](/book-a-consultation) & selling [digital products](/shop) for 8 years.
 buttonName: Get In Touch Now →
 buttonURL: contact
 image: images/rsz_2.png
