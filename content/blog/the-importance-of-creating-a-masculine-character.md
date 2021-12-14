@@ -17,8 +17,8 @@ tags:
 - self improvement
 - Personal development
 - masculinity saturday
-title: The Importance of Creating A Masculine Character
-date: 2021-12-11T09:51:00+03:00
+title: The Importance of Building Your Masculinity
+date: 2021-12-11T09:51:00.000+03:00
 hero: "/images/simone-pellegrini-l3qg_oblut0-unsplash.jpg"
 description: Here I outline the benefits of creating a masculine character and working
   towards becoming this character.
