@@ -47,7 +47,11 @@
               <div class="singleBlog__content">
                   {{ .Content }}
                 <a href="{{ .Params.productlink }}" class="btn btn-primary btn-zoom" target="_blank"><i class="fa fa-shopping-cart"></i> &nbsp; BUY THIS PRODUCT FOR {{ .Params.productprice }}</a>
-              </div>
+              <br>
+                 <div align="center">{{ partial "share.html" . }}</div>
+                <br>
+              {{ partial "nextpreviousandshare.html" . }}
+            </div>
           </div>
       </div>
   </div>
