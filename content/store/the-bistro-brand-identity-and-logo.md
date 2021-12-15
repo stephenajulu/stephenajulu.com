@@ -15,3 +15,5 @@ The Bistro is a newsletter committed to delivering informative pieces early in t
 But it can also be anything.
 
 This package contains logos and covers for The Bistro.
+
+If you'd like me to create this newsletter or a website for it kindly reach out at [alunje73@gmail.com](mailto:alunje73@gmail.com).
