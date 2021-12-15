@@ -4,6 +4,7 @@ date: 2021-12-15T16:05:00+03:00
 productlink: https://stephenajulu.gumroad.com/l/vYLWW
 featureImage: "/images/default-2.png"
 postImage: "/images/the-bistro-2.png"
+productprice: "$5+"
 description: The Bistro is a newsletter committed to delivering informative pieces
   early in the morning that helps its subscribers start off their day successfully.
   Here are it's brand logos.
