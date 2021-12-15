@@ -4,6 +4,7 @@ date: 2021-12-15T15:43:00+03:00
 productlink: https://stephenajulu.gumroad.com/l/hqdto
 featureImage: "/images/default-1.png"
 postImage: "/images/cover-2.png"
+productprice = "$20+"
 description: OwlFire Digital Marketing, Web Development/Design, Copywriting, SEO,
   Content Marketing, and/or Branding Agency Brand Identity and Logos
 
