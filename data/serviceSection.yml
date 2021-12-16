@@ -42,7 +42,7 @@ service:
     image: images/service/consultationundraw.svg
     link: #
   - content: >
-      #### Affiliate Marketing
+      #### Affiliate Marketing & Partnership
 
       I am available for partnerships and affiliates
     image: images/service/affiliateundraw.svg
