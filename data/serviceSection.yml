@@ -10,11 +10,11 @@ service:
       
       I work with Shopify, Wordpress and Hugo
     image: images/service/webundraw.svg
-    link: services/web-development/
+    link: #
   - content: >
       #### Graphic Design & Branding
     
-      I design logos, posters and ADs
+      I design logos, posters, social media posts & ADs
     image: images/service/graphicbrandingundraw.svg
     link: #
   - content: >
@@ -40,4 +40,10 @@ service:
 
       I provide advice on matters I.C.T & Cybersecurity
     image: images/service/consultationundraw.svg
+    link: #
+  - content: >
+      #### Affiliate Marketing
+
+      I am available for partnerships and affiliates
+    image: images/service/affiliateundraw.svg
     link: #
