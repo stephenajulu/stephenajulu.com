@@ -8,30 +8,36 @@ service:
   - content: >
       #### Web Development, Design & Management
       
+      I work with Shopify, Wordpress and Hugo
     image: images/service/webundraw.svg
     link: services/web-development/
   - content: >
       #### Graphic Design & Branding
     
+      I design logos, posters and ADs
     image: images/service/graphicbrandingundraw.svg
     link: #
   - content: >
       #### Supply of ICT Equipment & Software
       
+      I supply Computers, Laptops and their accessories
     image: images/service/computersupplyundraw.svg
     link: #
   - content: >
       #### Content Creation & Management
 
+      I write articles especially in tech
     image: images/service/contentundraw.svg
     link: #
   - content: >
       #### Website & Search Engine Optimization
-
+      
+      I optimize websites and their SEO
     image: images/service/seoundraw.svg
     link: #
   - content: >
       #### I.T, Cybersecurity & General Consultation
 
+      I provide advice on matters I.C.T & Cybersecurity
     image: images/service/consultationundraw.svg
     link: #
