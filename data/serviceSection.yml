@@ -20,19 +20,19 @@ service:
   - content: >
       #### Supply of ICT Equipment & Software
       
-      I supply Computers/Laptops, accessories & software
+      I supply computers/laptops, accessories & software
     image: images/service/computersupplyundraw.svg
     link: #
   - content: >
       #### Content Creation & Management
 
-      I write articles in tech and cybersecurity
+      I write tech and cybersecurity articles
     image: images/service/contentundraw.svg
     link: #
   - content: >
       #### Website & Search Engine Optimization
       
-      I optimize websites, performance and their SEO
+      I optimize websites, their SEO and performance
     image: images/service/seoundraw.svg
     link: #
   - content: >
