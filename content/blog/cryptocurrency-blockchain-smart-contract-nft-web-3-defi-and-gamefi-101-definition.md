@@ -20,7 +20,6 @@ date: 2021-12-16T07:15:00+03:00
 hero: "/images/newhype101definition.png"
 description: Cryptocurrencies, Blockchain, Smart Contracts, Non Fungible Tokens, Web
   3, Decentralized Finance and Game Finance Explained
-draft: true
 
 ---
 ### What is a cryptocurrency?
