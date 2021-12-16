@@ -6,8 +6,8 @@ title: >
 
 service:
   - content: >
-      #### Web Development & Management
-      
+      #### Web Development, Design & Management
+      I work with Shopify, Wordpress and Hugo
     image: images/service/webundraw.svg
     link: services/web-development/
   - content: >
@@ -16,7 +16,7 @@ service:
     image: images/service/graphicbrandingundraw.svg
     link: #
   - content: >
-      #### Computer, Laptop and Accessories Supply
+      #### Supply of ICT Equipment & Software
       
     image: images/service/computersupplyundraw.svg
     link: #
@@ -26,12 +26,12 @@ service:
     image: images/service/contentundraw.svg
     link: #
   - content: >
-      #### Web & Search Engine Optimization
+      #### Website & Search Engine Optimization
 
     image: images/service/seoundraw.svg
     link: #
   - content: >
-      #### I.T & General Consultation
+      #### I.T, Cybersecurity & General Consultation
 
     image: images/service/consultationundraw.svg
     link: #
