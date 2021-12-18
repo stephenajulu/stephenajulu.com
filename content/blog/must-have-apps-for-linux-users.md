@@ -12,7 +12,6 @@ title: Must Have Apps For Linux Users
 date: 2021-12-18T13:57:00+03:00
 hero: "/images/musthavelinuxapps.png"
 description: Here are some must have apps for Linux users to ensure
-draft: true
 
 ---
 Hi, as you know, early this year I made a shift to Linux(Zorin OS 16) and have been using it ever since. Today I'd like to suggest a few apps that I have been using.
@@ -44,3 +43,13 @@ Link: [Fluent Reader](https://hyliu.me/fluent-reader/)
 My favorite note-taking app. It's minimal, cross-platform, and great. I have it on my laptop, desktop, and phone. Go check it out.
 
 Link: [Simplenote](https://simplenote.com/)
+
+### 6. Ulauncher
+
+An app that allows you to search and launch almost anything anytime with the click of just two buttons.
+
+Link: [Ulauncher](https://ulauncher.io/)
+
+That's it for today. I'd appreciate it if you went, checked out, and bought my wallpapers: [**Gradient Wallpapers Pack 3 4k**](https://stephenajulu.com/store/gradient-wallpapers-8k-3.0/)**.** You can set them as your desktop wallpaper.
+
+Have a nice day!
