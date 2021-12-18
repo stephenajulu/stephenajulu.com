@@ -8,7 +8,7 @@ service:
   - content: >
       #### Web Development, Design & Management
       
-      I work with Shopify, Wordpress and Hugo
+      I create bespoke Shopify, Wordpress and Hugo
     image: images/service/webundraw.svg
     link: #
   - content: >
