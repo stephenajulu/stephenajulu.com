@@ -26,11 +26,11 @@ draft: true
 ---
 Hi guys, how are you doing? It's alright!
 
-Testosterone is the life blood for men. Low testosterone can impact all areas of your life. You'll have depression, become unable to get it up, loose ambition, become dull, low libido, low mental performance, low memory, low metabolism and the list goes on. 
+Testosterone is the life blood for men. Low testosterone can impact all areas of your life. You'll have depression, become unable to get it up, loose ambition, become dull, low libido, low mental performance, low memory, low metabolism and the list goes on.
 
-Today i want to cover how you can increase testosterone and feel GREAT! Feel masculine. 
+Today i want to cover how you can increase testosterone and feel GREAT! Feel masculine.
 
-Simple steps. No bullsh*t. Coming from a man who used to have male hypogonadism(currently on TRT because my case is slightly different) . This is well researched. First, get your levels checked. It's a simple blood test. Relatively inexpensive, depending on where you get it. 
+Simple steps. No bullsh*t. Coming from a man who used to have male hypogonadism(currently on TRT because my case is slightly different) . This is well researched. First, get your levels checked. It's a simple blood test. Relatively inexpensive, depending on where you get it.
 
  1. Eat more meat and eggs - Especially organic grass-fed fatty beef and organic eggs. I won't go in to the bro science here as i believe this deserves it's own article, which I'm working on. Just eat more meat and eggs. Grass Fed Beef is the most nutritionally dense food on the planet plus it has lots of zinc and fatty acids. Remember testosterone synthesis requires cholesterol! Even the end product: testosterone is for a lack of a better word "oily". Let proteins make up half your plate.
  2. Reduce running. Do sprints - I respect the runners out there but scientific studies have shown that sprinting can increase testosterone by 40%. So do regular sprints. An occasional run once a week is not bad.
@@ -43,8 +43,10 @@ Simple steps. No bullsh*t. Coming from a man who used to have male hypogonadism(
  9. Avoid sugar at all costs - I'll cover why in an upcoming article.
 10. Avoid processed food, "vegetable" seed oils and wheat
 11. Eat the right amount of dark leafy vegetables - A good rule of thumb is 1/4 of your plate.
-12. Practice one of the following: Intermittent Fasting, One Meal A Day, One and A Half Meals A Day or Two Meals A Day. 
-13. Finally nofap. Stop masturbating.  It's reducing your testosterone. Plus it dulls you. 
+12. Practice one of the following: Intermittent Fasting, One Meal A Day, One and A Half Meals A Day or Two Meals A Day.
+13. Finally nofap. Stop masturbating.  It's reducing your testosterone. Plus it dulls you.
 14. Last case scenario: Do Testosterone Replacement Therapy. If your levels are very low. It's best to see a, doctor, get a test done and then commence treatment at once.
-15. 
-16. Low T is detrimental to men of all ages. It's a silent killer. Fix it now with these steps. 
+
+### Low T is detrimental to men of all ages. It's a silent killer. Fix it now with these steps.
+
+Have a great day men! 
