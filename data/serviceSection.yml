@@ -8,25 +8,25 @@ service:
   - content: >
       #### Web Development, Design & Management
       
-      I create bespoke Shopify, Wordpress and Hugo
+      I create Shopify, Wordpress and Hugo websites
     image: images/service/webundraw.svg
     link: #
   - content: >
       #### Graphic Design & Branding
     
-      I design logos, posters, social media posts & ADs
+      I design logos, posters, social media posts and ADs
     image: images/service/graphicbrandingundraw.svg
     link: #
   - content: >
       #### Supply of ICT Equipment & Software
       
-      I supply computers/laptops, accessories & software
+      I supply computers/laptops, accessories and software
     image: images/service/computersupplyundraw.svg
     link: #
   - content: >
       #### Content Creation & Management
 
-      I write tech and cybersecurity articles
+      I write informative tech and self improvement articles
     image: images/service/contentundraw.svg
     link: #
   - content: >
@@ -38,12 +38,12 @@ service:
   - content: >
       #### I.T, Cybersecurity & General Consultation
 
-      I provide advice on matters I.C.T & Cybersecurity
+      I provide advice on I.C.T, Investing and Cybersecurity
     image: images/service/consultationundraw.svg
     link: #
   - content: >
       #### Affiliate Marketing & Partnership
 
-      I am available for partnerships and affiliates
+      I am available for partnerships, cofounds and affiliates
     image: images/service/affiliateundraw.svg
     link: #
