@@ -29,9 +29,11 @@ Testosterone is the life blood for men. Low testosterone can impact all areas of
 
 Today i want to cover how you can increase testosterone and feel GREAT! Feel masculine.
 
-Simple steps. No bullsh*t. Coming from a man who used to have male hypogonadism(currently on TRT because my case is slightly different) . This is well researched. First, get your levels checked. It's a simple blood test. Relatively inexpensive, depending on where you get it.
+Simple steps. No bullsh*t. Coming from a man who used to have male hypogonadism. 
 
- 1. Eat more meat and eggs - Especially organic grass-fed fatty beef and organic eggs. I won't go in to the bro science here as i believe this deserves it's own article, which I'm working on. Just eat more meat and eggs. Grass Fed Beef is the most nutritionally dense food on the planet plus it has lots of zinc and fatty acids. Remember testosterone synthesis requires cholesterol! Even the end product: testosterone is for a lack of a better word "oily". Let proteins make up half your plate.
+First, get your levels checked. It's a simple blood test. Remember to check FREE TESTOSTERONE. Relatively inexpensive, depending on where you get it.
+
+ 1. Eat more meat and eggs - Especially organic grass-fed fatty beef and organic eggs. I won't go in to the bro science here as i believe this deserves it's own article, which I'm working on. Just eat more meat and eggs. Grass Fed Beef is the most nutritionally dense food on the planet plus it has lots of zinc and fatty acids. Remember testosterone synthesis requires cholesterol! Even the end product: testosterone is for a lack of a better word "oily". Let proteins make up half your plate. Organ meats are even better especially the liver. If you are feeling adventurous, eat the balls too! 
  2. Reduce running. Do sprints - I respect the runners out there but scientific studies have shown that sprinting can increase testosterone by 40%. So do regular sprints. An occasional run once a week is not bad.
  3. Lift heavy things - Lifting heavy weights/things has been shown to boost testosterone considerably. It's why gym goers are so muscular. I'd suggest compound workouts that hit multiple muscles and muscle groups at the same time.
  4. Get some sun, son! - Red light/infrared has been shown to boost testosterone by almost 60%. Plus Vitamin D is a requirement for testosterone synthesis. Get some sun and while you are at it sun your genitals/balls. This will drive up that percentage even more. Remember consistency is key. Just make sure you don't get your little friends too hot as I'm sure you know excess heat kills sperms.
