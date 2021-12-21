@@ -7,10 +7,11 @@ tags:
 - self improvement
 - routines
 title: My Morning Routine
-date: 2021-11-26T07:48:00+03:00
+date: 2021-11-26T07:48:00.000+03:00
 hero: "/images/diego-lozano-qghnk7eis0k-unsplash.jpg"
 description: Here's the morning routine I formulated that will help me achieve my
   4 month plan for self improvement
+draft: true
 
 ---
 Hello!
