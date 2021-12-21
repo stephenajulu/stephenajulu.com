@@ -7,7 +7,7 @@ tags:
 - self improvement
 - sadness
 - depression
-title: How to Get Yourself Out of Feeling Sad/Depressed
+title: How to Get Yourself Out of A Depression or State of Sadness
 date: 2021-11-28T16:39:00.000+03:00
 hero: "/images/nik-shuliahin-bunwp1bl0nc-unsplash.jpg"
 description: Here are a few ways you can get out of feeling sad
