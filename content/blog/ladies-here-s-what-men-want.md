@@ -23,6 +23,7 @@ title: Ladies, Here's What Men Want
 date: 2021-12-18T14:32:00.000+03:00
 hero: "/images/jd-mason-q9rqinia5ou-unsplash.jpg"
 description: Ladies, here's men want, it's surprisingly simple.
+draft: true
 
 ---
 1. **Physical Attraction** - He must feel physically attracted to you. We first fall in love with what we see. And no I'm not suggesting you go for butt lifts and apply excessive makeup. Just do you, look good. If you are alone, show some skin. Do the old "picking up my scarf/handkerchief to show a bit of my ass" thing you used to do. LOSE WEIGHT! Unless he's into BBW. But seriously lose weight. Look, ladies, I understand but it's always better to improve than to make excuses and stay unhealthy. Can you say you are truly happy with that extra weight? If you are, fine but 9 times out of 10 you are not and you have been lying to yourself that it's okay to be fat. But no it isn't, being overweight predisposes you to so many health risks even childbirth complications. Every man I know wants a healthy wife with whom he can live a long life and healthy kids who he can see grow up. I'm not body shaming you. Lose weight don't make excuses. Choose growth over comfort. Just look good. You don't need a fat ass to get a guy. Stay clean, look healthy, I hear there are exercises that give you hips? Try them. I mean why not? You'll feel good, he'll feel good, everyone wins right?
