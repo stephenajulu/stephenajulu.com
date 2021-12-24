@@ -8,3 +8,5 @@ description: Ajulu's Thoughts website
 
 ---
 Ajulu's Thoughts Website
+
+<img src="https://stephenajulu.com/images/portfolio/Web%20capture_29-8-2021_184725_ajulusthoughts.stephenajulu.com.jpeg" width="500px">
