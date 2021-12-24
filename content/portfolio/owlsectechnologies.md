@@ -9,4 +9,4 @@ description: Website Development + Brand Design for OwlSec Technologies
 ---
 Website Development + Brand Design for OwlSec Technologies
 
-<img src="images/portfolio/Owlsec Tech Wbsite.png" width="500px">
+<img src="https://stephenajulu.com/images/portfolio/Owlsec%20Tech%20Wbsite.png" width="500px">
