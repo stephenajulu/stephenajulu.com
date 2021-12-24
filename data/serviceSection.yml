@@ -8,14 +8,8 @@ service:
   - content: >
       #### Web Development, Design & Management
       
-      I create Shopify, Wordpress and Hugo websites
+      I create fast Wordpress websites and Hugo blogs
     image: images/service/webundraw.svg
-    link: #
-  - content: >
-      #### Supply of ICT Equipment & Software
-      
-      I supply computers/laptops, accessories and software
-    image: images/service/computersupplyundraw.svg
     link: #
   - content: >
       #### Content Creation & Management
@@ -26,14 +20,8 @@ service:
   - content: >
       #### Website & Search Engine Optimization
       
-      I optimize websites, their SEO and performance
+      I speed up, scale up and search engine optimize websites
     image: images/service/seoundraw.svg
-    link: #
-  - content: >
-      #### I.T, Cybersecurity & General Consultation
-
-      I provide advice on I.C.T, Investing and Cybersecurity
-    image: images/service/consultationundraw.svg
     link: #
   - content: >
       #### Affiliate Marketing & Partnership
@@ -44,6 +32,12 @@ service:
   - content: >
       #### Web Design(Coming Soon)
     
-      I design websites using Figma and Webflow
+      I will be designing websites using Figma and Webflow
     image: images/service/graphicbrandingundraw.svg
+    link: #
+  - content: >
+      #### Supply of ICT Equipment & Software
+      
+      I supply computers, laptops, accessories and software
+    image: images/service/computersupplyundraw.svg
     link: #
