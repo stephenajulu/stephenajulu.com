@@ -12,12 +12,6 @@ service:
     image: images/service/webundraw.svg
     link: #
   - content: >
-      #### Graphic Design & Branding
-    
-      I design logos, posters, social media posts and ADs
-    image: images/service/graphicbrandingundraw.svg
-    link: #
-  - content: >
       #### Supply of ICT Equipment & Software
       
       I supply computers/laptops, accessories and software
@@ -26,7 +20,7 @@ service:
   - content: >
       #### Content Creation & Management
 
-      I write informative tech and self improvement articles
+      I write informative well researched tech articles
     image: images/service/contentundraw.svg
     link: #
   - content: >
@@ -46,4 +40,10 @@ service:
 
       I am available for partnerships, cofounds and affiliates
     image: images/service/affiliateundraw.svg
+    link: #
+  - content: >
+      #### Web Design(Coming Soon)
+    
+      I design websites using Figma and Webflow
+    image: images/service/graphicbrandingundraw.svg
     link: #
