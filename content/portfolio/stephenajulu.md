@@ -8,3 +8,5 @@ description: Web Development for Stephen Ajulu
 
 ---
 Web Development for Stephen Ajulu
+
+<img src="https://stephenajulu.com/images/portfolio/Web%20capture_24-12-2021_125127_stephenajulu.com.jpeg" width="500px">
