@@ -3,7 +3,7 @@ enable: true
 topTitle: Hi! I'm Stephen Ajulu
 content: |
   ## I create content & solutions
-  I build performant [websites](/contact), write informative [articles](/blog), [design](/contact), offer I.T [consultations](/contact) & sell digital [products](/shop). Let's talk ↴
+  I build performant [websites](/contact), write informative [articles](/blog), offer I.T [consultations](/contact) & sell digital [products](/shop). Got a project? Let's talk ↴
 buttonName: Get In Touch Now →
 buttonURL: contact
 image: images/heroimg.svg
