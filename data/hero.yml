@@ -3,7 +3,9 @@ enable: true
 topTitle: Hi! I'm Stephen Ajulu
 content: |
   ## I build fast [websites](/services/web-development) & write [articles](/blog)
-  In 6 years, I have built more than 50 performant websites/blogs and have written 300+ articles for my clients. Sounds Interesting? Then Learn More or Let's Talk ↴
+  I have built 50+ websites and written 300+ articles for my clients. Would you like a website built or an article written? If Yes, Then Let's Talk ↴
+  
+  If No, Learn More or Read My Blog
 buttonName: Get In Touch Now →
 buttonURL: contact
 image: images/rsz_2.png
