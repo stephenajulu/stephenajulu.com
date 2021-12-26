@@ -3,11 +3,14 @@ date: 2021-09-27T10:00:00Z
 featureImage: /images/daniel-korpai-pKRNxEguRgM-unsplash.jpg
 postImage: /images/lee-campbell-DtDlVpy-vvQ-unsplash.jpg
 title: "Web Development"
-description: I build amazing-looking and responsive websites, dashboards, and platforms that are fast and efficient and evolve your users' experience. Contact me!
+description: I build fast, responsive websites, blogs and landing pages that are search engine optimized and use the latest technologies i.e. WordPress, Shopify, Carrd and Hugo
 ---
-I build amazing-looking and responsive websites, dashboards, and platforms that are fast and efficient and evolve your users’ experience.
 
-I provide the full cycle of services to create and launch your website from scratch, configure items or redesign a live website along with the modern technologies and requirements.
+I build fast, responsive websites, blogs and landing pages that are search engine optimized and use the latest technologies i.e. WordPress, Shopify, Carrd and Hugo
+
+I'll take you from designs to the live site, and we'll walk with you every step of the way. 
+
+I provide the full cycle of services to create and launch your website from scratch, configure items or redesign along with the modern technologies and requirements.
 
 Here are some of the microservices I offer in case you already have a website:
 
@@ -15,17 +18,19 @@ Here are some of the microservices I offer in case you already have a website:
 * Setup Google ADs
 * Setup A Commenting System
 * Setup Share Buttons
-* Turn Website into a PWA
-* Chatbot & Live Chat Integration
+* Turn Website into a Progressive Web Application
+* Chatbot or Live Chat Integration
 * Forestry & Netlify CMS Integration(Static Site Generators Only)
-* Instagram Landing Page Development(Similar to Linktree)
+* Instagram Landing Page Development(Similar to Linktr.ee and related services)
 * Performance Report and Optimization
 * Security Risk Report and Mitigation
 * Other Integrations & Setups(Custom, CTA, Forms, and more)
 * Search Engine Optimization
-* CDN & DNS Integration
+* Content Delivery Network & secure DNS Integration
 
-To request any of these services or a complete web development package kindly Email me at [alunje73@gmail.com](mailto:alunje73@gmail.com) with a message detailing the issue and what you would like me to do for you or [contact me](/contact). If not sure then [Book a Consultation](https://calendly.com/stephenajulu).
+To request any of these services or a complete web development kindly 3mail me at [alunje73@gmail.com](mailto:alunje73@gmail.com) with a message detailing the issue and what you would like me to do for you or [contact me](/contact). If not sure then [Book a Consultation](https://calendly.com/stephenajulu).
+
+Looking forward to hearing from you
 
 <hr>
 <h5>Photo Attribution</h5>
