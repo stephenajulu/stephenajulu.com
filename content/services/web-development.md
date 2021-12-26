@@ -8,7 +8,7 @@ description: I build fast, responsive websites, blogs and landing pages that are
 
 I build fast, responsive websites, blogs and landing pages that are search engine optimized and use the latest technologies i.e. WordPress, Shopify, Carrd and Hugo
 
-I'll take you from design to live site, and we'll walk with you every step of the way. 
+I'll take you from design to live site, and we'll walk with you every step of the way. You can place your trust on me and my team. 
 
 I provide the full cycle of services to create and launch your website from scratch, configure items or redesign along with the modern technologies and requirements.
 
