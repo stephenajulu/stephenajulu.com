@@ -6,13 +6,13 @@ title: "Web Development"
 description: I build fast, responsive websites, blogs and landing pages that are search engine optimized and use the latest technologies i.e. WordPress, Shopify, Carrd and Hugo
 ---
 
-I build fast, responsive websites, blogs and landing pages that are search engine optimized and use the latest technologies i.e. WordPress, Shopify, Carrd and Hugo
-
-I'll take you from design to live site, and we'll walk with you every step of the way. You can place your trust on me and my team. 
+I build fast, responsive websites, blogs and landing pages that are search engine optimized, impactful and use the latest technologies i.e. WordPress, Shopify, Carrd and Hugo
 
 I provide the full cycle of services to create and launch your website from scratch, configure items or redesign along with the modern technologies and requirements.
 
-Here are some of the microservices I offer in case you already have a website:
+I'll take you from design to live site, and we'll walk with you every step of the way. You can place your trust on me and my team. 
+
+Here are some of the microservices I offer for those with websites already:
 
 * Setup Website Analytics
 * Setup Google ADs
@@ -28,7 +28,11 @@ Here are some of the microservices I offer in case you already have a website:
 * Search Engine Optimization
 * Content Delivery Network & secure DNS Integration
 
-To request any of these services or a complete web development kindly 3mail me at [alunje73@gmail.com](mailto:alunje73@gmail.com) with a message detailing the issue and what you would like me to do for you or [contact me](/contact). If not sure then [Book a Consultation](https://calendly.com/stephenajulu).
+To request any of these services or a complete web development kindly email me at [alunje73@gmail.com](mailto:alunje73@gmail.com) with the following i.) objective for the website, ii.) instructions, iii.) example/competitor website(s), iv.) branding logo (PNG transparent background), v.) content and vi.) graphics
+
+or [contact me here](/contact) with the same
+
+
 
 Looking forward to hearing from you
 
