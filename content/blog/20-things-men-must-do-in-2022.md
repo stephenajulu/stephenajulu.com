@@ -50,7 +50,9 @@ With that said, here are 20 things I believe we(MEN) must do in 2022 to bolster 
 
 That's it, guys. And please implement. Don't be the guy who gets motivated for a day and then drops out.
 
-Go out there. Work on yourself. Protect the things you value. Leave your mark in this world. Love and be kind. Give when you can. Seek fulfillment over happiness. Be responsible. Stay Frosty. Greatness is coming!
+The world needs you. It needs your ideas. It needs your energy. It needs you.
+
+So go out there. Work on yourself. Protect the things you value. Leave your mark in this world. Love and be kind. Give when you can. Seek fulfillment over happiness. Be responsible. Stay Frosty. Greatness is coming!
 
 I'll soon be posting resources for men who want to be more real, more masculine, and 1% better every day. So stay tuned. Subscribe to my newsletter.
 
