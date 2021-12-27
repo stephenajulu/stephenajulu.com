@@ -46,7 +46,7 @@ With that said, here are 20 things I believe we(MEN) must do in 2022 to bolster 
 19. Take everything in life with a grain of salt.
 20. Your life is 100% your responsibility. So act like it.
 21. Bonus: Identify the things you value then protect them. I'd suggest you list the 5 things you value most. Mine is 1. My God, 2. My Mission/Purpose/Self, 3. My Family, 4. My Assets, and 5. You Guys + My Closest Friends.
-22. Bonus: Become dangerous. Learn how to hurt others but don't hurt others unless ABSOLUTELY necessary. "A harmless man is not a virtuous man. It is the dangerous but civil and disciplined man that is virtuous" - Jordan Peterson. "Most often than not, it is the weak who pick fights, they are the ones constantly trying to prove their non-existent strength to others by picking on and bullying others. Weakness is loud. Strength is silent. The lion doesn't shout at the top of its lungs "I am the king of the jungle!", it simply is. So simply be" - Stephen Ajulu
+22. Bonus: Become dangerous. Learn how to hurt others but don't hurt others unless ABSOLUTELY necessary. "A harmless man is not a virtuous man. It is the dangerous but civil and disciplined man that is virtuous" - Jordan Peterson. "Most often than not, it is the weak who pick fights, they are the ones constantly trying to prove their non-existent strength to others by picking on and bullying others. Weakness is loud. Strength is silent. The lion doesn't shout at the top of its lungs "I am the king of the jungle!", it simply is. So simply be" - Stephen Ajulu.
 
 That's it, guys. And please implement. Don't be the guy who gets motivated for a day and then drops out.
 
