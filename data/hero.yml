@@ -3,9 +3,8 @@ enable: true
 topTitle: Hi! I'm Stephen Ajulu
 content: |
   ## I build impactful [websites](/services/web-development) & write [articles](/blog)
-  I have built more than 50 websites and written 300+ articles for my clients. Do you want a fast, performant website built or an informative, well-researched article written?
-  
-  Then Let's Talk ↴
+  Do you want a fast, effective website built or an informative, well-researched article written?
+  Let's Talk ↴
 buttonName: Get In Touch Now →
 buttonURL: contact
 image: images/rsz_2.png
