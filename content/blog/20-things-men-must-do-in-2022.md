@@ -21,7 +21,7 @@ description: Here are 20 things I believe we(MEN) must do in 2022 for success an
   fulfillment
 
 ---
-Look, guys, I'm in no way or shape better than you. We are just all men here doing our best to improve ourselves and those around us. Constant self-improvement is key. 
+Look, guys, I'm in no way or shape better than you. We are just all men here doing our best to improve ourselves and those around us. Constant self-improvement is key.
 
 With that said, here are 20 things I believe we(MEN) must do in 2022 to bolster our success. I'll keep it as brief as possible.
 
@@ -39,16 +39,16 @@ With that said, here are 20 things I believe we(MEN) must do in 2022 to bolster 
 12. Buy things. Ownership is key. Cut all the crap about renting. Buy property.
 13. Do what scares you. The wise men say, "Everything you want is on the other side of fear"
 14. Stop putting women on a pedestal and as your focus. You are the prize. Focus on building yourself and your legacy. A woman must never be your first, second, and even third focus.
-15. Women are naturally hypergamous. Learn this and red pill yourself. But don't hate them for it. It's their nature. Even in nature, females choose the man who can provide the most resources and protection. So instead of complaining and hating them, be the man who can provide the most resources and protection. This goes in tandem with no 7. 
+15. Women are naturally hypergamous. Learn this and red pill yourself. But don't hate them for it. It's their nature. Even in nature, females choose the man who can provide the most resources and protection. So instead of complaining and hating them, be the man who can provide the most resources and protection. This goes in tandem with no 7.
 16. Become self-sufficient. Learn to be independent. Someone caused your business to go down? Be the kind of man who can start another one. Lost your job? Learn a skill then monetize. Never depend on anyone or anything. Become self-sufficient.
 17. Identify your beliefs and stick to them
 18. Inspire others. Look life is hard as it is. We all have different challenges but the fact remains, everyone has challenges. Be the kind of man who lifts people up. The one who inspires them to be more.
 19. Take everything in life with a grain of salt.
 20. Your life is 100% your responsibility. So act like it.
-21. Bonus: Identify the things you value then protect them. I'd suggest you list the 5 things you value most. Mine is 1. My God, 2. My Mission/Purpose/Self, 3. My Family, 4. My Assets, and 5. You Guys + My Closest Friends. 
-22. Bonus: Become dangerous. Learn how to hurt others but don't hurt others unless ABSOLUTELY necessary. "A harmless man is not a virtuous man. It is the dangerous but civil and disciplined man that is virtuous" - Jordan Peterson. "Most often than not, it is the weak who pick fights, they are the ones constantly trying to prove their non-existant strength to others by picking on and bullying others. Weakness is loud. Strength is silent. The lion doesn't shout at the top of its lungs "I am the king of the jungle!", it simply is. So simply be" - Stephen Ajulu
+21. Bonus: Identify the things you value then protect them. I'd suggest you list the 5 things you value most. Mine is 1. My God, 2. My Mission/Purpose/Self, 3. My Family, 4. My Assets, and 5. You Guys + My Closest Friends.
+22. Bonus: Become dangerous. Learn how to hurt others but don't hurt others unless ABSOLUTELY necessary. "A harmless man is not a virtuous man. It is the dangerous but civil and disciplined man that is virtuous" - Jordan Peterson. "Most often than not, it is the weak who pick fights, they are the ones constantly trying to prove their non-existent strength to others by picking on and bullying others. Weakness is loud. Strength is silent. The lion doesn't shout at the top of its lungs "I am the king of the jungle!", it simply is. So simply be" - Stephen Ajulu
 
-That's it, guys. And please implement. Don't be the guy who gets motivated for a day and then drops out. 
+That's it, guys. And please implement. Don't be the guy who gets motivated for a day and then drops out.
 
 Go out there. Work on yourself. Protect the things you value. Leave your mark in this world. Love and be kind. Give when you can. Seek fulfillment over happiness. Be responsible. Stay Frosty. Greatness is coming!
 
