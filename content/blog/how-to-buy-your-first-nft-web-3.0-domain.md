@@ -19,7 +19,7 @@ tags:
 - crypto
 title: 'How To Buy Your First NFT Web 3.0 Domain: Unstoppable Domains'
 date: 2021-12-22T13:31:00.000+03:00
-hero: "/images/unstoppable-domains.jpg"
+hero: "/images/unstoppable-1280x720.png"
 description: Learn more about NFT domain. What they are? Where to get them and How
   to buy/use them.
 
