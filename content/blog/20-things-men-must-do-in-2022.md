@@ -15,7 +15,7 @@ tags:
 - growth
 - success
 title: 20 Things Men Must Do In 2022
-date: 2021-12-27T15:43:00+03:00
+date: 2021-12-27T15:43:00.000+03:00
 hero: "/images/imageedit_27_9513163132.jpg"
 description: Here are 20 things I believe we(MEN) must do in 2022 for success and
   fulfillment
@@ -38,7 +38,7 @@ With that said, here are 20 things I believe we(MEN) must do in 2022 to bolster 
 11. Quit the victim mindset. No one will hand you anything in life and no one cares. You have to make lemonade with the lemons you have been handed. Don't play the victim. Don't be the victim.
 12. Buy things. Ownership is key. Cut all the crap about renting. Buy property.
 13. Do what scares you. The wise men say, "Everything you want is on the other side of fear"
-14. Stop putting women on a pedestal and as your focus. You are the prize. Focus on building yourself and your legacy. A woman must never be your first, second, and even third focus.
+14. Stop putting women on a pedestal and as your focus. You are the prize. Focus on building yourself and your legacy. A woman must never be your first, second, and even third focus unless she's your wife.
 15. Women are naturally hypergamous. Learn this and red pill yourself. But don't hate them for it. It's their nature. Even in nature, females choose the man who can provide the most resources and protection. So instead of complaining and hating them, be the man who can provide the most resources and protection. This goes in tandem with no 7.
 16. Become self-sufficient. Learn to be independent. Someone caused your business to go down? Be the kind of man who can start another one. Lost your job? Learn a skill then monetize. Never depend on anyone or anything. Become self-sufficient.
 17. Identify your beliefs and stick to them
