@@ -11,7 +11,7 @@ tags:
 - crypto
 - cryptocurrencies
 - cryptocurrency
-title: Cryptocurrencies I'm Buying 2022
+title: Cryptocurrencies I'm Buying in 2022
 date: 2021-12-29T13:00:00+03:00
 hero: "/images/cryptoinvesting_gettyimages-1250405669-c29a42e2fe774133ad64e6f3cc17d74a.jpg"
 description: Here are all the cryptocurrencies i'm buying or buying more.
