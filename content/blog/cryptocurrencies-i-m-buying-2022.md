@@ -39,3 +39,5 @@ Here are the cryptocurrencies I'm investing in this 2022. I believe these have p
 18. Loopring
 19. Cardano(ADA): I have some and want more
 20. Veechain
+21. Shiba Inu
+22. Dogecoin
