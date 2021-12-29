@@ -17,7 +17,7 @@ hero: "/images/cryptoinvesting_gettyimages-1250405669-c29a42e2fe774133ad64e6f3cc
 description: Here are all the cryptocurrencies i'm buying or buying more.
 
 ---
-Here are the cryptocurrencies I'm investing in after due research. I believe these have potential.
+Here are the cryptocurrencies I'm investing in this 2022. I believe these have potential.
 
  1. Bitcoin(BTC): As you know from a previous article, I hold some bitcoin. In 2022 I'll be buying more with the goal of reaching 3 BTC in my portfolio.
  2. Ethereum(ETH): Same as Bitcoin. The goal is to reach 10 ETH
