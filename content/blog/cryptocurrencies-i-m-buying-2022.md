@@ -32,12 +32,12 @@ Here are the cryptocurrencies I'm investing in this 2022. I believe these have p
 11. Polkadot(DOT): Has potential
 12. Chainlink
 13. Polygon(MATIC): A must-buy for me. Amazing projects built and more coming.
-14. Pancake Swap
+14. Pancake Swap(CAKE)
 15. Uniswap
 16. Illuvium
 17. Moonriver
 18. Loopring
 19. Cardano(ADA): I have some and want more
 20. Veechain
-21. Shiba Inu
-22. Dogecoin
+21. Shiba Inu(SHIB)
+22. Dogecoin(DOGE)
