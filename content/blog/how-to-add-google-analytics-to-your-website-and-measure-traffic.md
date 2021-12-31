@@ -20,10 +20,13 @@ date: 2021-12-31T08:20:00+03:00
 hero: "/images/ga.png"
 description: Here's how you can easily add Google Analytics to your website and start
   measuring your traffic and more.
-draft: true
 
 ---
 Hi, today I'd like to help you set up Google Analytics and monitor your traffic.
+
+Before we go on, I provide a microservice where I set this(Google Analytics) up for you so that you don't have to worry about the long process, code, and all the other things we go through here in this article, so contact me via [email](mailto:alunje73@gmail.com) or [visit my contact page](/contact) to order, fast and simple.
+
+Let's go on.
 
 ### What Does Google Analytics Do?
 
@@ -56,4 +59,16 @@ Here are some benefits of using Analytics:
 * **Conversions and Sales** – If you have an eCommerce store, then Google Analytics can help you track your conversions and see how much revenue your store is making.
 * **Improve Your Site’s User Experience** – Find out how people behave on your site, which pages they visit, which device or browser they use so you can improve the user experience of your website.
 
-### WordPress Setup
+### How To Setup Google Analytics
+
+1. Register/Login to [Google Analytics](https://analytics.google.com)
+2. Navigate to the **Admin** menu on the bottom left.
+3. Create a new property by tapping the "Create Property" button
+4. Add a property name, select your country and currency then click next
+5. Select industry, size, and the intended purpose/s of your website
+6. Choose the "Web" platform
+7. Enter your website's link/URL and then stream name(Name of your website)
+8. Go down to "Tagging Instructions" then pick "Global Site Tag". Copy that code.
+9. Paste the code you have been given into the head section of your website's source code. Use [**this to find out where to put the code based on your platform**](https://support.google.com/analytics/answer/10840722?hl=en&utm_id=ad#cms&zippy=)**.**
+
+That's it. You have successfully set up Google Analytics. Give it an hour then go to [Google Analytics](https://analytics.google.com) to start seeing the data.
