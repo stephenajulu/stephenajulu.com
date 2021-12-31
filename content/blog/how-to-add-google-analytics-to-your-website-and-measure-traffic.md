@@ -71,6 +71,10 @@ Here are some benefits of using Analytics:
 8. Go down to "Tagging Instructions" then pick "Global Site Tag". Copy that code.
 9. Paste the code you have been given into the head section of your website's source code. Use [**this to find out where to put the code based on your platform**](https://support.google.com/analytics/answer/10840722?hl=en&utm_id=ad#cms&zippy=)**.**
 
+### Easier way: Use [Google Site Kit](https://sitekit.withgoogle.com/)
+
+But this may slow down your site based on reviews I've heard.
+
 That's it. You have successfully set up Google Analytics. Give it an hour then go to [Google Analytics](https://analytics.google.com) to start seeing the data.
 
 See you soon
