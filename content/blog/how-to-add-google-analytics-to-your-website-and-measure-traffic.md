@@ -72,3 +72,5 @@ Here are some benefits of using Analytics:
 9. Paste the code you have been given into the head section of your website's source code. Use [**this to find out where to put the code based on your platform**](https://support.google.com/analytics/answer/10840722?hl=en&utm_id=ad#cms&zippy=)**.**
 
 That's it. You have successfully set up Google Analytics. Give it an hour then go to [Google Analytics](https://analytics.google.com) to start seeing the data.
+
+See you soon
