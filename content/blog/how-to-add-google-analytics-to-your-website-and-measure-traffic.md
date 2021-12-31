@@ -73,6 +73,8 @@ Here are some benefits of using Analytics:
 
 ### Easier way: Use [Google Site Kit](https://sitekit.withgoogle.com/)
 
+### Easiest way: [Contact me](/contact)
+
 But this may slow down your site based on reviews I've heard.
 
 That's it. You have successfully set up Google Analytics. Give it an hour then go to [Google Analytics](https://analytics.google.com) to start seeing the data.
