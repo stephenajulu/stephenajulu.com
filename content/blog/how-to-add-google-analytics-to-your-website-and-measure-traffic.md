@@ -35,6 +35,15 @@ Google Analytics gathers a wide variety of information, which can be divided int
 * **Behavior:** Shows what visitors do on your site, including buttons clicks and which of your pages are the most popular.
 * **Conversions:** An advanced report to be used in conjunction with Google Analytics Goals, to track activity such as email list subscriptions or e-commerce sales.
 
+Some examples of specific information you might find in your Google Analytics reports include:
+
+* The number of active users on your site at any given moment.
+* How many people visit your site over time.
+* Your visitors’ ages, genders, and locations.
+* Where your visitors come from (e.g., organic search, social media, etc.).
+* Which pages visitors view and for how long.
+* Bounce, click-through, and conversion rates.
+
 ### Why is Google Analytics Important for Your Website?
 
 Once you’ve started a WordPress website, you should know how it’s performing. And to get this useful data, you need Google Analytics. It’s a powerful tool that helps you understand how people use your site.
@@ -46,3 +55,5 @@ Here are some benefits of using Analytics:
 * **Create Content That People Like** – Google Analytics helps you track your pages and posts, so you know which content drives a lot of traffic. This way, you can find similar topics to cover and boost your traffic.
 * **Conversions and Sales** – If you have an eCommerce store, then Google Analytics can help you track your conversions and see how much revenue your store is making.
 * **Improve Your Site’s User Experience** – Find out how people behave on your site, which pages they visit, which device or browser they use so you can improve the user experience of your website.
+
+### WordPress Setup
