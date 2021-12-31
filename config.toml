@@ -34,7 +34,7 @@ name = "Contact"
 url = "/contact"
 weight = 5
 [[menu.main]]
-name = "Consult"
+name = "Free Consult"
 url = "/book-a-consultation"
 weight = 6
 
