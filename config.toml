@@ -30,13 +30,17 @@ name = "Links"
 url = "/links"
 weight = 4
 [[menu.main]]
+name = "Brands"
+url = "/brands"
+weight = 5
+[[menu.main]]
 name = "Contact"
 url = "/contact"
-weight = 5
+weight = 6
 [[menu.main]]
 name = "Free Consult"
 url = "/book-a-consultation"
-weight = 6
+weight = 7
 
 # Sitemap Menu
 [[menu.sitemap]]
