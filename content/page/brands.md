@@ -12,4 +12,4 @@ Here lives the projects, brands, startups and businesses of Stephen Ajulu.
 - MobiTraverse(Coming Soon) - Complete VIP Travels and Tours Experience
 - Bio.ID(Coming Soon) - Digital Identity As A Service Based On Blockchain
 - BioEmergency(Coming Soon) - Immutable Medical History Based on The Hyperledger System
-- ProjectIQ(Coming Soon) - Immutable & Decentralized Project Management Based on Blockchain
+- ProjectIQ(Coming Soon) - Immutable Project Management Based on The Hyperledger
