@@ -26,21 +26,17 @@ name = "Store"
 url = "/store"
 weight = 3
 [[menu.main]]
-name = "Links"
-url = "/links"
-weight = 4
-[[menu.main]]
 name = "Brands"
 url = "/brands"
-weight = 5
+weight = 4
 [[menu.main]]
 name = "Contact"
 url = "/contact"
-weight = 6
+weight = 5
 [[menu.main]]
-name = "Free Consult"
+name = "Free Consultation"
 url = "/book-a-consultation"
-weight = 7
+weight = 6
 
 # Sitemap Menu
 [[menu.sitemap]]
@@ -61,11 +57,11 @@ footerLogo = "images/site-navigation/signaturewhite (Custom).png" #footerLogo = 
 formaction = "thankyou"
 logo = "images/site-navigation/logo2.svg"
 featureImage = "images/social.png"
-description = "Hi! I'm Stephen Ajulu, a Web Developer, Writer & Consultant, focused on building effective, impactful products, brands, websites, and solutions. Contact me to order a service, book a consultation or support my problem-solving endeavors. I also write articles. So go check them out too."
+description = "Hi! I'm Stephen Ajulu, a Web Developer, Writer & I.T Expert, focused on building impactful products, brands, websites, and solutions. Contact me to order a service, book a consultation or support my problem-solving endeavors. I also write articles. So go take a look."
 monetization = "$ilp.uphold.com/GLrwmQrfDeU9"
 author = "Stephen Ajulu"
 keywords = "Stephen Ajulu, Ajulu, Front-end Web Development, Web Design, Web Development, Writing, Write, Web Developer, Writer, Content Creator, Creator, Creative, Hugo, JAMstack, WordPress, Webflow, Carrd, Landing Pages, Websites, Small business, Typography, Technology, Design, Cyber Security, Digital Products, Blog, Ajulu's Thoughts, Problem Solving, Solutions, Sustainability, Innovation"
-strapline = "Web Developer, Writer & Consultant with 6 years of Experience"
+strapline = "Web Developer, Writer & IT Expert with 6 years of Experience"
 location = "Nairobi, Kenya"
 creator = "stephenajulu"
 GithubEdit = "https://github.com/stephenajulu/stephenajulu.com7/edit/master/content/"
