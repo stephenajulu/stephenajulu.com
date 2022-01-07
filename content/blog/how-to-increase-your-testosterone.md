@@ -21,6 +21,7 @@ date: 2021-12-19T06:28:00.000+03:00
 hero: "/images/simone-pellegrini-l3qg_oblut0-unsplash.jpg"
 description: 'Here''s how you can increase your testosterone and become more masculine.
   Article written by a man with hypogonadism on TRT. '
+draft: true
 
 ---
 Hi guys, how are you doing? It's alright!
