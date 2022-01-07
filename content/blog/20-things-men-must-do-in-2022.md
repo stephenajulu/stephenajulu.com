@@ -19,6 +19,7 @@ date: 2021-12-27T15:43:00.000+03:00
 hero: "/images/imageedit_27_9513163132.jpg"
 description: Here are 20 things I believe we(MEN) must do in 2022 for success and
   fulfillment
+draft: true
 
 ---
 Look, guys, I'm in no way or shape better than you. We are just all men here doing our best to improve ourselves and those around us. Constant self-improvement is key.
