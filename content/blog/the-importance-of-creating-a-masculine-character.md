@@ -22,7 +22,6 @@ date: 2021-12-11T09:51:00.000+03:00
 hero: "/images/simone-pellegrini-l3qg_oblut0-unsplash.jpg"
 description: Here I outline the benefits of creating a masculine character and working
   towards becoming this character.
-draft: true
 
 ---
 Hi guys, how are you doing?
