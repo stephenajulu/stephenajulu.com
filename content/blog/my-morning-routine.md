@@ -41,8 +41,8 @@ I have a bodyweight workout routine I follow.
 
 Right now that is:
 
-1. 100 Knee Pushups (2 variations 60/40)
-2. 200 Bicep Curls (An extra 100 for strength)
+1. 100 Pushups (2 variations 60/40)
+2. 200 Bicep Curls (An extra 100 for the heck of it)
 3. 100 Lateral Raises
 4. 100 Squats (2 variations 50/50)
 5. 100 Calve Raises
