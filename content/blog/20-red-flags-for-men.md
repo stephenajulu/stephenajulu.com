@@ -3,13 +3,13 @@ authors: []
 categories: []
 tags: []
 title: '20 Red Flags(for men) '
-date: 
+date: 2022-01-10T13:25:00+03:00
 hero: ''
 description: ''
 draft: true
 
 ---
-Hello guys, today I'll cover 20 red flags that if you see from a woman, run away.
+Hello guys, today I'll cover 20 red flags that if you see from a woman, run away very fast.
 
  1. Too many male friends and male best friends
  2. Calls you and/or other men "bro"
@@ -31,3 +31,4 @@ Hello guys, today I'll cover 20 red flags that if you see from a woman, run away
 18. Doesn't respect you - If a woman doesn't respect you she will cheat on you. Simple as that.
 19. Big notch/body counts - A woman who has been with multiple men CAN NOT be monogamous. It's impossible. She has formed multiple soul ties with men and is therefore unable to form a solid bond with a single man. Be very careful with these types. They will cheat on you multiple times and not feel guilty. Stay away especially if she lost her virginity while she was very young unless she was raped.
 20. Very active on social media posting sexy or somewhat sexy pics - This means she's looking for someone else.
+21. Bonus: Is into astrology and new age beliefs
