@@ -1,11 +1,18 @@
 ---
-authors: []
-categories: []
-tags: []
+authors:
+- Stephen Ajulu
+categories:
+- Dating
+tags:
+- dating
+- for men
+- men
+- red flags
 title: '20 Red Flags(for men) '
 date: 2022-01-10T13:25:00+03:00
-hero: ''
-description: ''
+hero: "/images/olga-solodilova-2hwdnsti2zw-unsplash.jpg"
+description: Men, here are 20 red flags, that if you see in/on a woman, run away.
+  RUN!
 draft: true
 
 ---
