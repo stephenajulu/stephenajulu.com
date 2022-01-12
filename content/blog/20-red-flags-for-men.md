@@ -9,7 +9,7 @@ tags:
 - men
 - red flags
 title: Men, Here Are 20 Characteristics Of The Women to Avoid
-date: 2022-01-10T13:25:00+03:00
+date: 2022-01-10T13:25:00.000+03:00
 hero: "/images/olga-solodilova-2hwdnsti2zw-unsplash.jpg"
 description: Men, here are 20 red flags, that if you see in/on a woman, run away.
   RUN!
@@ -23,11 +23,11 @@ Hello guys, today I'll cover 20 red flags that if you see from a woman, run away
  4. Heavily tattooed and pierced
  5. Dislikes her father/daddy issues
  6. Is a feminist
- 7. Earns more than you - Not necessarily a red flag. But as a man, you should earn more than her.
- 8. Is older than you - It's imperative that you marry a girl younger than you. This breeds respect. Older women may pretend to respect you but once you marry them things take a turn for the worst.
+ 7. Earns more than you - Not necessarily a red flag. But a word of caution. Make sure you earn more, this ties in with the next point
+ 8. Is older than you - if she's younger it will be easier for her to respect you vs vice-versa 
  9. Is fat - If she's fat and is comfortable being fat, she will have issues with childbirth. Not to mention her hormones are messed up and she's likely very moody.
-10. Has kids from different fathers - Do I really need to tell you why this is bad? The only time this is understandable is if she's been widowed multiple times. But this in itself is also a red flag. She could be a "black widow spider". 
-11. Has kids, period - Unless widowed.
+10. Has kids from different fathers - Do I really need to tell you why this is bad? The only time this is understandable is if she's been widowed multiple times. But this in itself is also a red flag. She could be a "black widow spider".
+11. Has kids, period - Unless widowed. Simply because you will have the responsibility of taking care of the kids but you won't be able to discipline the kids
 12. Is unhappy and unlucky - If laughter and yawning are contagious, then guess what? Being unhappy and unlucky are too. There are those you can help but generally, most women prefer not being changed by a man.
 13. Always negative - A person dear to me calls them "People with a Ph.D. (Pull him Down)". Negativity is contagious.
 14. Keeps men from her past around - This is a big red flag. Why would you keep someone you ended a relationship with around?
