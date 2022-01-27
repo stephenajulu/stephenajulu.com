@@ -18,7 +18,7 @@ draft: true
 ---
 Hello there! How are you? With no second to waste let's jump right in. But before that remember that you have to first put in work on yourself. Improve yourself first. Be worthy of seeking out these high-quality women.
 
- 1. Has a good relationship with her father: I always say this, if she can't respect her father what makes you think she will respect you? Does she speak highly of him? What does the family look like? If she has a good relationship with her father then that's great. 
+ 1. Has a good relationship with her father: I always say this, if she can't respect her father what makes you think she will respect you? Does she speak highly of him? What does the family look like? If she has a good relationship with her father then that's great.
  2. She's nurturing. Does she take care of you when you are sick?
  3. She stays away from drama and gossip
  4. Doesn't use social media frequently unless she's using it for work/business
@@ -34,4 +34,5 @@ Hello there! How are you? With no second to waste let's jump right in. But befor
 14. She's tidy, clean, and cleans/tidies up unprompted consistently
 15. She likes kids and treats them sweetly
 16. Doesn't talk to multiple guys constantly
-17. 
+17. She respects you and is willing to sacrifice certain things for the betterment of the relationship
+18. 
