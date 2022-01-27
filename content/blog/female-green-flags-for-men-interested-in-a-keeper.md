@@ -36,4 +36,5 @@ Hello there! How are you? With no second to waste let's jump right in. But befor
 16. Doesn't talk to multiple guys constantly
 17. She respects you and is willing to sacrifice certain things for the betterment of the relationship
 18. She's submissive
-19. 
+19. She brings solutions to your life, she's a compliment in your life, is useful, and brings something to the table
+20. She's collaborative
