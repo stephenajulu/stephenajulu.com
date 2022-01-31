@@ -31,3 +31,5 @@ Hello there guys! How are you? Today I'd like to cover the benefits of bathing w
 * **Build your resilience.** “Cold showers definitely help with mental resilience,” says Hayes. “Simply having one is a feat of willpower in itself. You’re training your body and mind to go out of your comfort zone, which makes you stronger and more resilient. Things that once felt really tough can suddenly feel a lot less tough as you can tolerate more physical and mental discomfort.”
 * **Raises testosterone.** When athletes were subjected to extremely low temperatures after a tough sprint session, the concentration of testosterone in their saliva was 21 percent higher two hours after their workout, and 28 percent higher after 24 hours, sports scientists at Swansea University found. Being athletes, they used a cryotherapy chamber, but a cold dip will work just as well.
 * **Keeps skin and hair healthy.** Hot water extracts oil from the skin hence drying it out.
+
+And that's it for today. My suggestion? Start taking cold showers. Do this gradually.
