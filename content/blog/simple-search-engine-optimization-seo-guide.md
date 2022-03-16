@@ -30,6 +30,10 @@ Great Content = Larger Audience
 
 See: [Schema Markup](https://schema.org/docs/schemas.html), [JSON-LD](https://json-ld.org/), [Twitter Meta](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/markup), [Og-Graph](https://ogp.me/), and [MicroData](https://www.w3.org/TR/microdata/)
 
+This HTML guide should help you do the necessary and implement these markups: [HTML for beginners](https://www.websiteplanet.com/blog/html-guide-beginners/)
+
+Hugo users, kindly check this [article](https://stephenajulu.com/blog/how-to-add-schema-json-ld-to-your-hugo-blog-site) out.
+
 ## 4. Load Content/Site Fast
 
 Slow Site=Low Engagement & Interaction.
