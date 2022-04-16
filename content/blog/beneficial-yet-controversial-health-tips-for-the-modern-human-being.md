@@ -13,10 +13,9 @@ tags:
 - food
 title: Beneficial Yet Controversial Health Tips for The Modern Human Being
 date: 2022-04-16T12:00:00+03:00
-hero: ''
+hero: "/images/emma-simpson-mngaalewep0-unsplash.jpg"
 description: Here are some beneficial yet controversial health tips for the modern
   human being
-draft: true
 
 ---
 Hello Everyone! How are you doing?
