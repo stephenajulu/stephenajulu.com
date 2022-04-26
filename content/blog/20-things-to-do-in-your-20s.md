@@ -30,7 +30,7 @@ description: Here are 20 things you should do in your twenties to get ahead ft J
 
 ##### 9. Create more than you consume
 
-##### 10. Play the long game
+##### 10. Play the long game. Long term thinking + vision beats everything else
 
 ##### 11. Remember the key is to buy time with money, not the other way around
 
