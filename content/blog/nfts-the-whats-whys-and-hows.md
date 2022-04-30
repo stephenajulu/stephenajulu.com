@@ -93,4 +93,6 @@ The notable difference between something that is purely a collectible, like the 
 
 Now that you have the nuts and bolts of what an NFT is, how they are made, and where to find them, you can decide whether this is an experiment that you’ll be trying for yourself or whether you’ll let some more time go by before dipping your toe into the NFT waters.
 
-Article by [**Pamela Tatam**](https://porch.com/advice/author/189)
+**Article by** [**Pamela Tatam**](https://porch.com/advice/author/189)
+
+**Source:** [**Porch**](https://porch.com/advice/nfts-what-why-and-how)
