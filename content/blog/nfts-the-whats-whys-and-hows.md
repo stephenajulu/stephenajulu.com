@@ -9,8 +9,8 @@ tags:
 - nfts
 - non fungible tokens
 - cryptocurrencies
-title: 'NFTs: The Whats, Whys and Hows'
-date: 2022-04-30T12:01:00+03:00
+title: 'NFTs: The What, Why and How'
+date: 2022-04-30T12:01:00.000+03:00
 hero: "/images/istock-1363842094.jpg"
 description: Learn all about NFTs
 
