@@ -37,6 +37,7 @@ These coins may hold future technologies or may be used to power amazing things.
 18. Mines of Dalarnia
 19. Project Galaxy
 20. Decentraland
+21. Verasity
 
 **NOT FINANCIAL ADVICE**
 
