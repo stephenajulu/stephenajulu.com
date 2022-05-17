@@ -5,7 +5,7 @@ categories:
 - health
 tags:
 - health
-title: Antimicrobial Formula
+title: Antimicrobial Formula(Natural Antibiotic)
 date: 2022-05-17T03:36:00+03:00
 hero: "/images/dominik-martin-jyfmyif4n70-unsplash.jpg"
 description: Here's an antimicrobial formula that can boost your immunity and help
