@@ -38,4 +38,4 @@ Here are health tips that will reverse hypertension, high blood sugar, cancer, m
 
 #### 11. Avoid synthetic vitamins
 
-#### 12. Eat non packaged food
+#### 12. Avoid packaged, fortified and processed food
