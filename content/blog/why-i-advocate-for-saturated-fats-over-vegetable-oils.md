@@ -9,9 +9,8 @@ tags:
 - lifestyle
 title: Why I Advocate For Saturated Fats Over Vegetable Oils
 date: 2022-05-18T19:19:00+03:00
-hero: ''
+hero: "/images/ashwini-chaudhary-monty-w0oykevw9n4-unsplash.jpg"
 description: Why I Advocate For Saturated Fats Over Vegetable Oils
-draft: true
 
 ---
 Here's why I believe saturated animal fats, coconut oil, avocado oil, and olive oil should replace ALL your vegetable oils:
@@ -155,3 +154,5 @@ This article is a compilation of my thoughts, research, investigations, and exce
 PS: Sources, if you believe I have not linked your website here yet have used your content, kindly write to me via the contact form: [here](https://stephenajulu.com/contact).
 
 Have a great day!
+
+Photo by [Ashwini Chaudhary(Monty)](https://unsplash.com/@suicide_chewbacca?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
