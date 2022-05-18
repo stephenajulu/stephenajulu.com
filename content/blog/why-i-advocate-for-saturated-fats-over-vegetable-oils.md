@@ -155,4 +155,13 @@ PS: Sources, if you believe I have not linked your website here yet have used yo
 
 Have a great day!
 
+Additional Resources:
+
+* [Healthiest Cooking Fats](https://www.nuffieldhealth.com/article/cooking-oils-a-guide-to-the-healthiest-fats#:\~:text=Because%20of%20these%20multiple%20%27unsaturated,t%20be%20used%20in%20cooking.)
+* [Why You Should Avoid PUFAs](https://www.harpersbazaar.com/beauty/diet-fitness/a10965/pufa-free-diet/)
+* [PUFA Study](http://www.westonaprice.org/blogs/cmasterjohn/ajcn-publishes-a-new-pufa-study-that-should-make-us-long-for-the-old-days/)
+* [PUFA Study 2](http://www.westonaprice.org/blogs/cmasterjohn/ajcn-publishes-a-new-pufa-study-that-should-make-us-long-for-the-old-days/)
+* [Book Summary: The Big Fat Suprise by Nina Teicholz](https://stephenajulu.com/blog/key-ideas-in-the-big-fat-surprise-by-nina-teicholz/)
+* [The Skinny on Fat, Part 2: How Carbohydrates Make You Fat](https://www.smallfootprintfamily.com/the-skinny-on-fat-part-2 "The Skinny on Fat, Part 2")
+
 Photo by [Ashwini Chaudhary(Monty)](https://unsplash.com/@suicide_chewbacca?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
