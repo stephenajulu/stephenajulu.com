@@ -6,7 +6,7 @@
 $primary: #6320D6; // #5D78FF;#6C63FF
 $secondary: #39088F; // #282f49
 // Text
-$headings-color: #282f49;
+$headings-color: #000000; // 282f49
 $body-color: #7e7e8a;
 
 //
@@ -29,7 +29,7 @@ $h6-font-size: 16px;
 
 // Spacing
 $headings-margin-bottom: 1.5rem;
-$headings-font-weight: 400 !important;
+$headings-font-weight: normal; // 400 !important
 $line-height-base: 1.75;
 
 // Misc
