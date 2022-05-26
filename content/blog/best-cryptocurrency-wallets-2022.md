@@ -39,4 +39,4 @@ Here are some great wallets for holding your crypto:
 
 Photo by [olieman.eth](https://unsplash.com/@moneyphotos?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/cryptocurrency-wallet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
-<a href="https://unstoppabledomains.com/?ref=d066811aa8ea4f2"><img src="/images/unstoppabledomainsad.webp" width="660px"></a>
+<a href="https://unstoppabledomains.com/?ref=d066811aa8ea4f2"><img src="/images/unstoppabledomainsad.webp" width="670px"></a>
