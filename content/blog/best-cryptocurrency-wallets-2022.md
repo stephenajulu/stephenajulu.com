@@ -21,7 +21,7 @@ hero: "/images/olieman-eth-evqnygt1pwg-unsplash.jpg"
 description: Get your cryptocurrencies off exchanges and into wallets now!
 
 ---
-According to this tweet: 
+According to this tweet:
 
 {{< tweet 1523223514815238144 >}}
 
@@ -38,3 +38,5 @@ Here are some great wallets for holding your crypto:
 7. [Ledger Nano S](https://shop.ledger.com/products/ledger-nano-s)_(Hardware/Cold)_
 
 Photo by [olieman.eth](https://unsplash.com/@moneyphotos?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/cryptocurrency-wallet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+<a href="https://unstoppabledomains.com/?ref=d066811aa8ea4f2"><img src="/images/unstoppabledomainsad.webp" width="560px"></a>
