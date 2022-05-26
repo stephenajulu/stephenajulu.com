@@ -24,7 +24,7 @@ tags:
 - mint
 - minting
 title: What are NFTs? Non Fungible Tokens Explained
-date: 2021-11-30T18:36:00+03:00
+date: 2021-11-30T18:36:00.000+03:00
 hero: "/images/nft-art-what-is-it.jpg"
 description: In this article, i'll tell you exactly what nfts are and why they are
   worth a lot of money. Non Fungible Tokens Explained.
@@ -119,3 +119,5 @@ Although these platforms and others are host to thousands of NFT creators and co
 In addition, the verification processes for creators and NFT listings aren’t consistent across platforms — some are more stringent than others. OpenSea and Rarible, for example, do not require owner verification for NFT listings. Buyer protections appear to be sparse at best, so when shopping for NFTs, it may be best to keep the old adage “caveat emptor” (let the buyer beware) in mind.
 
 Source: [Forbes](https://www.forbes.com/advisor/investing/nft-non-fungible-token/)
+
+<a href="https://unstoppabledomains.com/?ref=d066811aa8ea4f2"><img src="/images/unstoppabledomainsad.webp" style="width: 100%; height: auto;"></a>
