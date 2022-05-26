@@ -15,7 +15,7 @@ tags:
 - fleek
 - heroku
 title: Host Your Website For Free, Make It Web3 Compliant and Earn Money From It
-date: 2022-05-26T17:34:00+03:00
+date: 2022-05-26T20:30:00+03:00
 hero: "/images/le-buzz-kieii2b9gku-unsplash.jpg"
 description: How to host your website for free, make it web3 friendly, and earn money
   from your content
