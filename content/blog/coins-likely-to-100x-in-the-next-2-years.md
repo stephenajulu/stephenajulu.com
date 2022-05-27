@@ -36,4 +36,12 @@ Do further research by yourself.
 
 #### 5. Ethereum
 
+To buy any of these cryptocurrencies I suggest you use Binance.
+
+Binance is a cryptocurrency exchange that is currently the largest exchange in the world in terms of the daily trading volume of cryptocurrencies.
+
+#### Register by visiting this link: [**Binance**](https://accounts.binance.com/en/register?ref=CL2JFAB6)
+
 Photo by [Ferhat Deniz Fors](https://unsplash.com/@ferhat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/tokens?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+<a href="https://unstoppabledomains.com/?ref=d066811aa8ea4f2"><img src="/images/unstoppabledomainsad.webp" style="width: 100%; height: auto;"></a>
