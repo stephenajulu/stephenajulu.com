@@ -12,7 +12,7 @@ service:
     image: images/service/webundraw.svg
     link: #
   - content: >
-      #### Brand Identity and Logo Design
+      #### Brand Identity & Logo Design
     
       I design logos, brand identities, signatures, posters, Instagram posts and more
     image: images/service/graphicbrandingundraw.svg
@@ -30,7 +30,7 @@ service:
     image: images/service/seoundraw.svg
     link: #
   - content: >
-      #### Photo Editing
+      #### Photo Editing & Manipulation
       
       I manipulate and edit photos to further enhance and bring out your features
     image: images/service/photoeditundraw.svg
