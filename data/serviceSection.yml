@@ -6,15 +6,21 @@ title: >
 
 service:
   - content: >
-      #### Web Development, Design & Management
+      #### Web Development & Design
       
-      I create fast Wordpress websites and Hugo blogs
+      I design and build performant Wordpress, Carrd, Ghost and Hugo websites/blogs
     image: images/service/webundraw.svg
+    link: #
+  - content: >
+      #### Brand Identity and Logo Design
+    
+      I design logos, brand identities, signatures, posters, Instagram posts and more
+    image: images/service/graphicbrandingundraw.svg
     link: #
   - content: >
       #### Content Creation & Management
 
-      I write informative well researched tech articles
+      I write/edit informative well researched tech, lifestyle and finance articles
     image: images/service/contentundraw.svg
     link: #
   - content: >
@@ -29,15 +35,11 @@ service:
       I am available for partnerships, cofounds and affiliates
     image: images/service/affiliateundraw.svg
     link: #
-  - content: >
-      #### Web Design(Coming Soon)
-    
-      I will be designing websites using Figma and Webflow
-    image: images/service/graphicbrandingundraw.svg
-    link: #
+
   - content: >
       #### Supply of ICT Equipment & Software
       
       I supply computers, laptops, accessories and software
     image: images/service/computersupplyundraw.svg
     link: #
+
