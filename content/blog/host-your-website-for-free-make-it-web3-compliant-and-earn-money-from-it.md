@@ -15,7 +15,7 @@ tags:
 - fleek
 - heroku
 title: Host Your Website For Free, Make It Web3 Compliant and Earn Money From It
-date: 2022-05-26T20:30:00+03:00
+date: 2022-05-26T20:30:00.000+03:00
 hero: "/images/le-buzz-kieii2b9gku-unsplash.jpg"
 description: How to host your website for free, make it web3 friendly, and earn money
   from your content
@@ -54,13 +54,15 @@ Now, this depends on what tech stack you are using. I won't lay down the details
 
 As far as I know, the only possible way is by making a static site web3 compliant. I don't know how to make a dynamic site web3 compliant hence will only cover static sites.
 
-There are three URL options:
+There are four URL options:
 
 1\. **Constant Hashes** => serve as links within ipfs and have been discussed in my previous article.
 
 2\. **DNSLink** => Simply put, a regular Web2.0 domain name from a DNS record.
 
 3\. **ENS** => Dynamic Url with a ' _.eth_ ' ending and that is more readable than IPNs links. I would argue that this is the best domain choice for establishing a website, but the first option is free :)
+
+4. [**Unstoppable Domains**](https://unstoppabledomains.com/?ref=d066811aa8ea4f2) => Dynamic Url with multiple endings. My recommended choice.
 
 #### Static Sites
 
@@ -102,3 +104,5 @@ Follow [**this**](https://basicattentiontoken.org/publisher-terms-of-service/) a
 Create an account on Gumroad, and start creating digital products and selling. Then use their overlay widget on your website
 
 Photo by [Le Buzz](https://unsplash.com/@le_buzz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/website?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+<a href="https://unstoppabledomains.com/?ref=d066811aa8ea4f2"><img src="/images/unstoppabledomainsad.webp" style="width: 100%; height: auto;"></a>
