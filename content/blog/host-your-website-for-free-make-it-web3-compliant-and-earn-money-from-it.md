@@ -43,7 +43,7 @@ That's it. Depending on the static version you used. It will take some time.
 
 #### Dynamic Websites
 
-Now, this depends on what tech stack you are using. I won't lay down the details. Rather I'll provide you with a few hosting solutions.
+Now, this depends on what tech stack you are using. I won't lay down the details. Rather I'll provide you with a few hosting solutions, both free and paid.
 
 1. [Heroku](https://heroku.com)
 2. [Digital Ocean](https://digitalocean.com)
