@@ -26,26 +26,26 @@ service:
   - content: >
       #### Website & Search Engine Optimization
       
-      I speed up, scale up and search engine optimize websites/blogs for better responsiveness
+      I speed up, scale up and search engine optimize websites/blogs
     image: images/service/seoundraw.svg
     link: #
   - content: >
       #### Photo Editing
       
-      I manipulate and edit photos
+      I manipulate and edit photos to further enhance and bring out your features
     image: images/service/photoeditundraw.svg
     link: #
   - content: >
       #### Affiliate Marketing & Partnership
 
-      I am available for partnerships, cofounds and affiliates
+      I am available for partnerships, cofounds, guest posting and affiliates
     image: images/service/affiliateundraw.svg
     link: #
 
   - content: >
       #### Supply of ICT Equipment & Software
       
-      I supply computers, laptops, accessories and software
+      I supply quality Ex-UK/Japan computers, laptops, accessories and software
     image: images/service/computersupplyundraw.svg
     link: #
 
