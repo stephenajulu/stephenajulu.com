@@ -26,8 +26,14 @@ service:
   - content: >
       #### Website & Search Engine Optimization
       
-      I speed up, scale up and search engine optimize websites
+      I speed up, scale up and search engine optimize websites/blogs for better responsiveness
     image: images/service/seoundraw.svg
+    link: #
+  - content: >
+      #### Photo Editing
+      
+      I manipulate and edit photos
+    image: images/service/photoeditundraw.svg
     link: #
   - content: >
       #### Affiliate Marketing & Partnership
