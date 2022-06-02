@@ -10,7 +10,7 @@ tags:
 - cryptocurrency
 - cryptocurrencies
 title: Coins You Should Be Buying During This Dip and HODL Long Term
-date: 2022-05-17T12:22:00+03:00
+date: 2022-05-17T12:22:00.000+03:00
 hero: "/images/quantitatives-hio84a6fnvw-unsplash.jpg"
 description: Coins You Should Be Buying During This Dip and HODL Long Term
 
@@ -51,4 +51,4 @@ Binance is a cryptocurrency exchange that is currently the largest exchange in t
 
 Photo by [Quantitatives](https://unsplash.com/@quantitatives?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/ViTy1SLGMxk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
-<a href="https://unstoppabledomains.com/?ref=d066811aa8ea4f2"><img src="/images/unstoppabledomainsad.webp" style="width: 100%; height: auto;"></a>
+<a href="https://unstoppabledomains.pxf.io/qnXOv5"><img src="/images/unstoppabledomainsad.webp" style="width: 100%; height: auto;"></a>
