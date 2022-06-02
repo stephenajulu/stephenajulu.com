@@ -52,8 +52,12 @@ featureImage = "images/social.png"
 description = "Hello! I'm Stephen Ajulu, a Writer, Designer and Creator focused on building impactful brands while writing informative pieces on tech and self improvement."
 monetization = "$ilp.uphold.com/GLrwmQrfDeU9"
 author = "Stephen Ajulu"
+<<<<<<< HEAD
 keywords = "Stephen Ajulu, Front-end Web Development, Web Design, Web Development, Writing, Write, Web Developer, Writer, Content Creator, Creator, Creative, Hugo, JAMstack, WordPress, Webflow, Carrd, Landing Pages, Websites, Small business, Typography, Technology, Design, Cyber Security, Digital Products, Blog, Ajulu's Thoughts, Problem Solving, Solutions, Sustainability, Innovation"
 tags = "Stephen Ajulu, Portfolio, Personal Site, Blog, Tech, Design, Lifestyle, Investments"
+=======
+keywords = "Stephen Ajulu, Ajulu, Front-end Web Development, Web Design, Web Development, Writing, Write, Web Developer, Writer, Content Creator, Creator, Creative, Hugo, JAMstack, WordPress, Webflow, Carrd, Landing Pages, Websites, Small business, Typography, Technology, Design, Cyber Security, Digital Products, Blog, Ajulu's Thoughts, Problem Solving, Solutions, Sustainability, Innovation"
+>>>>>>> parent of 41c00dc (Update config.toml)
 strapline = "Writer, Creator & Designer"
 location = "Nairobi, Kenya"
 creator = "stephenajulu"
