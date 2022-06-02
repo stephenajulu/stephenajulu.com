@@ -62,7 +62,7 @@ There are four URL options:
 
 3\. **ENS** => Dynamic Url with a ' _.eth_ ' ending and that is more readable than IPNs links. I would argue that this is the best domain choice for establishing a website, but the first option is free :)
 
-4. [**Unstoppable Domains**](https://unstoppabledomains.com/?ref=d066811aa8ea4f2) => Dynamic Url with multiple endings. My recommended choice.
+1. [**Unstoppable Domains**](https://unstoppabledomains.pxf.io/qnXOv5) => Dynamic Url with multiple endings. My recommended choice.
 
 #### Static Sites
 
@@ -105,4 +105,4 @@ Create an account on Gumroad, and start creating digital products and selling. T
 
 Photo by [Le Buzz](https://unsplash.com/@le_buzz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/website?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
-<a href="https://unstoppabledomains.com/?ref=d066811aa8ea4f2"><img src="/images/unstoppabledomainsad.webp" style="width: 100%; height: auto;"></a>
+<a href="https://unstoppabledomains.pxf.io/qnXOv5"><img src="/images/unstoppabledomainsad.webp" style="width: 100%; height: auto;"></a>
