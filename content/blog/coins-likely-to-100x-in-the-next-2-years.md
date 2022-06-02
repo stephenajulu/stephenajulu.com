@@ -19,7 +19,7 @@ tags:
 - green life energy
 - pac man frog
 title: Coins Likely To 100x In The Next 2 Years
-date: 2022-05-25T10:00:00+03:00
+date: 2022-05-25T10:00:00.000+03:00
 hero: "/images/ferhat-deniz-fors-yocdd-d4oom-unsplash.jpg"
 description: Here are coins likely to 100x in just a few years maybe even months
 
@@ -44,4 +44,4 @@ Binance is a cryptocurrency exchange that is currently the largest exchange in t
 
 Photo by [Ferhat Deniz Fors](https://unsplash.com/@ferhat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/tokens?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
-<a href="https://unstoppabledomains.com/?ref=d066811aa8ea4f2"><img src="/images/unstoppabledomainsad.webp" style="width: 100%; height: auto;"></a>
+<a href="https://unstoppabledomains.pxf.io/qnXOv5"><img src="/images/unstoppabledomainsad.webp" style="width: 100%; height: auto;"></a>
