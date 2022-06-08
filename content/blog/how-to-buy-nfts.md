@@ -49,11 +49,11 @@ If you want your NFTs on a different network than Ethereum's blockchain, then ch
 
 However, the Ethereum network has become increasingly congested in recent months, causing transaction fees to increase dramatically.
 
-However, the Ethereum network has become increasingly congested in recent months, causing transaction fees to increase dramatically. Transaction fees are a way to pay the network for processing transactions—they're paid in ETH, so you'll need some ETH in your wallet before you can make an NFT purchase. You may be wondering how much these transaction costs are going to run up your bill. Unfortunately for us all, there's no easy answer; transaction fees are calculated by the network and vary based on things like gas price (a measure of how much "fuel" is required for a given transaction), gas used per byte of data sent across the blockchain (the more bytes you send at once means more gas consumption), and total demand on nodes at any given time—if everyone tries to use their Ethereum address right now instead of later when there's less congestion on Ethereum itself then that means higher load times which leads back around again...
+However, the Ethereum network has become increasingly congested in recent months, causing transaction fees to increase dramatically. Transaction fees are a way to pay the network for processing transactions—they're paid in ETH, so you'll need some ETH in your wallet before you can make an NFT purchase. You may be wondering how much these transaction costs are going to run up on your bill. Unfortunately for us all, there's no easy answer; transaction fees are calculated by the network and vary based on things like gas price (a measure of how much "fuel" is required for a given transaction), gas used per byte of data sent across the blockchain (the more bytes you send at once means more gas consumption), and total demand on nodes at any given time—if everyone tries to use their Ethereum address right now instead of later when there's less congestion on Ethereum itself then that means higher load times which leads back around again...
 
 Alternative networks like Polygon and Solana offer lower fees and faster transaction processing times than Ethereum.
 
-Ethereum is the most popular network for NFTs, but it's not the only option. In fact, Polygon and Solana offer benefits that Ethereum doesn't: low fees, fast transaction times and higher scalability.
+Ethereum is the most popular network for NFTs, but it's not the only option. In fact, Polygon and Solana offer benefits that Ethereum doesn't: low fees, fast transaction times, and higher scalability.
 
 Polygon is a network for hosting new applications and games that are built on decentralized architecture. It uses its own native token (PLG) as a payment method for all transactions within the platform. Polygon also has a built-in governance system that allows users to vote on whether or not they want to include new features into the ecosystem or change existing ones; this means that users have more control over how their experience of using Polygon evolves over time.
 
@@ -82,8 +82,6 @@ To get started, you’ll need an Ethereum-compatible crypto wallet, in other wor
 
 **2. Connect your MetaMask wallet to OpenSea**
 
-![Create a Metamask wallet](https://justcreative.com/wp-content/uploads/2022/02/Create-a-Metamask-wallet-600x267.png =744x331)Create a Metamask wallet. Image credit: Metamask.io
-
 Once your wallet is up and running, head over to [OpenSea.io](http://opensea.io/).
 
 * Click on the wallet icon in the upper right corner and choose MetaMask. You’ll be requested to sign for approval to connect your wallet to OpenSea.
@@ -91,7 +89,7 @@ Once your wallet is up and running, head over to [OpenSea.io](http://opensea.io/
 
 **3. Fund your Metamask wallet with Ethereum**
 
-To buy NFTs, you need Ethereum cryptocurrency. You can buy it on central exchanges like [Binance](https://accounts.binance.com/en/register?ref=CL2JFAB6), [Coinbase](https://www.coinbase.com/), or [Kraken](https://www.kraken.com/).
+To buy NFTs, you need Ethereum cryptocurrency. You can buy it on central exchanges like [Binance](https://accounts.binance.com/en/register?ref=CL2JFAB6), [Coinbase](https://www.coinbase.com/join/ajulu_v), or [Kraken](https://www.kraken.com/).
 
 * Creating an account on these exchanges all work in similar ways. You need to undergo a verification process by providing an ID or Passport.
 * Once you’ve been verified, you can buy Ethereum. Depending on the exchange you choose, different payment options are possible. Usually, you’re able to pay with a credit card for the first time. Some exchanges also work with bank transfers.
@@ -113,12 +111,10 @@ You can view the results based on the status, price, blockchains, categories, an
 
 **4. Buy NFTs**
 
-![How to Buy NFTs on OpenSea](https://justcreative.com/wp-content/uploads/2022/02/How-to-Buy-NFTs-on-OpenSea-600x272.png =772x350)How to Buy NFTs on OpenSea. Image credit: OpenSea
-
 Using search options allows you to find new NFTs based on various criteria. When you’ve found the NFT you want to buy, click on it to get to its own page.
 
 * There are two purchasing choices on each NFT page: Buy Now and Make Offer. To acquire the NFT at the specified price, select “Buy Now” and follow the directions in your wallet. It’s worth noting that OpenSea charges a variety of fees. In effect, this implies you’ll always pay more than the NFT’s retail price.
-* You can try to purchase NFTs at a lower price than the current set price by making offers. Select the “Make an Offer” option. You’ll be asked to choose the currency you’d want to pay in. WETH, USDC, and DAI are the only three methods for making offers. You’ll have to pay a one-time gas fee if you haven’t made any purchases with these currencies with your wallet before.
+* You can try to purchase NFTs at a lower price than the current set price by making offers. Select the “Make an Offer” option. You’ll be asked to choose the currency you’d want to pay in. WETH, USDC, and DAI are the only three methods for making offers. You’ll have to pay a one-time gas fee if you haven’t made any purchases with these currencies in your wallet before.
 * Some owners choose to sell their NFTs through timed auctions, especially if there is a great demand for them. As a buyer, you’ll need WETH to create your bid by clicking the Place Bid button, precisely like you would for fixed-price NFTs.
 * Confirm the transaction on your Metamask wallet as the last step. It’s worth noting that you’ll have to pay a gas fee which can sometimes be more expensive than the NFT itself. Wait during less busy hours as a solution.
 
