@@ -11,7 +11,7 @@ tags:
 - non fungible tokens
 - non fungible token
 title: How To Buy NFTs
-date: 2022-06-08T19:00:00+03:00
+date: 2022-06-08T14:00:00+03:00
 hero: "/images/dylan-calluy-e4tbps9k_po-unsplash.jpg"
 description: NFTs, or non-fungible tokens, have been all the rage in the digital art
   community in recent months. Here's how to buy them.
