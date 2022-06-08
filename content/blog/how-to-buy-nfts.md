@@ -17,10 +17,6 @@ description: NFTs, or non-fungible tokens, have been all the rage in the digital
   community in recent months. Here's how to buy them.
 
 ---
-How to buy NFTs
-
-Introduction
-
 NFTs, or non-fungible tokens, have been all the rage in the digital art community in recent months. In short, NFTs are blockchain-backed certificates of ownership for digital objects, such as videos and images. Just like with a physical painting or sculpture, an NFT represents that you own a unique piece of content (and it's yours to keep forever), even though that content is purely digital. And just like with physical artworks at auction houses like Christie's and Sotheby's, some NFTs can sell for staggering amounts of money—like this "anime girl" GIF that sold for over $500k. So how can you jump on this emerging trend? First things first: here's what you need to know about NFTs before you buy one:
 
 NFTs are blockchain-backed certificates of ownership for digital objects, such as art or video clips.
@@ -71,9 +67,7 @@ NFTs are blockchain-backed certificates of ownership for digital objects, such a
 
 **1. Create a Web3 Wallet**
 
-![Metamask User Interface](https://justcreative.com/wp-content/uploads/2022/02/Metamask-User-Interface-600x297.png =745x369)Metamask User Interface. image credit: Metamask
-
-{{< articlepreview "/post/best-cryptocurrency-wallets-2022" >}}
+{{< articlepreview "/blog/best-cryptocurrency-wallets-2022" >}}
 
 To get started, you’ll need an Ethereum-compatible crypto wallet, in other words, _a web3 wallet_, and fund it with enough ETH. You can use a crypto wallet to purchase, sell, store, and swap crypto assets.
 
@@ -97,12 +91,12 @@ Once your wallet is up and running, head over to [OpenSea.io](http://opensea.io/
 
 **3. Fund your Metamask wallet with Ethereum**
 
-To buy NFTs, you need Ethereum cryptocurrency. You can buy it on central exchanges like [Binance](https://www.binance.com/), [Coinbase](https://www.coinbase.com/), or [Kraken](https://www.kraken.com/).
+To buy NFTs, you need Ethereum cryptocurrency. You can buy it on central exchanges like [Binance](https://accounts.binance.com/en/register?ref=CL2JFAB6), [Coinbase](https://www.coinbase.com/), or [Kraken](https://www.kraken.com/).
 
 * Creating an account on these exchanges all work in similar ways. You need to undergo a verification process by providing an ID or Passport.
 * Once you’ve been verified, you can buy Ethereum. Depending on the exchange you choose, different payment options are possible. Usually, you’re able to pay with a credit card for the first time. Some exchanges also work with bank transfers.
 * After this step, you should transfer Ethereum from the exchange to your MetaMask wallet. Again, the process is similar in every exchange. You need to copy your MetaMask address for receiving currencies and paste it into the appropriate “send” field found in the cryptocurrency exchange for Ethereum withdrawals. This section is usually found on your exchange balance. Click on the withdrawal button and paste your MetaMask wallet address and confirm.
-* Based on the cryptocurrency exchange you choose, there might be an additional security step like [Two-Factor Authentication](https://authy.com/what-is-2fa/) (2FA), in which case you need to enter a verification code during the above process.
+* Based on the cryptocurrency exchange you choose, there might be an additional security step like Two-Factor Authentication (2FA), in which case you need to enter a verification code during the above process.
 * Ethereum transfers are usually fast. But depending on the busyness of the network, it may take up to an hour in rare cases.
 
 Once your wallet is funded with enough ETH, you can search for an NFT to buy on OpenSea.
@@ -128,7 +122,7 @@ Using search options allows you to find new NFTs based on various criteria. When
 * Some owners choose to sell their NFTs through timed auctions, especially if there is a great demand for them. As a buyer, you’ll need WETH to create your bid by clicking the Place Bid button, precisely like you would for fixed-price NFTs.
 * Confirm the transaction on your Metamask wallet as the last step. It’s worth noting that you’ll have to pay a gas fee which can sometimes be more expensive than the NFT itself. Wait during less busy hours as a solution.
 
-There are more NFT marketplaces: 
+There are more NFT marketplaces:
 
 1. [Foundation](https://foundation.app)
 2. [Rarible](https://rarible.com/)
