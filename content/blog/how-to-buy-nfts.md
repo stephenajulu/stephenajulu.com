@@ -130,3 +130,5 @@ There are more NFT marketplaces:
 Conclusion
 
 While NFTs are a fun and novel way for artists to sell their work and for collectors to own pieces of digital culture, the trend is still in its early days. As such, it's important to understand how they work before purchasing them—especially since you may have to pay a hefty transaction fee depending on which network you use. Still, if you're interested in getting involved with NFTs, we hope that this article has been helpful. Happy hunting!
+
+<a href="https://unstoppabledomains.com/?ref=d066811aa8ea4f2"><img src="/images/unstoppabledomainsad.webp" style="width: 100%; height: auto;"></a>
