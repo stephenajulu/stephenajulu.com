@@ -37,6 +37,15 @@ Let's jump right in.
 8. Dial the codes for your phone make that check if the phone is genuine.
 9. Finally, trust your intuition. If the phone feels fake or a bit too cheap in relation to its specs then something's likely up. When the deal is too good, think twice.
 
+Here are some good specs:
+
+1. FHD+ Screen
+2. 4GB+ RAM
+3. 64GB+ Storage
+4. 4K Recording
+5. 4500mAh+ Battery
+6. Latest Software Updates
+
 **Conclusion:**
 
 Research beforehand, Check the box, get a warranty, get a receipt, check the phone, and trust intuition.
