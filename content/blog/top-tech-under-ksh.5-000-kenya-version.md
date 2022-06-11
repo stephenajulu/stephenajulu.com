@@ -12,16 +12,15 @@ title: Top Tech Gadgets Under ksh. 5,000 (Kenya Version)
 date: 2022-06-09T06:48:00+03:00
 hero: "/images/onur-binay-_rppmkqtttg-unsplash.jpg"
 description: Here are the top tech under 50 USD or ksh. 5,000
-draft: true
 
 ---
-Hello, today I'll be covering tech that's under 5k in Kenya and that's totally worth it.
+Hello, today I'll be covering tech that's under 5k.
 
 #### Wireless Earphones
 
 In this day and age, this is a must. We have all experienced that annoying tangling cable issue. Upgrade and use wireless earphones. Not only don't they tangle, but they also don't get in the way when working on something or working out. Here are my top recommendations
 
-i. [**Oramio Freepods3**](https://kol.jumia.com/api/click/custom/b60029f6-9eb7-4fab-b6b9-7698d536aef4/0e1c47ed-cc97-3a21-846e-3217fd1ea92a?r=https%3A%2F%2Fwww.jumia.co.ke%2Ffreepods3-true-wireless-stereo-earbuds-black-oraimo-mpg383821.html) at 3,200/=
+i. [Oramio Freepods3](https://kol.jumia.com/api/click/custom/b60029f6-9eb7-4fab-b6b9-7698d536aef4/0e1c47ed-cc97-3a21-846e-3217fd1ea92a?r=https%3A%2F%2Fwww.jumia.co.ke%2Ffreepods3-true-wireless-stereo-earbuds-black-oraimo-mpg383821.html) at 3,200/=
 
 ii. [Xiaomi Redmi Buds 3 Lite ](https://kol.jumia.com/api/click/custom/b60029f6-9eb7-4fab-b6b9-7698d536aef4/0e1c47ed-cc97-3a21-846e-3217fd1ea92a?r=https%3A%2F%2Fwww.jumia.co.ke%2Fxiaomi-redmi-buds-3-lite-black-64794832.html)at 2,500/=
 
@@ -43,17 +42,17 @@ i. [Oramio Tempo 2 ]() at 4,000/=
 
 ii. [Oramio Smart Watch](https://kol.jumia.com/api/click/custom/b60029f6-9eb7-4fab-b6b9-7698d536aef4/0e1c47ed-cc97-3a21-846e-3217fd1ea92a?r=https%3A%2F%2Fwww.jumia.co.ke%2Foraimo-smart-watch-1.69-ips-screen-ip68-waterproof-55136016.html) at 3,848/=
 
-iii. [**Xiaomi MI Band 5**](https://www.jumia.co.ke/xiaomi-mi-smart-band-5-amoled-screen-black-31626773.html) at 3,000/=
+iii. [Xiaomi MI Band 5](https://www.jumia.co.ke/xiaomi-mi-smart-band-5-amoled-screen-black-31626773.html) at 3,000/=
 
-iv. [**Amazfit Band 5**](https://kol.jumia.com/api/click/custom/b60029f6-9eb7-4fab-b6b9-7698d536aef4/0e1c47ed-cc97-3a21-846e-3217fd1ea92a?r=https%3A%2F%2Fwww.jumia.co.ke%2Famazfit-band-5-1.1-full-color-amoled-olive-61434841.html) at 4,000/=
+iv. [Amazfit Band 5](https://kol.jumia.com/api/click/custom/b60029f6-9eb7-4fab-b6b9-7698d536aef4/0e1c47ed-cc97-3a21-846e-3217fd1ea92a?r=https%3A%2F%2Fwww.jumia.co.ke%2Famazfit-band-5-1.1-full-color-amoled-olive-61434841.html) at 4,000/=
 
-v. [**Realme Smartwatch 2**](https://kol.jumia.com/api/click/custom/b60029f6-9eb7-4fab-b6b9-7698d536aef4/0e1c47ed-cc97-3a21-846e-3217fd1ea92a?r=https%3A%2F%2Fwww.jumia.co.ke%2Frealme-smart-watch-2-black-60993362.html) at 4,700/=
+v. [Realme Smartwatch 2](https://kol.jumia.com/api/click/custom/b60029f6-9eb7-4fab-b6b9-7698d536aef4/0e1c47ed-cc97-3a21-846e-3217fd1ea92a?r=https%3A%2F%2Fwww.jumia.co.ke%2Frealme-smart-watch-2-black-60993362.html) at 4,700/=
 
 #### Electric Toothbrush
 
 Just an overall good buy. Most of us don't know how to brush our teeth so we instead use force thereby wearing down both our teeth and toothbrush. The key is light circular motions and these will definitely come in handy.
 
-i. [**Fairywill E11 **](https://kol.jumia.com/api/click/custom/b60029f6-9eb7-4fab-b6b9-7698d536aef4/0e1c47ed-cc97-3a21-846e-3217fd1ea92a?r=https%3A%2F%2Fwww.jumia.co.ke%2Ffairywill-the-fairywill-e11-electric-toothbrush-61747987.html)at 4,000/=
+i. [Fairywill E11](https://kol.jumia.com/api/click/custom/b60029f6-9eb7-4fab-b6b9-7698d536aef4/0e1c47ed-cc97-3a21-846e-3217fd1ea92a?r=https%3A%2F%2Fwww.jumia.co.ke%2Ffairywill-the-fairywill-e11-electric-toothbrush-61747987.html) at 4,000/=
 
 ii. [Miniso Electric ToothBrush](https://kol.jumia.com/api/click/custom/b60029f6-9eb7-4fab-b6b9-7698d536aef4/0e1c47ed-cc97-3a21-846e-3217fd1ea92a?r=https%3A%2F%2Fwww.jumia.co.ke%2Fminiso-multi-color-electric-toothbrush-kit-light-gray-67380151.html) at 600/=
 
