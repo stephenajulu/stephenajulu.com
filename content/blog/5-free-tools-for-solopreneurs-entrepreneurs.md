@@ -11,13 +11,13 @@ tags:
 - tools
 title: '5 Free Tools For Solopreneurs/Entrepreneurs '
 excerpt: Here I list a few tools that can help solopreneurs get ahead and save time.
-date: 2021-09-16T10:28:00+03:00
+date: 2021-09-16T10:28:00.000+03:00
 hero: "/images/brooke-lark-nmffl1zjbw4-unsplash.jpg"
 
 ---
 Here are a few free tools to help ease your solo entrepreneur journey.
 
-1. [**Adobe Spark Post**](https://spark.adobe.com/) **/ Canva** - For designing posters and more
+1. [**Adobe Spark Post**](https://spark.adobe.com/) **/** [**Canva**](https://tx.bz-mail-us1.com/1/l/5c44f20e0ab045b5b1e49e1a75bb2bae?rl=https%3A%2F%2Fwww.canva.com%2Fposters%2F) - For designing posters and more
 2. [**Buffer**](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjUxcDm_4LzAhV5BWMBHXGMAiMQFnoECBcQAw&url=https%3A%2F%2Fbuffer.com%2F&usg=AOvVaw2mG4Ko83xHqqxn56We3HsR) - For scheduling social media posts & more
 3. [**Google Analytics**](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiVsIuAgIPzAhVN8BQKHTjpCAEQFnoECAwQAw&url=https%3A%2F%2Fanalytics.google.com%2F&usg=AOvVaw1Jx9i6a4S_nl7I67YnB98r)  - For studying site/app traffic and more
 4. [**Hubspot CRM **](https://www.hubspot.com/products/crm)- A customer relationship management tool to your email and track every contact emailed ever.
