@@ -214,6 +214,18 @@
 	<a class="button button-universal" href="https://accounts.binance.com/en/register?ref=CL2JFAB6">Register For Binance & Get 5%</a>
 	<br>-->
         
+	      
+
+					<ul class="unstyle-list" style="display: inline;">
+						{{ $social := .Site.Params.social }}
+						{{ range $social }}
+						<li class="d-inline-block mx-2"><a class="text-light" target="_blank" href="{{ .url }}" rel="me"><i
+									class="fa {{ .icon }}"></i></a>
+						</li>
+						{{ end }}
+					</ul>
+	      
+	      
       </div>
     </div>
   </div>
