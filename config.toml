@@ -40,10 +40,6 @@ weight = 3
 name = "Contact"
 url = "/contact"
 weight = 4
-[[menu.main]]
-name = "Studio"
-url = "studio.stephenajulu.com"
-weight = 5
 [[menu.sitemap]]
 name = "Sitemap"
 url = "https://stephenajulu.com/sitemap.xml"
