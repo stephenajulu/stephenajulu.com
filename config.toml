@@ -1,18 +1,29 @@
 baseURL = "https://stephenajulu.com"
-languageCode = "en"
-paginate = 12
 enableEmoji = true
-title = "Stephen Ajulu"
-rssLimit = 36
-enableRobotsTXT = true
 enableGitInfo = true
-pygmentsUseClasses = true
+enableRobotsTXT = true
+languageCode = "en"
+metaDataFormat = "yaml"
+paginate = 12
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
-metaDataFormat = "yaml"
-
-
-# Main Menu
+pygmentsUseClasses = true
+rssLimit = 36
+theme = ""
+title = "Stephen Ajulu"
+[adsense]
+BannerSlot = "8662937936"
+client = "ca-pub-2099668045881016"
+inArticleSlot = "5485551778"
+[author]
+email = "alunje73@gmail.com"
+facebook = "https://facebook.com/stephenajulu"
+github = "https://github.com/stephenajulu"
+linkedin = "https://linkedin.com/in/stephenajulu"
+name = "Stephen Ajulu"
+twitter = "https://twitter.com/stephenajulu"
+[markup.goldmark.renderer]
+unsafe = true
 [[menu.main]]
 name = "Home"
 url = "/"
@@ -29,57 +40,51 @@ weight = 3
 name = "Contact"
 url = "/contact"
 weight = 4
-
-# Sitemap Menu
+[[menu.main]]
+name = "Studio"
+url = "studio.stephenajulu.com"
+weight = 5
 [[menu.sitemap]]
 name = "Sitemap"
 url = "https://stephenajulu.com/sitemap.xml"
 weight = 1
-
-
+[outputFormats.RSS]
+baseName = "feed"
+mediatype = "application/rss"
+[outputs]
+home = ["HTML", "RSS", "JSON"]
 [params]
+GithubEdit = "https://github.com/stephenajulu/stephenajulu.com7/edit/master/content/"
+author = "Stephen Ajulu"
 blogPageURL = "blog"
+contactLink = "contact"
+copyright = "Stephen Ajulu"
+creator = "stephenajulu"
+description = "Hello! I'm Stephen Ajulu, a Writer, Designer and Creator focused on building impactful brands while writing informative pieces on tech and self improvement."
+featureImage = "images/social.png"
+footerLogo = "images/site-navigation/signaturewhite (Custom).png"
+formaction = "thankyou"
+formspreeURL = ""
+googleAnalytics = ""
+keywords = "Stephen Ajulu, Portfolio, Personal Site, Blog, Technology, Design, Lifestyle, Investents, Front-end Web Development, Web Design, Writing, Web Developer, Writer, Content Creator, Creator, Creative, Cyber Security, Digital Products"
+linkslink = "links"
+location = "Nairobi, Kenya"
+logo = "images/logo.svg"
+monetization = "$ilp.uphold.com/GLrwmQrfDeU9"
+portfolioPageURL = "portfolio"
 servicesPageURL = "services"
 storePageURL = "store"
-portfolioPageURL = "portfolio"
-contactLink = "contact"
-linkslink = "links"
-copyright = "Stephen Ajulu"
-footerLogo = "images/site-navigation/signaturewhite (Custom).png" #footerLogo = "images/contact/widget-logo.png"
-formaction = "thankyou"
-logo = "images/logo.svg"
-featureImage = "images/social.png"
-description = "Hello! I'm Stephen Ajulu, a Writer, Designer and Creator focused on building impactful brands while writing informative pieces on tech and self improvement."
-monetization = "$ilp.uphold.com/GLrwmQrfDeU9"
-author = "Stephen Ajulu"
-keywords = "Stephen Ajulu, Portfolio, Personal Site, Blog, Technology, Design, Lifestyle, Investents, Front-end Web Development, Web Design, Writing, Web Developer, Writer, Content Creator, Creator, Creative, Cyber Security, Digital Products"
 strapline = "Designer, Developer & Creator"
-location = "Nairobi, Kenya"
-creator = "stephenajulu"
-GithubEdit = "https://github.com/stephenajulu/stephenajulu.com7/edit/master/content/"
-
-
-[adsense]
-client = "ca-pub-2099668045881016"
-inArticleSlot = "5485551778"
-BannerSlot = "8662937936"
-
-
-[author]
-name = "Stephen Ajulu"
-email = "alunje73@gmail.com"
-twitter = "https://twitter.com/stephenajulu"
-facebook = "https://facebook.com/stephenajulu"
-github = "https://github.com/stephenajulu"
-linkedin = "https://linkedin.com/in/stephenajulu"
-
-
 [params.address]
 address = "Nairobi, Kenya."
 email = "alunje73@gmail.com"
-
-
-# Social icons
+openingHours = ""
+phone = ""
+[params.map]
+APIkey = ""
+latitude = ""
+longitude = ""
+pinImage = ""
 [[params.social]]
 icon = "fa-facebook-official"
 url = "https://www.facebook.com/stephenajulu"
@@ -104,48 +109,31 @@ weight = 5
 icon = "fa-rss-square"
 url = "https://stephenajulu.com/feed.xml"
 weight = 6
-
-
-[taxonomies]
-tag = "tags"
-category = "categories"
-author = "authors"
-
-
-[related]
-  includeNewer = true
-  threshold = 80
-  toLower = false
-[[related.indices]]
-  name = 'keywords'
-  weight = 50
-[[related.indices]]
-  name = "description"
-  weight = 30
-[[related.indices]]
-  name = 'date'
-  weight = 10
-[[related.indices]]
-  name = 'tags'
-  weight = 30
-[[related.indices]]
-  name = 'categories'
-  weight = 10
-[[related.indices]]
-  name = "title"
-  weight = 20
-  
-  
-[outputs]
-home = [ "HTML", "RSS", "JSON" ]
-
-[outputFormats]
-[outputFormats.RSS]
-mediatype = "application/rss"
-baseName = "feed"
-
 [permalinks]
-page = '/:title'
-
-[markup.goldmark.renderer]
-unsafe = true
+page = "/:title"
+[related]
+includeNewer = true
+threshold = 80
+toLower = false
+[[related.indices]]
+name = "keywords"
+weight = 50
+[[related.indices]]
+name = "description"
+weight = 30
+[[related.indices]]
+name = "date"
+weight = 10
+[[related.indices]]
+name = "tags"
+weight = 30
+[[related.indices]]
+name = "categories"
+weight = 10
+[[related.indices]]
+name = "title"
+weight = 20
+[taxonomies]
+author = "authors"
+category = "categories"
+tag = "tags"
