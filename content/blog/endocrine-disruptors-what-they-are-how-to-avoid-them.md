@@ -66,13 +66,14 @@ Excerpt from: [European Commission](https://ec.europa.eu/environment/chemicals/e
 
 Some examples of hormones secreted by the endocrine system are:
 
-* ACTH (adrenocorticotrophic hormone) - is produced by the pituitary gland to influence the release of corticosteroid hormones from the adrenal glands.
-* ADH (antidiuretic hormone, vasopressin) - is produced by the pituitary gland to stimulate water reabsorption by the kidney tubules.
-* Adrenaline (epinephrine) and noradrenaline (norepinephrine) - are two hormones formed in the adrenal gland that help the body to react (e.g., flight or fight, body defense mechanisms) under stressful conditions (they can increase the heart rate, blood pressure, blood sugar levels, blood clotting rate).
-* Estrogen - a female sex hormone produced by the ovaries.
-* Testosterone - is a male sex hormone produced by the testes, ovaries, and adrenal glands.
-* Insulin - is secreted by the pancreas and regulates the storage and use of carbohydrates in the body.
-* Thyroid hormone - is produced in the thyroid and influences the function of virtually every cell in the body (growth, development, and metabolism).
+* **ACTH (adrenocorticotrophic hormone)** - is produced by the pituitary gland to influence the release of corticosteroid hormones from the adrenal glands.
+* **ADH (antidiuretic hormone, vasopressin)** - is produced by the pituitary gland to stimulate water reabsorption by the kidney tubules.
+* **Adrenaline (epinephrine) and noradrenaline (norepinephrine)** - are two hormones formed in the adrenal gland that help the body to react (e.g., flight or fight, body defense mechanisms) under stressful conditions (they can increase the heart rate, blood pressure, blood sugar levels, blood clotting rate).
+* **Estrogen** - a female sex hormone produced by the ovaries prior to ovulation
+* **Testosterone** - is a male sex hormone produced by the testes, ovaries, and adrenal glands.
+* **Insulin** - is secreted by the pancreas and regulates the storage and use of carbohydrates in the body.
+* **Thyroid hormone** - is produced in the thyroid and influences the function of virtually every cell in the body (growth, development, and metabolism).
+* **Progesterone** - a female hormone that is secreted by ovaries after ovulation. Necessary for childbearing & birth
 
 #### What are endocrine disruptors?
 
