@@ -18,11 +18,10 @@ tags:
 - endocrine disruptor
 - disruptor
 title: 'Endocrine Disruptors: What They Are & How To Avoid Them'
-date: 2022-06-15T08:00:00+03:00
+date: 2022-06-15T21:03:00+03:00
 hero: "/images/benjamin-lehman-gkz-k3xf25w-unsplash.jpg"
 description: In this article we will cover endocrine disruptors, what they are, what
   they do and how to avoid them
-draft: true
 
 ---
 In this article, I will go over endocrine disruptors that disrupt normal hormonal health. Let's first start with the definition and work of the endocrine system.
@@ -156,3 +155,5 @@ You can't eliminate all contact with endocrine disruptors, but you can reduce yo
 * **Keep it clean.** Reduce particles of chemicals in the home by vacuuming often and wiping away dust with a damp cloth. Choose a vacuum cleaner with a HEPA filter and change other air filters often.
 * **Choose basic cleaners.** Use vinegar, baking soda, and other basic cleaners as much as possible. If you need something stronger, look for a product that lists its ingredients.
 * **Increase protein and animal fat intake**. This for example will raise testosterone and balance other key hormones
+
+That's it for today. Let me know if you'd like me to cover a topic. This is not medical advice and as such do your own research. Seek professional medical advice.
