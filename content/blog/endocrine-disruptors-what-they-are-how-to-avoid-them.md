@@ -58,7 +58,7 @@ The main human hormones and their functions are shown below :
 
 The production and circulating levels of hormones are controlled by means of negative feedback processes. For example, the synthesis of thyroid hormone is stimulated by thyroid-stimulating hormone (TSH) produced by the pituitary gland. If blood levels of thyroid hormone fall, a part of the brain, the hypothalamus, responds to the change and releases thyroid hormone-releasing hormone (TRH), which stimulates a particular cell type in the pituitary to increase TSH synthesis. As thyroid hormone levels in blood again rise in response to TSH, TRH production is reduced and, in turn, TSH secretion is suppressed. Such feedback systems maintain the balance of various body systems (operating in a fashion analogous to the system that controls a domestic central heating system) - a process known as homeostasis.
 
-![Thyroid hormone negative feedback loop](https://ec.europa.eu/environment/chemicals/endocrine/images/graph/negative_feedback.gif =369x523)
+![](https://ec.europa.eu/environment/chemicals/endocrine/images/graph/negative_feedback.gif)
 
 Excerpt from: [European Commission](https://ec.europa.eu/environment/chemicals/endocrine/definitions/definitions_en.htm)
 
@@ -100,20 +100,20 @@ Some chemicals can act on the endocrine system to disturb the homeostatic mechan
 
 #### What are the known endocrine disruptors?
 
- 1. Fluoride - Commonly in tap water, and fluoride toothpaste among other fluoride products
- 2. Bisphenol A (BPA), Phthalates & Phenol - Found in plastics and food storage materials
- 3. Fabrics that are treated with flame retardants
- 4. Most products with fragrance, and anti-bacterial soaps
- 5. Soy-based products - Contain phytoestrogens, which are chemicals produced by plants that mimic estrogen
- 6. DDT, Chlorpyrifos, Atrazine, 2, 4-D & Glyphosate - Found in pesticides
- 7. Lead & cadmium
- 8. Polychlorinated biphenyls (PCBs), Brominated Flame Retardants & Dioxins - Found in industrial solvents, lubricants, electronics, and building materials
- 9. Parabens & UV Filters - Found in personal care products, medical tubing, and sunscreen
-10. Triclosan - Found in antibacterial soaps and Colgate total
-11. Perfluorochemicals - Found in textiles, clothing, non-stick food wrappers, microwave popcorn bags, and old Teflon cookware
-12. Insecticides
-13. Most cosmetics
-14. Perfluoroalkyl and Polyfluoroalkyl Substances (PFAS) - Used in non-stick coated pans
+ 1. **Fluoride** - Commonly in tap water, and fluoride toothpaste among other fluoride products
+ 2. **Bisphenol A (BPA), Phthalates & Phenol** - Found in plastics and food storage materials
+ 3. **Fabrics that are treated with flame retardants**
+ 4. **Most products with fragrance, and anti-bacterial soaps**
+ 5. S**oy-based products** - Contain phytoestrogens, which are chemicals produced by plants that mimic estrogen
+ 6. **DDT, Chlorpyrifos, Atrazine, 2, 4-D & Glyphosate** - Found in pesticides
+ 7. **Lead & cadmium**
+ 8. **Polychlorinated biphenyls (PCBs), Brominated Flame Retardants & Dioxins** - Found in industrial solvents, lubricants, electronics, and building materials
+ 9. **Parabens & UV Filters** - Found in personal care products, medical tubing, and sunscreen
+10. **Triclosan** - Found in antibacterial soaps and Colgate total
+11. **Perfluorochemicals** - Found in textiles, clothing, non-stick food wrappers, microwave popcorn bags, and old Teflon cookware
+12. **Insecticides & Pesticides**
+13. **Most cosmetics**
+14. **Perfluoroalkyl and Polyfluoroalkyl Substances (PFAS)** - Used in non-stick coated pans and cookware
 
 #### What are the effects of endocrine disruptors?
 
@@ -129,13 +129,13 @@ Some chemicals can act on the endocrine system to disturb the homeostatic mechan
 
 ##### Reproduction
 
-* Some classes of EDCs (DDT, BPA, phthalates, PCBs, others) can affect reproductive health by mimicking or blocking the effects of male and female sex hormones
+* Some classes of EDCs (DDT, BPA, phthalates, PCBs, and others) can affect reproductive health by mimicking or blocking the effects of male and female sex hormones this, in turn, causes **low sperm count and infertility, especially in men**
 
 ##### Growth and development
 
-* High exposures to EDCs during gestation can lead to low-birth-weight 
-* Altered development 
-* Disrupted sexual development 
+* High exposures to EDCs during gestation can lead to low-birth-weight
+* Altered development
+* Disrupted sexual development
 * Weakened immune system
 
 ##### Cancer
@@ -154,6 +154,6 @@ You can't eliminate all contact with endocrine disruptors, but you can reduce yo
 * **Avoid plastics.** See how many plastic products you can eliminate in your home. Store foods in glass or stainless steel.
 * **Keep it clean.** Reduce particles of chemicals in the home by vacuuming often and wiping away dust with a damp cloth. Choose a vacuum cleaner with a HEPA filter and change other air filters often.
 * **Choose basic cleaners.** Use vinegar, baking soda, and other basic cleaners as much as possible. If you need something stronger, look for a product that lists its ingredients.
-* **Increase protein and animal fat intake**. This for example will raise testosterone and balance other key hormones
+* **Increase animal protein and animal fat intake**. This for example will raise testosterone and balance other key hormones due to the fact most hormones are made from protein and cholesterol. Animal protein and fat are chemically similar to our own hence making it easier to convert into the much-needed resources for hormonal protein synthesis
 
 That's it for today. Let me know if you'd like me to cover a topic. This is not medical advice and as such do your own research. Seek professional medical advice.
