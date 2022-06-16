@@ -19,7 +19,7 @@ hero: "/images/bady-abbas-algjkcowdva-unsplash.jpg"
 Here are 5 free tools for creating ebooks:
 
 * [**Google Docs**](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjU__3C4OXyAhUFrxoKHbwsD-oQFnoECAYQAQ&url=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fu%2F0%2F&usg=AOvVaw2GSg9qEkTUoGTBtb4uwDkC): to write it
-* [**Canva**](https://tx.bz-mail-us1.com/1/l/07f934dc744346b59784d969b82dc315?rl=https%3A%2F%2Fwww.canva.com%2Fcreate%2Febook-covers%2F)/[**Adobe Spark Post**](https://spark.adobe.com/sp/): to design an ebook cover for it
+* [**Canva**](https://partner.canva.com/WDLNjM)/[**Adobe Spark Post**](https://spark.adobe.com/sp/): to design an ebook cover for it
 * [**Gumroad**](https://stephenajulu.gumroad.com/l/EEnXP): to host and sell it
 * [**Grammarly**](https://app.grammarly.com/): to proofread and edit it
 * [**Carrd**](https://try.carrd.co/fxxsbw29): to create a landing page for it
