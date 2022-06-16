@@ -156,5 +156,8 @@ You can't eliminate all contact with endocrine disruptors, but you can reduce yo
 * **Keep it clean.** Reduce particles of chemicals in the home by vacuuming often and wiping away dust with a damp cloth. Choose a vacuum cleaner with a HEPA filter and change other air filters often.
 * **Choose basic cleaners.** Use vinegar, baking soda, and other basic cleaners as much as possible. If you need something stronger, look for a product that lists its ingredients.
 * **Increase animal protein and animal fat intake**. This for example will raise testosterone and balance other key hormones due to the fact most hormones are made from protein and cholesterol. Animal protein and fat are chemically similar to our own hence making it easier to convert into the much-needed resources for hormonal protein synthesis
+* **Filter tap water.** Tape water contains fluoride, estrogen, and a number of other endocrine disruptors and toxic chemicals.
+* **Avoid canned foods.** Canned food is lined with PBA.
+* **Switch to fluoride-free toothpaste**
 
 That's it for today. Let me know if you'd like me to cover a topic. This is not medical advice and as such do your own research. Seek professional medical advice.
