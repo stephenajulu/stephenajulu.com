@@ -9,9 +9,9 @@ tags:
 - entrepreneurs
 - solopreneurs
 - tools
-title: 5 Free Tools For Solopreneurs/Entrepreneurs(Updated)
+title: 5 Free Tools For Solopreneurs/Entrepreneurs (Updated)
 excerpt: Here I list a few tools that can help solopreneurs get ahead and save time.
-date: 2022-06-16T10:28:00+03:00
+date: 2022-06-15T10:28:00+03:00
 hero: "/images/brooke-lark-nmffl1zjbw4-unsplash.jpg"
 
 ---
