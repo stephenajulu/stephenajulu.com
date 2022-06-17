@@ -24,5 +24,5 @@ Hello there, today I'll be listing some hedges against inflation. I'll go deeper
 4. Cattle
 5. Timber and Building Materials
 6. Farm/Ranch(Highly recommended)
-7. Physical Skills e.g Pottery, Masonry, Farming/Gardening, Plumbing, and Cooking among others
+7. Physical Skills e.g Pottery, Masonry, Farming/Gardening, Plumbing, First Aid, Mechanic and Cooking among others
 8. Cryptocurrencies and NFTs(Not recommended)
