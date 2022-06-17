@@ -23,4 +23,5 @@ Hello there, today I'll be listing some hedges against inflation. I'll go deeper
 3. Land and Property
 4. Cattle
 5. Timber and Building Materials
-6. Cryptocurrencies and NFTs(Not recommended)
+6. Farm/Ranch(Highly recommended)
+7. Cryptocurrencies and NFTs(Not recommended)
