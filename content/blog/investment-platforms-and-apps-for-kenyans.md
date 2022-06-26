@@ -42,4 +42,4 @@ description: Top investment platforms and apps Kenyans can use to buy and hold a
 
 #### 6. [Vuka](https://portal.vuka.co.ke/create-account?email=ajulustephenodero%40gmail.com&invite_code=MS-100228-GNO): for Real Estate Investment Trust
 
-#### 7. [Gemini](https://gemini.sjv.io/oeW17Y): For Cryptocurrencies(Company/Business Account)
+#### 7. [Gemini](https://gemini.sjv.io/oeW17Y): For Cryptocurrencies
