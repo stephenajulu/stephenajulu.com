@@ -41,3 +41,5 @@ description: Top investment platforms and apps Kenyans can use to buy and hold a
 #### 5. [FXPesa](https://lp.fxpesa.com/landing-pages/refer-a-friend/?affid=C00958714&clickid=C00958714): for Forex
 
 #### 6. [Vuka](https://portal.vuka.co.ke/create-account?email=ajulustephenodero%40gmail.com&invite_code=MS-100228-GNO): for Real Estate Investment Trust
+
+#### 7. [Gemini](https://gemini.sjv.io/oeW17Y): For Cryptocurrencies(Company/Business Account)
