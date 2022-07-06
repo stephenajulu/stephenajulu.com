@@ -85,4 +85,6 @@ Synthetic supplements made in the lab are not bio-available and hence are not ab
 
 ### Step 21: Use whole grains, legumes, and nuts. Avoid wheat and any other grain that contains gluten
 
-### Step 22
+### Step 22: STOP taking sugar and MSG!
+
+These are by far the most dangerous products aside from vegetable oils. They have been shown to grow cancer and cause insulin resistance. Avoid them at all costs. Limit fruits and honey as much as possible. I'd even recommend that you avoid fruits, honey, artificial sweeteners, and MSG.
