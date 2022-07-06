@@ -9,10 +9,9 @@ tags:
 - longevitity
 title: Get Your Health and Life Back While Also Reversing Diseases
 date: 2022-07-06T15:16:00+03:00
-hero: ''
+hero: "/images/christopher-campbell-kfcdflbu6za-unsplash.jpg"
 description: Here are the exact things you need to eat, cook with and make in order
   to live healthy and disease free.
-draft: true
 
 ---
 Hello, to begin I'd like to inform you that 90% of all diseases man experiences are man-made.
@@ -88,3 +87,5 @@ Synthetic supplements made in the lab are not bio-available and hence are not ab
 ### Step 22: STOP taking sugar and MSG!
 
 These are by far the most dangerous products aside from vegetable oils. They have been shown to grow cancer and cause insulin resistance. Avoid them at all costs. Limit fruits and honey as much as possible. I'd even recommend that you avoid fruits, honey, artificial sweeteners, and MSG.
+
+Photo by [Christopher Campbell](https://unsplash.com/@chrisjoelcampbell?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/healthy-woman?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
