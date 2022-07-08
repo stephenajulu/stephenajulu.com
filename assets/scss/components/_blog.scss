@@ -3,7 +3,7 @@
 		position: relative;
 		margin-bottom: 180px;
 		&-thumb {
-			width: 100%;
+			width: auto;
 			height: auto;
 			overflow: hidden;
 			border-radius: 20px;
@@ -13,7 +13,7 @@
 			}
 			img {
 				height: auto;
-				width: 100%;
+				width: auto;
 				transition: all 0.3s ease;
 			}
 		}
