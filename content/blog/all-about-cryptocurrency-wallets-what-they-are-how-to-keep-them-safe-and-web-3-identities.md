@@ -26,13 +26,16 @@ tags:
 - hardware wallets
 - airdrops
 - nfts
+- unstoppable domains
+- web3 domains
+- domains
+- nftdomains
 title: 'All About Cryptocurrency Wallets: What They Are, How To Keep Them Safe and
   Web 3 Identities'
 date: 2022-07-08T09:10:00+03:00
-hero: ''
+hero: "/images/piggybank-3akqgjoowvi-unsplash.jpg"
 description: 'All About Cryptocurrency Wallets: What They Are, How To Keep Them Safe
   and Web 3 Identities'
-draft: true
 
 ---
 You may have heard of digital wallets used to interact with blockchain applications; perhaps you have already used them to make transactions, connect with services, marketplaces, etc. **_But do you know how wallets work? What types there are? What are private keys and seed phrases, and why is it critical to keep them secure to protect your assets and your identity on Web3? Are you aware of the most common types of scams that affect wallet users, and do you know how to protect yourself from these scams_**?
