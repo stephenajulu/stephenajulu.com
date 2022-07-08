@@ -17,6 +17,6 @@ description: Here are my favorite fonts of all time
 3. Futura PT
 4. Bondoni
 5. Abril Fatface
-6. Nior et Blanc
+6. Noir et Blanc
 
 \*Subjected to change
