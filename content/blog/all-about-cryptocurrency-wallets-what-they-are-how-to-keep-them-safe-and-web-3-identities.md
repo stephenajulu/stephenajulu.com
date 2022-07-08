@@ -32,7 +32,7 @@ tags:
 - nftdomains
 title: 'All About Cryptocurrency Wallets: What They Are, How To Keep Them Safe and
   Web 3 Identities'
-date: 2022-07-08T09:10:00+03:00
+date: 2022-07-08T09:10:00.000+03:00
 hero: "/images/piggybank-3akqgjoowvi-unsplash.jpg"
 description: 'All About Cryptocurrency Wallets: What They Are, How To Keep Them Safe
   and Web 3 Identities'
@@ -44,7 +44,7 @@ This article answers these questions, with the goal of educating users about one
 
 # Wallets or keychains?
 
-![Wallet on the right, keychain on the left](https://miro.medium.com/max/1400/1*z_bALl_urb57HQa0su3FcQ.png =700x231)
+![Wallet on the right, keychain on the left](https://miro.medium.com/max/1400/1*z_bALl_urb57HQa0su3FcQ.png)
 
 In the context of blockchain and Web3, a “wallet” is essentially a **_cryptographic key management system_** that doubles as a **_user interface_** allowing you to interact with network applications and services by reading and/or modifying the state of the blockchain. It is in this sense, therefore, that we will use the term “wallet” from now on.
 
@@ -60,7 +60,7 @@ A “key”, in [the sense in which the term is used in cryptography](https://en
 
 In [public-key cryptography](https://networkencyclopedia.com/public-key-cryptography/), which is the standard used to implement blockchains, a pair of correlated keys are created for this purpose: the first is called **private** because it must be kept secret; the second is called **public** because it can be shared with anyone who wants to receive it. Any participant that has access to your public key can encrypt a message using that key, but only you can read it, using your private key. In addition, you can use your private key to “digitally sign” a message, allowing others to verify that you were the sender; this verification is also done using your public key.
 
-![Public-key criptography scheme — Source: Network Encyclopedia](https://miro.medium.com/max/758/0*g4IGriCGtFQI25P7 =379x149)
+![Public-key criptography scheme — Source: Network Encyclopedia](https://miro.medium.com/max/758/0*g4IGriCGtFQI25P7)
 
 Public-key cryptography — Source: [Network Encyclopedia](https://networkencyclopedia.com/public-key-cryptography/)
 
@@ -71,7 +71,7 @@ A wallet stores and allows you to manage this key pair to interact with a blockc
 
 You can think of your public key as analogous to your bank account number, and of your private key as analogous to the password you use to access your account and make transactions. As with banking, your public key can be shared with anyone to receive funds, but your private key, like your password, must be kept secret.
 
-![Publich & Private Keys — Source: Crypto.com](https://miro.medium.com/max/1400/0*NmmYtBfXbDpn7D04 =700x350)
+![Publich & Private Keys — Source: Crypto.com](https://miro.medium.com/max/1400/0*NmmYtBfXbDpn7D04)
 
 Public & Private Keys — Source: Crypto.com
 
@@ -79,7 +79,7 @@ Most modern wallet implementations use a single master key, also known as a _see
 
 Seed phrases are represented as a list of English words (usually 12, sometimes 24) that you can write down and keep somewhere, and can reuse to retrieve your wallet if for some reason you lose access to it (say, by having a device stolen or damaged).
 
-![Example of seed phrases — source: Realt Academy](https://miro.medium.com/max/1400/0*f4sBRgGoSdt8V9ec =700x394)
+![Example of seed phrases — source: Realt Academy](https://miro.medium.com/max/1400/0*f4sBRgGoSdt8V9ec)
 
 Example of seed phrases — source: [Realt Academy](https://blog.realt.co/seed-phrase-101-56e4c9150c43)
 
@@ -91,13 +91,13 @@ The keychain analogy helps, but it doesn’t catch all the functions of wallets.
 
 In Web3, [identity and reputation](http://sinahab.com/identity-and-reputation-in-web-3/) work very differently from what we are used to today. As a rule, in Web2 our identities are tied to some centralized provider, which almost always requires users to hand over confidential and personal information. Examples of such identities are your Google account, Facebook, Twitter, etc.
 
-![Web2 Login — Source: Dev.to](https://miro.medium.com/max/1400/0*J4ADchwseloMBReD =700x406)
+![Web2 Login — Source: Dev.to](https://miro.medium.com/max/1400/0*J4ADchwseloMBReD)
 
 Web2 Login — Source: [Dev.to](https://dev.to/tadeubdev/login-com-rede-social-usando-laravel-socialite-1i61)
 
 In Web3, you simply link your wallet to a decentralized application (dApp) to be able to interact with it. And unlike Web2 authentication methods, wallet addresses are **_pseudonymous_** by default. If a user chooses to connect the same wallet with multiple dApps, her (pseudonymous) identity can be easily transferable between those dApps, which means that over time the user can build up a sort of **_portable reputation_**, even without having to reveal her personal information.
 
-![Web3 Login — Source: Coinbase](https://miro.medium.com/max/1400/0*j1r5XSdmWAW-QHc0 =700x724)
+![Web3 Login — Source: Coinbase](https://miro.medium.com/max/1400/0*j1r5XSdmWAW-QHc0)
 
 Web3 Login — Source: [Coinbase](https://docs.cloud.coinbase.com/wallet-sdk/docs/web3modal)
 
@@ -107,7 +107,7 @@ As more and more aspects of our lives come to be experienced on Web3 — communi
 
 # Types of wallets
 
-![Types of Wallets — Source: Odyssey DAO](https://miro.medium.com/max/1400/0*n-eQ0hUKWw2tz0co =700x342)
+![Types of Wallets — Source: Odyssey DAO](https://miro.medium.com/max/1400/0*n-eQ0hUKWw2tz0co)
 
 Types of Wallets — Source: [Odyssey DAO](https://www.odysseydao.com/articles/how-to-use-a-hot-wallet)
 
@@ -212,14 +212,14 @@ One very ingenious scam involves sending some sort of correspondence — it can 
 
 If something like this happens, simply throw these devices in the trash and inform the manufacturer of the attempt.
 
-![](https://miro.medium.com/max/1400/0*o7NaXbI0hqh_aLHA =700x448)
+![](https://miro.medium.com/max/1400/0*o7NaXbI0hqh_aLHA)
 
 A fake letter signed by “Ledger CEO” — Source: [Ledger](https://www.ledger.com/phishing-campaigns-status#phishing-campaigns)
 
 Speaking of Web3 Identities, Unstoppable Domains is on a mission to create the best web3 domains and identities on the planet. Their domains fix a lot of issues such as long complex crypto addresses, sign-in with your web3 ID, and more. My Web3 Domain is stephenajulu.crypto. Get your own now at a discounted price. Free minting and no renewal fees: [**Unstoppable Domains**](https://unstoppabledomains.pxf.io/qnXOv5)
 
-**<h3 id="1365885"><a href="https://unstoppabledomains.pxf.io/c/3290657/1365885/15384">Blockchain.com Premium Domains</a></h3>  
-<img height="0" width="0" src="https://imp.pxf.io/i/3290657/1365885/15384" style="position:absolute;visibility:hidden;" border="0" />**
+<h3 id="1365885"><a href="https://unstoppabledomains.pxf.io/c/3290657/1365885/15384">Blockchain.com Premium Domains</a></h3>  
+<img height="0" width="0" src="https://imp.pxf.io/i/3290657/1365885/15384" style="position:absolute;visibility:hidden;" border="0" />
 
 # Sources and Further Reading
 
