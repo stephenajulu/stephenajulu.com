@@ -6,11 +6,10 @@ categories:
 tags:
 - design
 - fonts
-title: 5 Favorite Fonts
+title: My Favorite Fonts
 date: 2022-07-09T10:00:00+03:00
-hero: ''
-description: Here are my 5 favorite fonts of all time
-draft: true
+hero: "/images/brett-jordan-92-mtyj5ogs-unsplash.jpg"
+description: Here are my favorite fonts of all time
 
 ---
 1. Playfair Display
@@ -18,5 +17,6 @@ draft: true
 3. Futura PT
 4. Bondoni
 5. Abril Fatface
+6. Nior et Blanc
 
 \*Subjected to change
