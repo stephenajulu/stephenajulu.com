@@ -213,7 +213,10 @@ If something like this happens, simply throw these devices in the trash and info
 
 A fake letter signed by “Ledger CEO” — Source: [Ledger](https://www.ledger.com/phishing-campaigns-status#phishing-campaigns)
 
-For a more comprehensive view of digital risks affecting blockchain and Web3, [download my free ebook here](https://conteudo.axur.com/en/ebook-digital-risks-blockchain-and-web3).
+Speaking of Web3 Identities, Unstoppable Domains is on a mission to create the best web3 domains and identities on the planet. Their domains fix a lot of issues such as long complex crypto addresses, sign-in with your web3 ID, and more. My Web3 Domain is stephenajulu.crypto. Get your own now at a discounted price. Free minting and no renewal fees: [**Unstoppable Domains**](https://unstoppabledomains.pxf.io/qnXOv5)
+
+**<h3 id="1365885"><a href="https://unstoppabledomains.pxf.io/c/3290657/1365885/15384">Blockchain.com Premium Domains</a></h3>  
+<img height="0" width="0" src="https://imp.pxf.io/i/3290657/1365885/15384" style="position:absolute;visibility:hidden;" border="0" />**
 
 # Sources and Further Reading
 
