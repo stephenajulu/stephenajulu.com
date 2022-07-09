@@ -1,7 +1,9 @@
   
 <figure class="post-media">
-    <img src="{{ .Get "img" }}" {{if (.Get "alt")}}alt="{{ .Get "alt" }}"{{ end }} />
+    <img src="{{ .Get "img" }}" {{if (.Get "alt")}}alt="{{ .Get "alt" }}"{{ end }} style="width: 100%; height: auto;" />
     {{ with (.Get "caption") }}
     <figcaption>{{ . }}</figcaption>
     {{ end }}
 </figure>
+
+<img src="/images/martin-sanchez-rfh890jkgcs-unsplash.jpg" style="width: 100%; height: auto;">
