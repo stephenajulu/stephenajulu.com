@@ -30,7 +30,7 @@
     width: 100px;
     animation: move_top 3s infinite linear;
     img {
-      height: 100%;
+      height: auto;
       width: 100%;
     }
     @include desktop {
@@ -85,7 +85,7 @@
     border-radius: 30px;
     overflow: hidden;
     img {
-      height: 100%;
+      height: auto;
       max-width: 100%;
       border-radius: 20px;
     }
