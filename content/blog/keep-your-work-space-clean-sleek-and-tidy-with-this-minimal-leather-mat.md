@@ -36,7 +36,7 @@ Measuring 80cm x 40cm, the clean-looking desk mats are there to provide that ext
 
 <img src="http://test.ultralinx.co/wp-content/uploads/2022/02/DSC02563-683x1024.jpg" style="width: 100%; height: auto;">
 
-<img src="http://test.ultralinx.co/wp-content/uploads/2022/02/DSC05616-819x1024.jpg =819x1024" style="width: 100%; height: auto;">
+<img src="http://test.ultralinx.co/wp-content/uploads/2022/02/DSC05616-819x1024.jpg" style="width: 100%; height: auto;">
 
 <img src="http://test.ultralinx.co/wp-content/uploads/2022/02/DSC05622-819x1024.jpg" style="width: 100%; height: auto;">
 
