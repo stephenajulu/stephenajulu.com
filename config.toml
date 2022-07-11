@@ -4,11 +4,12 @@ enableGitInfo = true
 enableRobotsTXT = true
 languageCode = "en"
 metaDataFormat = "yaml"
-paginate = 9
+paginate = 6
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
 rssLimit = 36
+theme = ""
 title = "Stephen Ajulu"
 [adsense]
 BannerSlot = "8662937936"
