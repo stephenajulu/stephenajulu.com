@@ -31,6 +31,8 @@ The endocrine system is a complex network of glands, hormones, and receptors. It
 
 Chemicals are an essential component of our daily lives. But some chemicals, known as endocrine disruptors, can have harmful effects on the body’s endocrine (hormone) system. Hormones act in very small amounts and at precise moments in time to regulate the body’s development, growth, reproduction, metabolism, immunity, and behavior. Endocrine disruptors interfere with natural hormone systems, and the health effects can be felt long after the exposure has stopped. Exposure to endocrine disruptors in the womb can have life-long effects and can even have consequences for the next generation.
 
+#### To learn more, read: [_Endocrine Disruptors: What They Are & How To Avoid Them_](https://stephenajulu.com/blog/endocrine-disruptors-what-they-are-how-to-avoid-them/)
+
 ### What are some of the known endocrine disruptors found in cosmetic and grooming products?
 
 **_Parabens_**: Often found in many cleansers, soaps, and moisturizers, parabens are preservatives that are also endocrine disruptors, which means they can interfere with essential hormonal functions in the body and potentially cause chronic conditions over time.
