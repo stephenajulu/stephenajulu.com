@@ -15,7 +15,7 @@ tags:
 - parabens
 - toxic cosmetics
 title: Endocrine(Hormonal) Disruptors in Grooming Products and Cosmetics
-date: 2022-07-21T15:18:00+03:00
+date: 2022-07-22T08:36:00+03:00
 hero: "/images/camilo-jimenez-0ylmwcxlwlw-unsplash.jpg"
 description: Endocrine(Hormonal) Disruptors in Grooming Products and Cosmetics
 
