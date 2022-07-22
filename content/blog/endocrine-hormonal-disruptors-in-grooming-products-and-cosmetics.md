@@ -34,6 +34,12 @@ Chemicals are an essential component of our daily lives. But some chemicals, kno
 
 ### What are some of the known endocrine disruptors found in cosmetic and grooming products?
 
+{{% figure
+src="https://www.intechopen.com/media/chapter/72654/media/Table2.png"
+alt="Most common endocrine disrupting chemicals in cosmetics and personal care products"
+caption="Most common endocrine disrupting chemicals in cosmetics and personal care products. Trade name, CAS number and demonstrated hormonal activities."
+%}}
+
 **_Parabens_**: Often found in many cleansers, soaps, and moisturizers, parabens are preservatives that are also endocrine disruptors, which means they can interfere with essential hormonal functions in the body and potentially cause chronic conditions over time.
 
 **_Sulfates_**: A petrochemical byproduct, sulfates can cause skin irritation and allergic reactions and are commonly found in things like body wash.
@@ -59,6 +65,8 @@ Chemicals are an essential component of our daily lives. But some chemicals, kno
 **_Triclosan:_** Used as an anti-bacterial agent, and can be found in toothpaste, soaps, and hand washes. It is known to have hormone-disrupting properties.
 
 **_PFAS:_** Per and polyfluoroalkyl substances ([**PFAS**](https://chemtrust.org/list-of-endocrine-disruptors-the-not-so-happy-families-of-toxic-chemicals/#pfas)) are added to some cosmetics, such as foundations and moisturizing creams, to help them penetrate the skin. Some PFAS have hormone-disrupting traits. Coop Denmark [**has banned**](https://www.foodpackagingforum.org/news/coop-denmark-bans-pfas-in-cosmetics) all cosmetics containing PFAS from its shops because of concerns over these harmful chemicals.
+
+**_Flouride:_** Used in toothpaste. Found in tap water.
 
 **_Kojic acid_**
 
@@ -96,4 +104,18 @@ Chemicals are an essential component of our daily lives. But some chemicals, kno
 
 **_Deltamethrin_**
 
+{{% figure
+src="https://www.intechopen.com/media/chapter/72654/media/Table3.png"
+alt="Some adverse effects of EDCs in humans."
+caption="Some adverse effects of EDCs in humans."
+%}}
+
+{{% figure
+src="https://www.intechopen.com/media/chapter/72654/media/Table4.png"
+alt="Studies exploring associations between exposure to cosmetics- and PCPs-released EDCs and endometriosis."
+caption="Studies exploring associations between exposure to cosmetics- and PCPs-released EDCs and endometriosis."
+%}}
+
 ### Read More: [**Endocrine Disruptors: What They Are & How To Avoid Them**](https://stephenajulu.com/blog/endocrine-disruptors-what-they-are-how-to-avoid-them/)
+
+### Read More: [**Endocrine Disrupting Chemicals in Cosmetics and Personal Care Products and Risk of Endometriosis**](https://www.intechopen.com/chapters/72654)
