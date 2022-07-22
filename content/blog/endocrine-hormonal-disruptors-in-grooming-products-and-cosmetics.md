@@ -16,9 +16,8 @@ tags:
 - toxic cosmetics
 title: Endocrine(Hormonal) Disruptors in Grooming Products and Cosmetics
 date: 2022-07-21T15:18:00+03:00
-hero: ''
+hero: "/images/camilo-jimenez-0ylmwcxlwlw-unsplash.jpg"
 description: Endocrine(Hormonal) Disruptors in Grooming Products and Cosmetics
-draft: true
 
 ---
 First, let's start with the definition of the endocrine system.
@@ -45,7 +44,7 @@ Chemicals are an essential component of our daily lives. But some chemicals, kno
 
 **_Benzalkonium Chloride_**: Used as a preservative, this ingredient has been associated with skin, eye, and respiratory irritation and is often used in moisturizers.
 
-**_Butylatedhydroxy Anisole and Butylated Hydroxytoluene_**: These are synthetic antioxidants that are likely carcinogenic and may cause liver damage.
+**_Butylated hydroxy Anisole and Butylated Hydroxytoluene_**: These are synthetic antioxidants that are likely carcinogenic and may cause liver damage.
 
 **_Ethylenediaminetetraacetic acid (EDTA)_**_:_ A binding agent, EDTA may cause organ damage and is found in many moisturizers and lotions.
 
@@ -57,9 +56,9 @@ Chemicals are an essential component of our daily lives. But some chemicals, kno
 
 **_Sodium Lauryl Sulfate and Sodium Laureth Sulfate (SLS and SLES)_**: Also found in various kinds of soaps, SLS and SLES are petroleum byproducts that can potentially cause irritation and allergic reactions.
 
-**_Triclosan:_** Used as an anti-bacterial agent, and can be found in toothpaste, soaps and hand washes. It is known to have hormone-disrupting properties.
+**_Triclosan:_** Used as an anti-bacterial agent, and can be found in toothpaste, soaps, and hand washes. It is known to have hormone-disrupting properties.
 
-**_PFAS:_** Per and polyfluoroalkyl substances ([**PFAS**](https://chemtrust.org/list-of-endocrine-disruptors-the-not-so-happy-families-of-toxic-chemicals/#pfas)) are added to some cosmetics, such as foundations and moisturising creams, to help them penetrate the skin. Some PFAS have hormone-disrupting traits. Coop Denmark [**has banned**](https://www.foodpackagingforum.org/news/coop-denmark-bans-pfas-in-cosmetics) all cosmetics containing PFAS from its shops because of concerns over these harmful chemicals.
+**_PFAS:_** Per and polyfluoroalkyl substances ([**PFAS**](https://chemtrust.org/list-of-endocrine-disruptors-the-not-so-happy-families-of-toxic-chemicals/#pfas)) are added to some cosmetics, such as foundations and moisturizing creams, to help them penetrate the skin. Some PFAS have hormone-disrupting traits. Coop Denmark [**has banned**](https://www.foodpackagingforum.org/news/coop-denmark-bans-pfas-in-cosmetics) all cosmetics containing PFAS from its shops because of concerns over these harmful chemicals.
 
 **_Kojic acid_**
 
@@ -81,7 +80,7 @@ Chemicals are an essential component of our daily lives. But some chemicals, kno
 
 **_Ethylhexyl Methoxycinnamate(EHMC)_**
 
-**_Octylmethoxycinnamate (OMC)_**
+**_Octyl methoxycinnamate (OMC)_**
 
 **_Octinoxate_**
 
@@ -95,4 +94,6 @@ Chemicals are an essential component of our daily lives. But some chemicals, kno
 
 **_Triphenyl phosphate_**
 
-**_Deltamethrin._**
+**_Deltamethrin_**
+
+### Read More: [**Endocrine Disruptors: What They Are & How To Avoid Them**](https://stephenajulu.com/blog/endocrine-disruptors-what-they-are-how-to-avoid-them/)
