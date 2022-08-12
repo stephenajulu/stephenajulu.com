@@ -4,7 +4,7 @@ categories: []
 tags: []
 title: How Shell Is Using Web3 And Blockchain For Sustainability And Energy Transition
 date: 2022-08-12T00:00:00+03:00
-hero: ''
+hero: "/images/1659425395046.jpeg"
 description: ''
 draft: true
 
