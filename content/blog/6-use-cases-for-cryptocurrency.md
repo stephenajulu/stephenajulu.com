@@ -8,9 +8,8 @@ tags:
 - cryptocurrency
 title: 6 Use Cases for Cryptocurrency
 date: 2022-08-12T16:00:00+03:00
-hero: ''
+hero: "/images/kanchanara-oqepgkdx3ra-unsplash.jpg"
 description: Here are some use cases for cryptocurrency
-draft: true
 
 ---
 ### Play Online Casino Games
@@ -52,3 +51,7 @@ Last but not least, you can use even use cryptocurrency to get an education. Mor
 So if you’re looking to learn new skills, change your career or expand your knowledge, you can do so with the help of cryptocurrency.
 
 So there you have it, six innovative uses for your cryptocurrency. Whether you want to use it to gamble, invest, or pay for everyday expenses, there are plenty of ways to make the most out of your digital currency.
+
+### Invest and Grow Your Money
+
+Thanks to features such as Stacking, Liquidity Farming, Savings, and Loaning, you can earn interest on any cryptocurrency you are holding and earn up to 100% annual yield per annum. With cryptocurrency, it is possible to double your money within a year just by stacking add that to the fact that cryptocurrencies are volatile and can easily increase in valuation and you can get good money.
