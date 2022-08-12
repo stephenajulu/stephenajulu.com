@@ -3,7 +3,7 @@ authors: []
 categories: []
 tags: []
 title: How Shell Is Using Web3 And Blockchain For Sustainability And Energy Transition
-date: 
+date: 2022-08-12T00:00:00+03:00
 hero: ''
 description: ''
 draft: true
@@ -54,3 +54,5 @@ Other blockchain and digital transformation projects currently undergoing evalua
 Of course, all of this technology-driven transformation is driven, at its root, by data, and Shell has worked to implement an integrated data platform that aggregates 2.9 trillion rows of information harvested from all areas of its business. This includes IoT sensors installed across its plants and wind and solar farms, ultimately allowing it to create [**digital twin**](https://bernardmarr.com/7-amazing-examples-of-digital-twin-technology-in-practice/) applications to help it better understand the operation of its assets.
 
 Jeavons says, "This is what my team is so excited about – the potential to do this at scale. We're rolling out digital twin … we’re rolling out AI … and when you put that together with traceability, we believe we could bring to market a whole raft of decarbonization solutions … where we could partner with our customers to help them accelerate their own decarbonization journeys. We’re just getting started.”
+
+Source: [LinkedIn](https://www.linkedin.com/pulse/how-shell-using-web3-blockchain-sustainability-energy-bernard-marr/)
