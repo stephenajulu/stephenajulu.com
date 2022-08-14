@@ -6,7 +6,7 @@ categories:
 tags:
 - crypto
 - cryptocurrency
-title: 6 Use Cases for Cryptocurrency
+title: 6 Use Cases for Cryptocurrencies
 date: 2022-08-14T10:35:00+03:00
 hero: "/images/kanchanara-oqepgkdx3ra-unsplash.jpg"
 description: Here are some use cases for cryptocurrency
