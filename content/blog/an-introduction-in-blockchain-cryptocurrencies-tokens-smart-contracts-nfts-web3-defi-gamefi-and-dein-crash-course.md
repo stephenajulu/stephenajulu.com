@@ -81,12 +81,14 @@ A **non-fungible token** (**NFT**) is a unique and non-interchangeable unit of d
 
 ## What is DeIn?
 
-Decentralized Insurance also known as DeIn or DeFi Insurance is where rather than purchasing insurance coverage from one specific individual or company, you can purchase coverage from a decentralized pool of insurance providers. Interestingly, any individual or company can work as an insurance provider by locking up capital in the decentralized capital pool. The individual or company providing capital to the pool can qualify as a [liquidity provider](https://101blockchains.com/how-liquidity-provider-tokens-work/). 
+Decentralized Insurance also known as DeIn or DeFi Insurance is where rather than purchasing insurance coverage from one specific individual or company, you can purchase coverage from a decentralized pool of insurance providers. Interestingly, any individual or company can work as an insurance provider by locking up capital in the decentralized capital pool. The individual or company providing capital to the pool can qualify as a [liquidity provider](https://101blockchains.com/how-liquidity-provider-tokens-work/).
 
 [**Learn more.**](https://stephenajulu.com/blog/decentralized-insurance-built-on-the-blockchain-is-a-game-changer/)
 
 ### Conclusion
 
 I am a follower of the above simply because of how much disruption of traditional methods blockchain can create. In one way or the other blockchain technology is the future of processing. Currently, as of writing this post, there are Decentralized Supply Chain Management, Decentralized Full Proof Voting, Decentralized Real Estate, Decentralized Data Protection, and Decentralized Loyalty + Royalty Programs.
+
+**Learn more here:** [**The Importance and Benefits of Blockchain Technology**](https://stephenajulu.com/blog/the-importance-and-benefits-of-blockchain-technology/)
 
 Blockchain **increases trust, security, transparency, and the traceability of data shared across a business network** — and delivers cost savings with new efficiencies. Blockchain for business uses a shared and immutable ledger that can only be accessed by members with permission.
