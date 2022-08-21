@@ -111,6 +111,10 @@ Governments, businesses, and educational institutions can turn to the blockchain
 
 With blockchain technology, information about identity is auditable, traceable, and verifiable — in just seconds. Individuals can curate their own profiles and control data sharing. Issuers easily connect with others and provide nearly instant verification of credentials. All participants are empowered by a platform anchored in trust.
 
+## Conclusion
+
+Blockchain technology can power new models for change, advancing knowledge and helping social organizations create shared systems of record. It is already revolutionizing industries and even creating new ones. Individuals, Organizations, and Governments are adopting this new technology because of how it makes processes efficient, secure, immutable, and transparent.
+
 And that's it for today.
 
 Have a great day or you can continue reading below.
