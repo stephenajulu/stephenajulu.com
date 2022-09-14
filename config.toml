@@ -2,7 +2,6 @@ baseURL = "https://stephenajulu.com"
 enableEmoji = true
 enableGitInfo = true
 enableRobotsTXT = true
-languageCode = "en"
 metaDataFormat = "yaml"
 paginate = 6
 pygmentsCodeFences = true
