@@ -4,6 +4,7 @@ enableGitInfo = true
 enableRobotsTXT = true
 metaDataFormat = "yaml"
 paginate = 6
+languageCode = "en"
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
