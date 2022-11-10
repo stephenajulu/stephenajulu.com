@@ -142,4 +142,4 @@ You can test the configuration by running the following command
 
 ##### **You are ready to send emails from koha, Cheers!**
 
-I also offer this setup as service for $5: [**Contact me**](/contact)
+I also offer this setup as a service for $5: [**Contact me**](/contact)
