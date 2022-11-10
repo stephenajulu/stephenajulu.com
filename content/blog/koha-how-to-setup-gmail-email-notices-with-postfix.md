@@ -112,8 +112,34 @@ Execute the following command in a terminal
 Set **Koha** > **Tools** > [**Overdue Notice/status triggers**](http://manual.koha-community.org/16.05/en/noticetriggers.html)  
 [![](https://1.bp.blogspot.com/-nika5CdbheM/WEGrO2reR_I/AAAAAAAAT70/TRcK_LeVDog6m7mFP6YdSZiBVaU_0ZoPwCLcB/s640/Koha%2B%25E2%2580%25BA%2BTools%2B%25E2%2580%25BA%2BNotice%2Btriggers.png =640x154)](https://1.bp.blogspot.com/-nika5CdbheM/WEGrO2reR_I/AAAAAAAAT70/TRcK_LeVDog6m7mFP6YdSZiBVaU_0ZoPwCLcB/s1600/Koha%2B%25E2%2580%25BA%2BTools%2B%25E2%2580%25BA%2BNotice%2Btriggers.png)
 
+## **14. Additional SMTP Setup**
+
+Configure in the SMTP Server page under Additional parameters in Koha administration
+
+Go to Home --> Administration --> Additional parameters --> SMTP servers --> New SMTP Server
+
+Name: GMail
+
+Host: smtp.gmail.com
+
+Port: 465
+
+SSL: SSL (authentication)
+
+User name: libraryemail@gmail.com
+
+Password: theapppassword
+
+Update in the branch library details,
+
+Go to Home --> Administration --> libraries --> choose your library update SMTP server selecting the new one we have created
+
 ## **14. Test the configuration**
 
 You can test the configuration by running the following command
 
     echo "Test Postfix Gmail LIBRARY" | mail -s "Postfix Gmail SMTP Relay" reciever@gmail.com
+
+##### **You are ready to send emails from koha, Cheers!**
+
+I also offer this setup as service for $5: [**Contact me**](/contact)
