@@ -11,7 +11,13 @@ tags:
 - book
 - book summary
 - jordan b peterson
-title: 'Book Summary: 12 Rules For Life By Jordan Peterson'
+- digested read
+- read
+- self improvement
+- Personal development
+- lifestyle
+title: '12 Rules for Life: An Antidote to Chaos by Jordan B Peterson - Digested Book
+  Summary'
 date: 2022-11-10T21:00:00+03:00
 hero: "/images/book_nrd_20180319_french.webp"
 description: Book Summary of 12 Rules For Life, An Antidote To Chaos by Jordan Peterson
@@ -23,7 +29,7 @@ description: Book Summary of 12 Rules For Life, An Antidote To Chaos by Jordan P
 
 ### **1 Stand up straight with your shoulders straight**
 
-Most lobsters are complete bastards left to their own devices. Most humans are complete bastards left to their own devices. This proves there is a God who wants us to have Order. Order is Masculine and Chaos is Feminine. Therefore to move towards Order, we all need to man up. Happiness is pointless. We are all on this Earth to suffer. So learn to suffer like a man. Not everyone can be as rich and successful as me, but try to be less of a failure than you already are.
+Most lobsters are complete bastards left to their own devices. Most humans are complete bastards left to their own devices. This proves there is a God who wants us to have order. Order is Masculine and Chaos is Feminine. Therefore to move towards Order, we all need to man up. Happiness is pointless. We are all on this Earth to suffer. So learn to suffer like a man. Not everyone can be as rich and successful as me, but try to be less of a failure than you already are.
 
 ### **2 Treat yourself like someone you are responsible for helping**
 
