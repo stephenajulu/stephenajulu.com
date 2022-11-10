@@ -18,7 +18,7 @@ tags:
 - lifestyle
 title: '12 Rules for Life: An Antidote to Chaos by Jordan B Peterson - Digested Book
   Summary'
-date: 2022-11-10T21:00:00+03:00
+date: 2022-11-10T20:50:00+03:00
 hero: "/images/book_nrd_20180319_french.webp"
 description: Book Summary of 12 Rules For Life, An Antidote To Chaos by Jordan Peterson
 
