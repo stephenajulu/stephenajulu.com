@@ -23,7 +23,6 @@ title: 'Koha: How To Setup Gmail Email Notices with Postfix'
 date: 2022-11-10T19:00:00+03:00
 hero: "/images/koha-user.jpg"
 description: Configure gmail with postfix to send email notices from Koha
-draft: true
 
 ---
 ## **1. Installation of postfix mail server**
@@ -40,7 +39,7 @@ Select "no configuration" in the post-installation screen.
 
 ## **3. Install the following packages as well**
 
-    sudo apt-get install libsasl2-2 libsasl2-modules ca-certificates
+    sudo apt-get install libsasl2-2 libsasl2-modules ca-certificates mailutils
 
 ## **4. Open the following file and add a few lines.**
 
@@ -114,3 +113,7 @@ Set **Koha** > **Tools** > [**Overdue Notice/status triggers**](http://manual.ko
 [![](https://1.bp.blogspot.com/-nika5CdbheM/WEGrO2reR_I/AAAAAAAAT70/TRcK_LeVDog6m7mFP6YdSZiBVaU_0ZoPwCLcB/s640/Koha%2B%25E2%2580%25BA%2BTools%2B%25E2%2580%25BA%2BNotice%2Btriggers.png =640x154)](https://1.bp.blogspot.com/-nika5CdbheM/WEGrO2reR_I/AAAAAAAAT70/TRcK_LeVDog6m7mFP6YdSZiBVaU_0ZoPwCLcB/s1600/Koha%2B%25E2%2580%25BA%2BTools%2B%25E2%2580%25BA%2BNotice%2Btriggers.png)
 
 ## **14. Test the configuration**
+
+You can test the configuration by running the following command
+
+    echo "Test Postfix Gmail LIBRARY" | mail -s "Postfix Gmail SMTP Relay" reciever@gmail.com
