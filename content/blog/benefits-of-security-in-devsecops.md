@@ -17,9 +17,15 @@ If you're running a business, there's a good chance you've heard of DevOps. This
 
 DevOps is an approach to software development that emphasizes communication, collaboration, and integration between developers and IT professionals. But in recent years, a new term has emerged: **DevSecOps**.
 
-![](https://lh5.googleusercontent.com/McOnwyGo1rd2OzZ6281Tu5Tf8wCJBo7yGCe5Wk1gpm82jvKpAnFG3aDHxjfSJmArLS_uPNUuydZdu1EjaWpF-YEtWXJLpmxupqexU_Qqbi46pKhbGKiJDtzHAeVryVcBl85fItHF5q7licTpZ-4msB8M63hBdEly2Fe-OpGhWNO_uIZLJyc3Keq1QNHg =624x364)
+<img src="https://lh5.googleusercontent.com/McOnwyGo1rd2OzZ6281Tu5Tf8wCJBo7yGCe5Wk1gpm82jvKpAnFG3aDHxjfSJmArLS_uPNUuydZdu1EjaWpF-YEtWXJLpmxupqexU_Qqbi46pKhbGKiJDtzHAeVryVcBl85fItHF5q7licTpZ-4msB8M63hBdEly2Fe-OpGhWNO_uIZLJyc3Keq1QNHg" width="624px">
 
 [Image Source](https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2021/07/14123107/devsecops2.png)
+
+{{% figure
+src="$FIGURE_SRC"
+alt="$FIGURE_ALT"
+caption="$FIGURE_CAPTION"
+%}}
 
 DevSecOps, being an extension of the DevOps philosophy, places an emphasis on security. In other words, DevSecOps integrates security into the software development life cycle. By doing so, security risks can be identified and mitigated early on—before they cause major problems.
 
@@ -35,7 +41,7 @@ To fully understand how DevSecOps works, you may watch this Youtube video from I
 
 In today's increasingly interconnected world, data breaches are becoming more and more common. In fact, a [recent study](https://www.ibm.com/reports/data-breach) found that the average cost of a data breach is now $4.35 million—and that's just the average! For large businesses, the cost of a data breach can be much higher. Just think about some of the high-profile data breaches that have made headlines in recent years. The Equifax breach, for example, is estimated to have cost the company more than [$1.7 billion](https://www.housingwire.com/articles/equifax-expects-to-pay-out-another-100-million-for-data-breach) since its disclosure in 2017.
 
-![](https://lh6.googleusercontent.com/xeZXJjoxVh4UDqG_Q3XwubicMTSQoCETf-B2YtrXTW39ZyHzBL6_fzAJ1OHvdoLN4ix2Ht4FsGa5p9dCNUVVys5QB1L_tSjkQbo-BDW-Rvrq723FLcg7MOp9_fVqP28uS5hBaRc2SJ-hxwWrmrK5zT4evxknOxp40p2IdGhvlKBaI8DBSgHM848kLHzC =624x352)
+<img src="https://lh6.googleusercontent.com/xeZXJjoxVh4UDqG_Q3XwubicMTSQoCETf-B2YtrXTW39ZyHzBL6_fzAJ1OHvdoLN4ix2Ht4FsGa5p9dCNUVVys5QB1L_tSjkQbo-BDW-Rvrq723FLcg7MOp9_fVqP28uS5hBaRc2SJ-hxwWrmrK5zT4evxknOxp40p2IdGhvlKBaI8DBSgHM848kLHzC" width="624">
 
 [Image Source](https://www.gannett-cdn.com/-mm-/0f85d771f147779145e2684ebfe0b1a34b94bc38/c=0-284-4365-2750/local/-/media/2017/09/15/USATODAY/USATODAY/636410796461382080-EQUIFAX-NYSE.JPG?width=660&height=373&fit=crop&format=pjpg&auto=webp)
 
@@ -65,8 +71,8 @@ DevSecOps can also help to create a culture of shared responsibility for securit
 
 ### Improved Quality
 
-DevSecOps can also improve the quality of your applications and systems. By integrating security into the development process, you can identify and fix potential security issues before they become problems.   
-  
+DevSecOps can also improve the quality of your applications and systems. By integrating security into the development process, you can identify and fix potential security issues before they become problems.
+
 Plus, by automating repetitive tasks, such as testing and deployments, you can reduce the chance of errors and ensure that only high-quality code is deployed to production.
 
 ### Greater Scalability
