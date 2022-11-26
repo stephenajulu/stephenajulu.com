@@ -7,7 +7,7 @@ tags:
 - devops
 - devsecops
 title: Benefits of Security in DevSecOps
-date: 2022-11-26T12:10:00+03:00
+date: 2022-11-26T14:10:00+03:00
 hero: "/images/security-protection-anti-virus-software-60504.jpeg"
 description: " Learn about the benefits of security in DevSecOps and how it can help
   your organization build better software more effectively and securely."
