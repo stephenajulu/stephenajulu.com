@@ -21,12 +21,6 @@ DevOps is an approach to software development that emphasizes communication, col
 
 [Image Source](https://media.kasperskycontenthub.com/wp-content/uploads/sites/103/2021/07/14123107/devsecops2.png)
 
-{{% figure
-src="$FIGURE_SRC"
-alt="$FIGURE_ALT"
-caption="$FIGURE_CAPTION"
-%}}
-
 DevSecOps, being an extension of the DevOps philosophy, places an emphasis on security. In other words, DevSecOps integrates security into the software development life cycle. By doing so, security risks can be identified and mitigated early on—before they cause major problems.
 
 ## **The Key Difference: Security**
