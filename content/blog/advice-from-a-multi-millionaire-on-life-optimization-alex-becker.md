@@ -56,7 +56,7 @@ Keyword REDUCTION. Keep a simple bland AF low inflammatory diet you can repeat.
 
 Any diet can work.
 
-{{% youtube "https://youtu.be/I-xTGAQUCG0" %}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I-xTGAQUCG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **B) Brain addictions**
 
@@ -94,7 +94,7 @@ While I play games now, while I was building my company (now valued at 9 figures
 
 I removed all sources of dopamine from my life.
 
-{{% youtube "https://youtu.be/868BlSS8Wg0" %}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/868BlSS8Wg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **C) Life complexity**
 
@@ -116,7 +116,7 @@ In short. Move away from people, live somewhere cheap, own nothing, and voila. Y
 
 Here's a bigger thought explanation of it.
 
-{{% youtube "https://youtu.be/i3IUsGxraHw" %}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i3IUsGxraHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you do those 3. Voila.
 
