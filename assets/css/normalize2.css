@@ -425,3 +425,45 @@ td,
 th {
   padding: 0;
 }
+/* Other(for social)
+============================================================================= */
+
+ul {
+    list-style: none;
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 2em;
+    max-width: 480px;
+}
+
+ul > li {
+    background-color: rgba(250, 219, 247, 0.185);
+    backdrop-filter: blur(10px) contrast(150%) saturate(120%);
+    border-radius: 10em;
+    padding: 1em;
+    margin: 1.4em 0;
+}
+
+ul > li > a {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5em;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.icons {
+    font-size: 1.2em;
+    color: rgb(127, 0, 255);
+    padding: 0.5em 0.7em;
+    text-align: center;
+}
+
+.ti {
+    padding: 0.2em;
+}
