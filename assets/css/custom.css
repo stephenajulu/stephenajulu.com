@@ -5,3 +5,8 @@
 	background: #000000 url('/images/preloader.gif') no-repeat center;
 	z-index: 999;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+{
