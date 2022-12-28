@@ -15,7 +15,6 @@ date: 2022-12-28T14:00:00+03:00
 hero: "/images/photo-nic-khhukoxqo4k-unsplash.jpg"
 description: Here's the step-by-step plan on how I'm going to be an outlier "Top 10%"
   male in 5 years
-draft: true
 
 ---
 Hello guys, as the title says. Here's how I plan to become an outlier male.
