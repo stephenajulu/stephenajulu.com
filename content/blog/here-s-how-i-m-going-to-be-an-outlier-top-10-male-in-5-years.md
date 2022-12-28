@@ -19,6 +19,19 @@ description: Here's the step-by-step plan on how I'm going to be an outlier "Top
 ---
 Hello guys, as the title says. Here's how I plan to become an outlier male.
 
+Why do I plan to become an outlier male?
+
+ 1. I want my family to live a comfortable life
+ 2. I want to live a better life
+ 3. I want to have an abundance of top quality women(Surface level)
+ 4. I want to be healthy and strong
+ 5. I want to be financially free and have time freedom
+ 6. I want to pursue my genuine curiosity
+ 7. I want to enter a room and have people look. A king's presence.
+ 8. I want my lineage to be safe and secure
+ 9. I just want to be better. I want to be at the top. I want to be better than other men. I want to have an abundance. 
+10. I want to live a life well-lived.
+
 There are different pillars of a man's life that need to be built up, these are:
 
 1. **Health/Body**: Be in shape, healthy and active. Hormone, sleep, diet, and other optimizations
