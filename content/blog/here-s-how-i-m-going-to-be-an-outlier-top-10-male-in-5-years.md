@@ -61,11 +61,11 @@ You can have a nice house and a hot chick if you don't have money or relationshi
 
 Now, of course, you can be fat with mental issues and still be rich or you can have a nice body but still be broke. The key is not 100% of all these things but 70% even 60% across the board.
 
-Now life setup and relationships are last, not because you should avoid your family or not set up your life well but rather because I believe you'll have more time and resources, let's take life setup, for example, it requires money. Relationships require time. 
+Now life setup and relationships are last, not because you should avoid your family or not set up your life well but rather because I believe you'll have more time and resources in the future that you can use to set them up better, let's take life setup, for example, it requires money. Relationships require time. 
 
 You don't want a situation where you are busy chasing girls while doing the above, it will likely end in a catastrophe. You can also decide to go the road of faking a good lifestyle but people will smell it on you that you don't have half of what you brag about on social media.
 
-You should first build your body, this will allow you to focus on building the mind all while you are connecting to your spirituality. 
+You should first build your body, this will allow you to "focus" on building the mind all while you are connecting to your spirituality. A healthy body + a healthy spirituality = an even healthier mind. You need all these pieces to go to step 2 which is where we primarily focus on making money, improving style and more. Once you are fit, clothes fit you better. And with the halo effect + hypergamy to your advantage, it becomes a done deal.
 
 The Bible is an amazing book that can build the mind as well. 
 
