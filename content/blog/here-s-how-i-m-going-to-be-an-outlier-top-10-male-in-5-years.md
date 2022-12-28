@@ -71,7 +71,7 @@ The Bible is an amazing book that can build the mind as well as your spiritualit
 
 These three things are connected because they form you. No one can take your knowledge, skills, and strength from you of course except God. 
 
-But man can take your wealth, your clothes, your life setup, your cars, and even destroy your relationships. That's why you need to build YOU first then build all the others because then you already have the skills, the knowledge, the experience, the body, and the mind, building whatever is stolen is easier. Plus once you follow this systematically, who would even dare try to take your stuff or your girl. You'll be rich, jacked and know how taekwondo or something. These are the benefits of following this order.
+But man can take your wealth, your clothes, your life setup, your cars, your girl and even destroy your relationships. That's why you need to build YOU first then build all the others because then you already have the skills, the knowledge, the experience, the body, the mind and the spirit, building whatever is stolen is easier. Plus once you follow this systematically, who would even dare try to take your stuff or your girl. You'll be rich, jacked, know how taekwondo or something and have The Almighty God by your side. No one will want to fuck with you because you are UNSTOPPABLE. This is what girls love in a man. Ambition. Wealth. Determination. Prespicacity as Andrew Tate, the top G says. These are the benefits of following this order.
 
 Another thing about this is this order is the best way to build a foundation.
 
@@ -84,6 +84,8 @@ In the next post after that, I'll cover my plans for body, mind, and spirit, the
 Remember the goal is to become a truly top-tier man by the time 5 years a done.
 
 For those who want to join in on this. By next week, I'll have set up a group where we can keep each other accountable and help each other.
+
+### Now remember, we are all beginners, even me. I don't know more than you and I'm not in a better position than you. I just have good mentors and have stolen bits and pieces from their word and have made this so you don't have to watch 100 self improvement videos and read 10 books. So relax, let's take this step by step.
 
 Thank you and have a good one.
 
