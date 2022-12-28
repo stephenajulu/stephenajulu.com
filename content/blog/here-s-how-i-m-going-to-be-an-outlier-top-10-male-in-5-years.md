@@ -88,3 +88,5 @@ For those who want to join in on this. By next week, I'll have set up a group wh
 Thank you and have a good one.
 
 P.S. Kindly note that this program is mainly targeted toward men but women are allowed to join. Also, while the program is free the group will be paid in order to avoid spam and disrespectful people from joining. The benefits of this group are endless. I'll talk about the group soon. The platforms are either Discord or Telegram.
+
+This will eventually become paid once we are done with the first section, only those who join now, within the first 2 years since the posting of this article will get in for free.
