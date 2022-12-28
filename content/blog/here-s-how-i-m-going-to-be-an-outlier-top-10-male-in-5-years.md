@@ -57,7 +57,7 @@ We have 5 years. I've broken this into:
 
 Here's how I think about it.
 
-You can have a nice house and a hot chick if you don't have money or relationship skills, you can't have money. if you don't have the skills.
+You can't have a nice house and a hot chick if you don't have money or relationship skills, you can't have money. if you don't have the skills.
 
 Now, of course, you can be fat with mental issues and still be rich or you can have a nice body but still be broke. The key is not 100% of all these things but 70% even 60% across the board.
 
