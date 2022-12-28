@@ -67,11 +67,11 @@ You don't want a situation where you are busy chasing girls while doing the abov
 
 You should first build your body, this will allow you to "focus" on building the mind all while you are connecting to your spirituality. A healthy body + a healthy spirituality = an even healthier mind. You need all these pieces to go to step 2 which is where we primarily focus on making money, improving style and more. Once you are fit, clothes fit you better. And with the halo effect + hypergamy to your advantage, it becomes a done deal.
 
-The Bible is an amazing book that can build the mind as well. 
+The Bible is an amazing book that can build the mind as well as your spirituality. 
 
 These three things are connected because they form you. No one can take your knowledge, skills, and strength from you of course except God. 
 
-But man can take your wealth, your clothes, your life setup, your cars, and even destroy your relationships.
+But man can take your wealth, your clothes, your life setup, your cars, and even destroy your relationships. That's why you need to build YOU first then build all the others because then you already have the skills, the knowledge, the experience, the body, and the mind, building whatever is stolen is easier. Plus once you follow this systematically, who would even dare try to take your stuff or your girl. You'll be rich, jacked and know how taekwondo or something. These are the benefits of following this order.
 
 Another thing about this is this order is the best way to build a foundation.
 
