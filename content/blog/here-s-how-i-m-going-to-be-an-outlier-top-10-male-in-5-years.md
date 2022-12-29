@@ -61,15 +61,15 @@ You can't have a nice house and a hot chick if you don't have money or relations
 
 Now, of course, you can be fat with mental issues and still be rich or you can have a nice body but still be broke. The key is not 100% of all these things but 70% even 60% across the board.
 
-Now life setup and relationships are last, not because you should avoid your family or not set up your life well but rather because I believe you'll have more time and resources in the future that you can use to set them up better, let's take life setup, for example, it requires money. Relationships require time. 
+Now life setup and relationships are last, not because you should avoid your family or not set up your life well but rather because I believe you'll have more time and resources in the future that you can use to set them up better, let's take life setup, for example, it requires money. Relationships require time.
 
 You don't want a situation where you are busy chasing girls while doing the above, it will likely end in a catastrophe. You can also decide to go the road of faking a good lifestyle but people will smell it on you that you don't have half of what you brag about on social media.
 
 You should first build your body, this will allow you to "focus" on building the mind all while you are connecting to your spirituality. A healthy body + a healthy spirituality = an even healthier mind. You need all these pieces to go to step 2 which is where we primarily focus on making money, improving style and more. Once you are fit, clothes fit you better. And with the halo effect + hypergamy to your advantage, it becomes a done deal.
 
-The Bible is an amazing book that can build the mind as well as your spirituality. 
+The Bible is an amazing book that can build the mind as well as your spirituality.
 
-These three things are connected because they form you. No one can take your knowledge, skills, and strength from you of course except God. 
+These three things are connected because they form you. No one can take your knowledge, skills, and strength from you of course except God.
 
 But man can take your wealth, your clothes, your life setup, your cars, your girl and even destroy your relationships. That's why you need to build YOU first then build all the others because then you already have the skills, the knowledge, the experience, the body, the mind and the spirit, building whatever is stolen is easier. Plus once you follow this systematically, who would even dare try to take your stuff or your girl. You'll be rich, jacked, know how taekwondo or something and have The Almighty God by your side. No one will want to fuck with you because you are UNSTOPPABLE. This is what girls love in a man. Ambition. Wealth. Determination. Prespicacity as Andrew Tate, the top G says. These are the benefits of following this order.
 
@@ -92,3 +92,5 @@ Thank you and have a good one.
 P.S. Kindly note that this program is mainly targeted toward men but women are allowed to join. Also, while the program is free the group will be paid in order to avoid spam and disrespectful people from joining. The benefits of this group are endless. I'll talk about the group soon. The platforms are either Discord or Telegram.
 
 This will eventually become paid once we are done with the first section, only those who join now, within the first 2 years since the posting of this article will get in for free.
+
+<iframe src="https://anchor.fm/stephenajulu/embed/episodes/How-Im-Going-to-Become-an-Outlier-Male-and-How-You-Can-Too-e1srjeu" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
