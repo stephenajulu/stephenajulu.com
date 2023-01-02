@@ -251,3 +251,9 @@ This will bring you down to earth and help you stay humble.
 That's it guys that's the plan for this year.
 
 I'll post the next year's plan before December.
+
+For those who haven't joined the group yet. 
+
+Here's the link. It's a limited-time offer. It will soon be closed and paid.
+
+Group link: [The OUTLIER MALE Telegram group](https://t.me/+rbD6JMGpnH5kYjg0).
