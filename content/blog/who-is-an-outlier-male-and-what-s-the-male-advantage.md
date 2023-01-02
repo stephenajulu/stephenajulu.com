@@ -10,7 +10,7 @@ tags:
 - masculinity
 - growth
 - self improvement
-title: Who is an outlier male and what's the male advantage?
+title: 'Outlier Male Series: Who is an outlier male? What''s the male advantage?'
 date: 2023-01-02T16:00:00+03:00
 hero: "/images/photo-nic-khhukoxqo4k-unsplash.jpg"
 description: Here I explain what the male advantage is and how to reach it.
