@@ -24,14 +24,13 @@ date: 2023-01-02T13:00:00+03:00
 hero: "/images/photo-nic-khhukoxqo4k-unsplash.jpg"
 description: Here we continue to discuss how one can become an outlier male by building
   the fundamentals, the mind, body and spirit.
-draft: true
 
 ---
 Hello Guys,
 
 Now here's the game plan.
 
-We'll focus primarily on Mind, Body and Spirit and our secondary focus will be Wealth/Riches. Now I do remember telling you that we should focus on 3 things only but things change. 
+We'll focus primarily on Mind, Body and Spirit and our secondary focus will be Wealth/Riches. Now I do remember telling you that we should focus on 3 things only but things change.
 
 I'm going to add URGENCY.
 
@@ -139,9 +138,9 @@ Here are some books I suggest you start reading that will build your knowledge i
 * 4 Hour Workweek by Timothy Ferriss
 * The Unplugged Alpha by Richard Cooper
 
-These books are great and I suggest you read 10 pages a day and slowly build up to 20. These contain the experiences of more than 1,000 men. 
+These books are great and I suggest you read 10 pages a day and slowly build up to 20. These contain the experiences of more than 1,000 men.
 
-Having their knowledge and being able to learn from their experiences is a blessing. 
+Having their knowledge and being able to learn from their experiences is a blessing.
 
 I'd recommend you start with The Male Advantage by Kris Sturmey.
 
@@ -155,7 +154,7 @@ It will show you your worth as a man and how to further build it. I rate it 10/1
 
 The basic concepts of fitness are few, but the methods are vast
 
-* **The 9 main concepts of training:** 
+* **The 9 main concepts of training:**
   1. Skill
   2. Speed
   3. Power (function of speed and strength)
@@ -199,9 +198,7 @@ Here are the exercises we'll focus on for the first year:
    To begin lie flat on the ground then let your elbows and forearms touch the ground then lift and hold that position for a time.
 
    ![](/images/plank.gif)
-
-
-9. **Stretch**
+8. **Stretch**
 
 To start do 5 x 5 of each. That is 5 repetitions of 5 sets = 25 times if using weights. If using body weight do 5 x 10 = 50 times.
 
@@ -249,8 +246,8 @@ It will help you plan out life and it will be a reminder of all you haven't achi
 
 ### 5. Help others
 
-This will bring you down to earth and help you become humble.
+This will bring you down to earth and help you stay humble.
 
-That's it guys that's the plan for this year. 
+That's it guys that's the plan for this year.
 
 I'll post the next year's plan before December.
