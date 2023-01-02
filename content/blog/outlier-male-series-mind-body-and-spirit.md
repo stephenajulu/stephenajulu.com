@@ -72,7 +72,7 @@ Here are some. Pick your poison(skills). Now I'd suggest you pick more than 1.
 
 These are the ones I know off the top of my head. If you have another one, feel free to post it below in the comments.
 
-#### The key to this is to reach 10,000 hours of mastery with the skill you've chosen or with this whole outlier male journey, that's when you'll start to see the progress you've made. 
+#### The key to this is to reach 10,000 hours of mastery with the skill you've chosen or with this whole outlier male journey, that's when you'll start to see the progress you've made.
 
 ### 2. Optimize Your Sleep
 
@@ -293,5 +293,7 @@ Some good investments:
 13. Government Bills
 14. Utility REITs, Stocks, and ETFs
 15. Consumer staples Stocks, REITs, and ETFs
+
+<iframe src="https://anchor.fm/stephenajulu/embed/episodes/Outlier-Male-Series-Mind--Body-and-Spirit-e1t0a29" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 Group link: [The OUTLIER MALE Telegram group](https://t.me/+rbD6JMGpnH5kYjg0).
