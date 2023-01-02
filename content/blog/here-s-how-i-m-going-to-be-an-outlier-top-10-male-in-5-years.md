@@ -10,8 +10,8 @@ tags:
 - wealth
 - relationships
 - dating
-title: How I'm going to be an outlier male in 5 years
-date: 2022-12-28T14:00:00+03:00
+title: 'Outlier Male Series: My Plan to Become an Outlier Male in 5 years'
+date: 2022-12-28T14:00:00.000+03:00
 hero: "/images/photo-nic-khhukoxqo4k-unsplash.jpg"
 description: Here's the step-by-step plan on how I'm going to be an outlier "Top 10%"
   male in 5 years
