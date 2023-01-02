@@ -72,6 +72,8 @@ Here are some. Pick your poison(skills). Now I'd suggest you pick more than 1.
 
 These are the ones I know off the top of my head. If you have another one, feel free to post it below in the comments.
 
+#### The key to this is to reach 10,000 hours of mastery with the skill you've chosen or with this whole outlier male journey, that's when you'll start to see the progress you've made. 
+
 ### 2. Optimize Your Sleep
 
 Here are some tips by [Dr. Huberman](https://hubermanlab.com/toolkit-for-sleep/):
