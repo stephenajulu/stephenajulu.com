@@ -252,8 +252,42 @@ That's it guys that's the plan for this year.
 
 I'll post the next year's plan before December.
 
-For those who haven't joined the group yet. 
+For those who haven't joined the group yet.
 
 Here's the link. It's a limited-time offer. It will soon be closed and paid.
+
+# Wealth
+
+If you are in a 9 - 5. Start investing. We are close to a recession. Learn stocks, crypto, REITs, real estate, precious metals, watches, timber, and such.
+
+Learn investing. Keep money aside and do dollar cost averaging(Put some money into investments every month/week/day)
+
+Invest a little now then go head-deep in the middle of the recession. Millionaires are made in the middle of recessions just like diamonds are made under pressure or men are made during storms.
+
+Learn investing.
+
+If you are jobless, spend most of your time learning and testing(practicing) new skills and stack money for investment.
+
+If you are an Investor, keep going.
+
+If you are a business owner/entrepreneur stack money for investments.
+
+Some good investments:
+
+ 1. Bitcoin
+ 2. Ethereum
+ 3. Small MarketCap Coins/Tokens
+ 4. Gaming tokens
+ 5. NFT tokens
+ 6. Gold
+ 7. Silver
+ 8. Diamond
+ 9. Healthcare REITs, Stocks, and ETFs
+10. Energy REITS, Stocks, and ETFs
+11. Utility NFTs
+12. Government Bonds
+13. Government Bills
+14. Utility REITs, Stocks, and ETFs
+15. Consumer staples Stocks, REITs, and ETFs
 
 Group link: [The OUTLIER MALE Telegram group](https://t.me/+rbD6JMGpnH5kYjg0).
