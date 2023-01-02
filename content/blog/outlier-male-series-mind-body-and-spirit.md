@@ -139,6 +139,8 @@ Here are some books I suggest you start reading that will build your knowledge i
 * 100 Deadly Skills by Clint Emerson, Former Navy Seal
 * 4 Hour Workweek by Timothy Ferriss
 * The Unplugged Alpha by Richard Cooper
+* Outliers by Malcom Gladwell
+* $100mOffers by Alex Hormozi
 
 These books are great and I suggest you read 10 pages a day and slowly build up to 20. These contain the experiences of more than 1,000 men.
 
