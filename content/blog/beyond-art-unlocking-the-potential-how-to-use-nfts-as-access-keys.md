@@ -38,4 +38,6 @@ Another benefit of using NFTs as access keys is that they can be used to create 
 
 Using NFTs as access keys can also help to protect digital content and experiences from piracy. An NFT can be used to prove ownership of a digital asset, and it can also be used to prove that a person has the right to access a digital experience. This can help to prevent piracy and unauthorized access, which can help to protect the creator's revenue streams.
 
+Here's an article from Social Media Examiner that is a good read on the same: [**Beyond Art: Using NFTs for Access: Social Media Examiner**](https://www.socialmediaexaminer.com/beyond-art-using-nfts-for-access/)
+
 In conclusion, NFTs are a revolutionary technology that can be used to provide access to unique digital experiences and assets. They can be used to create new revenue streams, increase the perceived value of an experience or asset, create a sense of community and engagement, and protect digital content and experiences from piracy. As the technology continues to evolve, we can expect to see even more innovative use cases for NFTs in the future. If you are a creator or a business looking for ways to monetize your digital assets, using NFTs as access keys could be a great way to do so.
