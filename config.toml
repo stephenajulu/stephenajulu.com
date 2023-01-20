@@ -32,13 +32,17 @@ name = "Blog"
 url = "/blog"
 weight = 2
 [[menu.main]]
+name = "MicroBlog"
+url = "/microblog"
+weight = 3
+[[menu.main]]
 name = "Store"
 url = "/store"
-weight = 3
+weight = 4
 [[menu.main]]
 name = "Contact"
 url = "/contact"
-weight = 4
+weight = 5
 [[menu.sitemap]]
 name = "Sitemap"
 url = "https://stephenajulu.com/sitemap.xml"
@@ -52,6 +56,7 @@ home = ["HTML", "RSS", "JSON"]
 GithubEdit = "https://github.com/stephenajulu/stephenajulu.com7/edit/master/content/"
 author = "Stephen Ajulu"
 blogPageURL = "blog"
+microblogPageURL = "microblog"
 contactLink = "contact"
 copyright = "Stephen Ajulu"
 creator = "stephenajulu"
