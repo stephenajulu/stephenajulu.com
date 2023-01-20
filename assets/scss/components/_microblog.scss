@@ -10,6 +10,7 @@
     @media (max-width: 767px) {
         .grid-item {
             width: 50%;
+            max-width: 300px;
         }
     }
     @media (max-width: 480px) {
