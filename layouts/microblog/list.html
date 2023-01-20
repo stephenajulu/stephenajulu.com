@@ -1,0 +1,24 @@
+<div class="container">
+  <div class="row">
+    <div class="grid" id="posts">
+      {{ range .Paginator.Pages }}
+        <div class="grid-item">
+          <div class="card">
+            {{ if .Params.image }}
+              <img src="{{ .Params.image }}" class="card-img-top" alt="{{ .Title }}">
+            {{ else if .Params.video }}
+              <video class="card-img-top" controls>
+                <source src="{{ .Params.video }}" type="video/mp4">
+                Your browser does not support the video tag.
+              </video>
+            {{ end }}
+            <div class="card-body">
+              <h5 class="card-title">{{ .Title }}</h5>
+              <p class="card-text">{{ .Content }}</p>
+            </div>
+          </div>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+</div>
