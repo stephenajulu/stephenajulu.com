@@ -1,19 +1,20 @@
 {{ define "main" }}
 
+<article class="h-entry">
 <header class="breadCrumb">
   <div class="container">
     <div class="row">
       <div class="col-lg-10 col-md-12 offset-lg-1 offset-md-0 text-center">
-        <h3 class="breadCrumb__title">{{ .Title }}</h3>
+        <h3 class="breadCrumb__title p-name">{{ .Title }}</h3>
         <nav aria-label="breadcrumb" class="d-flex justify-content-center small">
           <ol class="breadcrumb align-items-center">
             <li class="breadcrumb-item"><a href={{ .Site.BaseURL }}>Home</a></li>
             <li class="breadcrumb-item"><a href={{ .Site.Params.blogPageURL | absURL }}>Blog</a></li>
-            <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
+            <li class="breadcrumb-item active" aria-current="page"><a class="u-url" href="{{ .Permalink }}">{{ .Title }}</a></li>
           </ol>
         </nav>
-        <span class="small">{{ .PublishDate.Format "January 2, 2006" }}</span><br />
-        {{ range (.GetTerms "authors") }}<span class="small"><a href="{{ .Permalink }}">{{ .Title }}</a></span>{{ end }}
+        <span class="small" dt-published>{{ .PublishDate.Format "January 2, 2006" }}</span><br />
+        {{ range (.GetTerms "authors") }}<span class="small p-author"><a href="{{ .Permalink }}">{{ .Title }}</a></span>{{ end }}
       </div>
     </div>
   </div>
@@ -46,11 +47,11 @@
       </div>
       <div class="row mt-5">
           <div class="col-lg-12">
-              <div class="singleBlog__content">
+              <div class="singleBlog__content e-content">
                   {{ .Content }}
                   {{ partial "related.html" . }}
                   {{ partial "tags.html" . }}
-              </div>
+            </div>        
             
             <div class="extras container">
               <div align="center">{{ partial "share.html" . }}</div>
@@ -65,5 +66,6 @@
       </div>
   </div>
 </section>
+</article>
 
 {{ end }}
