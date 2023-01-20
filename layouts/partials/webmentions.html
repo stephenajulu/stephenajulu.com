@@ -2,7 +2,8 @@
   <h2 class="text-center my-3">Webmentions</h2>
   <ul id="webmentions-list" class="list-group">
   </ul>
-  <script src="/static/js/webmention-client.js"></script>
+  {{ $script := resources.Get "js/webmention-client.js" | minify }}
+<script src="{{ $script.Permalink }}"></script>
   <script>
       const webmentionClient = new WebmentionClient();
       webmentionClient.getWebmentions("https://yourwebsite.com/your-post").then(webmentions => {
