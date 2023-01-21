@@ -1,0 +1,28 @@
+name: Fetch Webmentions
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+
+jobs:
+  fetch-webmentions:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Fetch Webmentions
+      run: |
+        url = "https://yourwebsite.com/webmention"
+        webmentions = requests.get(url).json()
+        with open("data/webmentions.json", "w") as f:
+            json.dump(webmentions, f)
+
+    - name: Commit and Push
+      run: |
+        git config --local user.email "github-actions@github.com"
+        git config --local user.name "GitHub Actions"
+        git add data/webmentions.json
+        git commit -m "Fetched webmentions" || echo "No changes to commit"
+        git push
