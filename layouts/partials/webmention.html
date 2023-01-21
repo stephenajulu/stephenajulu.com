@@ -1,3 +1,22 @@
 <div class="container">
   <div id="webmentions"></div>
 </div>
+
+<script>
+Webmention.renderWebmentions("https://stephenajulu.com", {
+    template: function(props) {
+        return `
+            <div class="webmention">
+                <div class="author">
+                    <img src="${props.author.photo}" alt="${props.author.name}">
+                    <span>${props.author.name}</span>
+                </div>
+                <div class="content">
+                    ${props.content}
+                </div>
+                <a href="${props.url}">View Comment</a>
+            </div>
+        `;
+    }
+});
+</script>
