@@ -2,8 +2,6 @@
     padding: 40px 0;
     background: transparent;
     transition: all 0.3s ease;
-    backdrop-filter: blur(1rem);
-    -webkit-backdrop-filter: blur(1rem);
     @include desktop {
         background: $white;
     }
@@ -23,8 +21,6 @@
         background: transparent;
         padding: 20px 0;
         box-shadow: 0px 10px 20px 0px rgba(50, 65, 141, 0.1);
-        backdrop-filter: blur(1rem);
-        -webkit-backdrop-filter: blur(1rem);
         @include desktop {
             padding: 15px 20px;
         }
