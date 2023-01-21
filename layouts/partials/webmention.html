@@ -1,24 +1,3 @@
 <div class="container">
   <div id="webmentions"></div>
 </div>
-
-<script>
-webmention.render("https://stephenajulu.com", "webmentions", {
-template: function (props) {
-    return `
-        <div class="card mb-3">
-            <div class="card-body">
-                <div class="media">
-                    <img src="${props.author.photo}" class="align-self-center mr-3 rounded-circle" style="width:64px;height:64px;object-fit:cover">
-                    <div class="media-body">
-                        <h5 class="card-title">${props.author.name}</h5>
-                    </div>
-                </div>
-                <p class="card-text">${props.content}</p>
-                <a href="${props.url}" class="btn btn-primary">View Comment</a>
-            </div>
-        </div>
-    `;
-}
-     });
-</script>
