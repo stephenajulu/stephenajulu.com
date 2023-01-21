@@ -1,0 +1,14 @@
+{{- $webmentions := getJSON "webmentions.json" -}}
+<div class="webmentions">
+    {{- range $webmentions.items -}}
+        <div class="webmention">
+            <div class="webmention-author">
+                <img src="{{ .author.photo }}" alt="{{ .author.name }}">
+                <a href="{{ .author.url }}">{{ .author.name }}</a>
+            </div>
+            <div class="webmention-content">
+                {{ .content }}
+            </div>
+        </div>
+    {{- end -}}
+</div>
