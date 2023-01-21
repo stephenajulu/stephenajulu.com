@@ -26,5 +26,5 @@ jobs:
         git config --local user.email "github-actions@github.com"
         git config --local user.name "GitHub Actions"
         git add data/webmentions.json
-        git commit -m "Fetched webmentions" || echo "No changes to commit"
+        git commit -m "Fetched webmentions" || echo "No change to commit"
         git push
