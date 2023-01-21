@@ -118,7 +118,7 @@
     "autoprefixer": "^9.8.6",
     "babel-eslint": "^10.1.0",
     "babel-plugin-istanbul": "^6.0.0",
-    "bundlewatch": "^0.2.7",
+    "bundlewatch": "^0.3.3",
     "clean-css-cli": "^4.3.0",
     "cross-env": "^7.0.2",
     "eslint": "^7.6.0",
