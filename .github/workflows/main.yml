@@ -14,7 +14,7 @@ jobs:
 
     - name: Fetch Webmentions
       run: |
-        url = "https://yourwebsite.com/webmention"
+        url = "https://webmention.io/stephenajulu.com/webmention"
         webmentions = requests.get(url).json()
         with open("data/webmentions.json", "w") as f:
             json.dump(webmentions, f)
