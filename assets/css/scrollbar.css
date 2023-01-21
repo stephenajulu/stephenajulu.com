@@ -98,3 +98,26 @@
 #webmentions .comments li .name {
     color: #111;
 }
+.webmention .author {
+    margin-right: 1em;
+}
+
+.webmention .author img {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+}
+
+.webmention .author span {
+    font-size: 14px;
+    font-weight: 600;
+    color: #333;
+}
+
+.webmention .content {
+    font-size: 14px;
+    color: #555;
+    line-height: 1.5;
+    flex-grow: 1;
+}
+
