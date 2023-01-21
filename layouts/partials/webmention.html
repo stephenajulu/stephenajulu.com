@@ -2,6 +2,8 @@
   <div id="webmentions"></div>
 </div>
 
+<script>
+webmention.render("https://stephenajulu.com", "webmentions", {
 template: function (props) {
     return `
         <div class="card mb-3">
@@ -18,4 +20,5 @@ template: function (props) {
         </div>
     `;
 }
+     });
 </script>
