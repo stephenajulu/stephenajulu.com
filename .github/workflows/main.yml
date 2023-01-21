@@ -2,7 +2,7 @@ name: Fetch Webmentions
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '0 * * * *'
 
 jobs:
   fetch-webmentions:
