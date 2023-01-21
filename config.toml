@@ -32,7 +32,7 @@ name = "Blog"
 url = "/blog"
 weight = 2
 [[menu.main]]
-name = "MicroBlog"
+name = "Notes"
 url = "/microblog"
 weight = 3
 [[menu.main]]
