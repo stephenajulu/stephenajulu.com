@@ -29,8 +29,8 @@ tags:
 - web apps
 - boss
 - business owner
-title: 'Efficiency Unleashed: The Top 20 Mobile Apps and Web Tools for Freelancers,
-  Consultants, and Entrepreneurs'
+title: Efficiency Unleashed - The Top 20 Mobile Apps and Web Tools for Freelancers,
+  Consultants, and Entrepreneurs
 date: 2023-01-25T18:00:00+03:00
 hero: "/images/the-jopwell-collection-4wtb4tr45jq-unsplash-1.jpg"
 description: Stay organized, manage your time effectively, and take your business
