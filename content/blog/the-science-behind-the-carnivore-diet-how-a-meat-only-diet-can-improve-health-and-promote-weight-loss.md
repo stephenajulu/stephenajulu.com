@@ -67,4 +67,4 @@ Diagram:
 
 In conclusion, the carnivore diet may be a great option for those looking to improve their health and lose weight, but it should be approached with caution and under the guidance of a healthcare professional.
 
-Next time, I'll cover the lipivore diet. Stay tuned.
+Next time, we'll cover the lipivore diet. Stay tuned.
