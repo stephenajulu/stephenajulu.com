@@ -2,8 +2,8 @@
 title: Eccentric Royal 4K Gradient Blur Wallpaper Pack
 date: 2023-01-27T03:06:00+03:00
 productlink: https://stephenajulu.gumroad.com/l/eroyal-gbur
-featureImage: "/images/uplift-gradient-wallpapers-4.png"
-postImage: "/images/uplift-gradient-wallpapers-5.png"
+featureImage: "/images/uplift-gradient-wallpapers-5.png"
+postImage: "/images/uplift-gradient-wallpapers-4.png"
 description: Here's my ECCENTRIC ROYAL 4k wallpaper pack, mixing orange with 2 variations
   of purple and some containing noise. There are 16 wallpapers in this pack (8 for
   mobile and 8 for desktops).
