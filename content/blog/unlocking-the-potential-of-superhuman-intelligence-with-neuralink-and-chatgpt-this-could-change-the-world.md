@@ -29,7 +29,7 @@ tags:
 - neural enhancement
 - super intelligence
 title: Unlocking the Potential of Superhuman Intelligence with Neuralink and ChatGPT
-  - This Could Change The World
+  - This Could Change The World!
 date: 2023-01-27T10:00:00+03:00
 hero: "/images/my-project-1-11.png"
 description: Discover the revolutionary potential of combining Neuralink and ChatGPT
