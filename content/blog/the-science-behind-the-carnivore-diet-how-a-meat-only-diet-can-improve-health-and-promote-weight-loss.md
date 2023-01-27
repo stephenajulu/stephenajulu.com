@@ -63,7 +63,7 @@ It is important to note that the carnivore diet is not for everyone, and it is i
 
 Diagram:
 
-\[!\[\](https://mermaid.ink/img/pako:eNpFj8FqwzAMhl9F6Ny-QAaDtulhsFN7KMzOQcRqYmbLQVECofTdZwZbb_q__xNID-xLYGxwUJpG-Ly8eTm4E6nEtShDG9k62O_f4ehuHIfRIJV57qr1S0_uI09aVg7AwjpskHjl9BJad2QzVsgsRgn6RBpt--_P7sJh6et-lHuinMlikQ53mFkzxVBve3gB8GgjZ_bY1DGQfnv08qweLVaum_TYmC68w2UKZNxGqi9lbO6U5konkq9S_vLzB70YVKY?type=png)\](https://mermaid.live/edit#pako:eNpFj8FqwzAMhl9F6Ny-QAaDtulhsFN7KMzOQcRqYmbLQVECofTdZwZbb_q__xNID-xLYGxwUJpG-Ly8eTm4E6nEtShDG9k62O_f4ehuHIfRIJV57qr1S0_uI09aVg7AwjpskHjl9BJad2QzVsgsRgn6RBpt--_P7sJh6et-lHuinMlikQ53mFkzxVBve3gB8GgjZ_bY1DGQfnv08qweLVaum_TYmC68w2UKZNxGqi9lbO6U5konkq9S_vLzB70YVKY)
+\[!\[\](https://mermaid.ink/img/pako:eNpFj8FqwzAMhl9F6Ny-QAaDtulhsFN7KMzOQcRqYmbLQVECofTdZwZbb_q__xNID-xLYGxwUJpG-Ly8eTm4E6nEtShDG9k62O_f4ehuHIfRIJV57qr1S0_uI09aVg7AwjpskHjl9BJad2QzVsgsRgn6RBpt--_P7sJh6et-lHuinMlikQ53mFkzxVBve3gB8GgjZ_bY1DGQfnv08qweLVaum_TYmC68w2UKZNxGqi_lPziRfJVS453SzM8fafxUWw?type=png)\](https://mermaid.live/edit#pako:eNpFj8FqwzAMhl9F6Ny-QAaDtulhsFN7KMzOQcRqYmbLQVECofTdZwZbb_q__xNID-xLYGxwUJpG-Ly8eTm4E6nEtShDG9k62O_f4ehuHIfRIJV57qr1S0_uI09aVg7AwjpskHjl9BJad2QzVsgsRgn6RBpt--_P7sJh6et-lHuinMlikQ53mFkzxVBve3gB8GgjZ_bY1DGQfnv08qweLVaum_TYmC68w2UKZNxGqi_lPziRfJVS453SzM8fafxUWw)
 
 In conclusion, the carnivore diet may be a great option for those looking to improve their health and lose weight, but it should be approached with caution and under the guidance of a healthcare professional.
 
