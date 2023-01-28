@@ -10,7 +10,7 @@ tags:
 - tumor
 - cancerous
 title: Potential Causes of Cancer and Cancerous Cells
-date: 2023-01-18T21:20:00+03:00
+date: 2023-01-18T21:20:00.000+03:00
 hero: "/images/national-cancer-institute-yg1zayn0few-unsplash.jpg"
 description: Here are some potential causes of cancer backed with excerpts from legitimate
   websites and research papers.
@@ -22,7 +22,7 @@ Today, I'll cover some potential cancer causes that you should avoid or limit. M
 
 We already know that seed oils especially canola, sunflower, safflower, cottonseed, rapeseed, soybean, and similar are unstable. They go through a long process; the end result is what most people use for cooking.
 
-![](http://www.sunfloweroilextractionmachine.com/uploads/allimg/181120/1-1Q1201J242K2.jpg)
+![](https://www.sunfloweroilextractionmachine.com/uploads/allimg/181120/1-1Q1201J242K2.jpg)
 
 Here's an excerpt from the [National Library of Medicine](https://pubmed.ncbi.nlm.nih.gov/28925728/) on the reason why seed oils could possibly be a cause of cancer:
 
