@@ -1,5 +1,5 @@
 ---
-title: 'The Ultimate Basic Guide to SEO: Boost Your Website''s Search Engine Rankings'
+title: 'The Ultimate Basic Guide to SEO - Boost Your Website''s Search Engine Rankings'
 date: 2023-01-30T14:50:00+03:00
 productlink: https://stephenajulu.gumroad.com/l/ubgseo
 featureImage: "/images/seo-guide-2.png"
