@@ -51,7 +51,7 @@ Buy it from here: [Santa Lucia Fragrance Official Website](https://santaluciafra
 
 ### [**Candles**](https://santaluciafragrance.com/collections/candle/products/candles?ref=kuzqn53jomp-)
 
-Santa Lucia Fragrance also sells aromatic candles. 
+Santa Lucia Fragrance also sells aromatic candles.
 
 Their candles are developed with a high dose of fragrance oils, a custom blend of waxes, and wicks constructed of wood to ensure a beautiful olfactive experience. Carefully poured by hand in the US, these candles are packaged in concrete vessels.
 
@@ -66,10 +66,8 @@ Buy it from here: [Santa Lucia Fragrance Official Website](https://santaluciafra
 5. [**Car diffuser**](https://santaluciafragrance.com/collections/diffuser/products/car-diffuser?ref=kuzqn53jomp-): For your cars
 6. [**More products**](https://santaluciafragrance.com/?ref=kuzqn53jomp-)
 
-One of the key factors that set Santa Lucia Fragrance apart from other brands is its attention to detail. Every aspect of the customer experience, from the packaging to the fragrance application, is designed to evoke a sense of luxury and indulgence. The brand's fragrances are also highly rated by customers, who rave about their longevity, intensity, and ability to evoke a sense of peace and relaxation.
+One of the key factors that set Santa Lucia Fragrance apart from other brands is its attention to detail. Every aspect of the customer experience, from the packaging to the fragrance application, is designed to evoke a sense of luxury and indulgence. The brand's fragrances are also highly rated by customers, who rave about their longevity, intensity, and ability to evoke different desires.
 
 In conclusion, Santa Lucia Fragrance is a brand that offers a journey through the world of luxury scents. From its premium ingredients to its attention to detail, this brand provides a truly indulgent experience for customers. Whether you're looking for a gift for a loved one or just a way to treat yourself, Santa Lucia Fragrance is a brand that is sure to delight you.
 
-Head over to the ESNTLS website to check out their range of products. Use the coupon code "STEPHENAJULU" at checkout to receive 10% off your purchase. Follow ESNTLS on social media to stay updated on their latest products and promotions.
-
-Santa Lucia Fragrance, Perfumes, Aromatherapy, Luxury Fragrances, Soothing Scents, Premium Fragrances, Fragrance Collection
+Head over to the Santa Lucia Fragrance website to check out their range of products. Use the coupon code "STEPHENAJULU" at checkout to receive 10% off your purchase. Follow Santa Lucia Fragrance on social media to stay updated on their latest products and promotions.
