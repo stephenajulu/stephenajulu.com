@@ -7,7 +7,7 @@ tags:
 - holograms
 - technology
 title: 'The Future of Daily Tech: Holograms'
-date: 2023-02-02T09:00:00+03:00
+date: 2023-02-02T10:33:00+03:00
 hero: "/images/new-technology-makes-real-time-3d-holograms-reality.jpg"
 description: Join us to learn about the future of daily tech, holograms.
 
