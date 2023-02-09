@@ -15,9 +15,10 @@ tags:
 - 5g
 - virtual reality
 - cross-platform play
+- cloud gaming as a service
 title: 'The Future of Daily Tech: Cloud Gaming'
 date: 2023-02-09T13:20:00+03:00
-hero: "/images/230644aluffke7hkj26hbt.png"
+hero: "/images/230644aluffke7hkj26hbt-1.png"
 description: 'Get ready to take your gaming experience to the next level with the
   future of daily tech: cloud gaming. Discover the benefits of this innovative technology
   and how it''s changing the way we play games.'
