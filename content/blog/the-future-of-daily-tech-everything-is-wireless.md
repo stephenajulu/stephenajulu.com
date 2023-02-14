@@ -16,7 +16,7 @@ tags:
 - innovations
 title: 'The Future of Daily Tech: Everything is Wireless'
 date: 2023-02-14T15:30:00+03:00
-hero: "/images/wireless-charging.png"
+hero: "/images/lowres-wireless-charging-header-jpg_729188885.jpg"
 description: The world of daily technology is changing rapidly, with wireless and
   contactless technologies quickly becoming the norm. This comprehensive guide explores
   the latest innovations in wireless tech, from charging to data transfer to controllers
