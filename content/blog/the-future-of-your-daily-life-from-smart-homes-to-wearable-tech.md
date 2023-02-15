@@ -16,7 +16,7 @@ tags:
 - future tech
 - convenience
 title: 'The Future of Your Daily Life: From Smart Homes to Wearable Tech'
-date: 2023-02-15T12:10:00+03:00
+date: 2023-02-15T14:29:00+03:00
 hero: "/images/1_ipb1wb5ffubowsimo3jfrg.jpeg"
 description: Explore the exciting world of smart homes and wearable technology, and
   discover how these innovations are changing the way we live our lives. From increased
