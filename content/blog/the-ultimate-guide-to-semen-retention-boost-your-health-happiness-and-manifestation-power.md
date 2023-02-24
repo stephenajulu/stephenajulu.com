@@ -14,7 +14,7 @@ tags:
 - physical health
 - happiness
 - personal development
-title: 'The Ultimate Guide to Semen Retention: Boost Your Health, Happiness, and Manifestation
+title: 'The Ultimate Guide to Semen Retention: Boost Your Health, Focus, and Manifestation
   Power'
 date: 2023-02-24T14:40:00+03:00
 hero: "/images/photo-1617724054780-ef6bd6b21e17.jpeg"
