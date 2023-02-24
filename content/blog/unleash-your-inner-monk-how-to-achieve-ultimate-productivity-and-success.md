@@ -23,7 +23,6 @@ description: Are you tired of feeling overwhelmed, distracted, and unproductive?
   than Monk Mode – the powerful technique that's transforming the way we work and
   live. In this comprehensive guide, we'll show you how to harness the power of Monk
   Mode and achieve your goals like never before!
-draft: true
 
 ---
 ## Intro
