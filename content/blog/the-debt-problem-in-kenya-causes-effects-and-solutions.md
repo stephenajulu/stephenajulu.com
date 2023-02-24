@@ -19,7 +19,6 @@ hero: "/images/photo-1596005554384-d293674c91d7.jpeg"
 description: Discover the shocking truth behind Kenya's debt crisis and how it could
   impact the economy and the population. This comprehensive guide will provide you
   with the causes, effects, and solutions to help you understand the situation better.
-draft: true
 
 ---
 Kenya, like many other developing countries, is facing a significant debt problem. The country's total public debt has been rising steadily in recent years, with the government borrowing heavily to finance infrastructure projects and budget deficits. In this article, we will examine the causes and effects of Kenya's debt problem and suggest possible solutions.
