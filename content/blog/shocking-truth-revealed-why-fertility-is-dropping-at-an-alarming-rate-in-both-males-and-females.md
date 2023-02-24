@@ -15,7 +15,7 @@ tags:
 title: 'Shocking Truth Revealed: Why Fertility is Dropping at an Alarming Rate in
   Both Males and Females!'
 date: 2023-02-24T08:05:00+03:00
-hero: ''
+hero: "/images/photo-1515091110873-2a9680d5e323.jpeg"
 description: Have you ever wondered why more and more couples are struggling to conceive
   these days? Is there something sinister behind the decline in fertility rates among
   both men and women? Join us as we uncover the shocking truth behind this alarming
