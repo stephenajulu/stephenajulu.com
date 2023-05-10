@@ -1,7 +1,7 @@
 .navbar {
     padding: 40px 0;
     background: transparent;
-    transition: all 0.3s ease;
+    transition: all 0.2s ease;
     @include desktop {
         background: $white;
     }
