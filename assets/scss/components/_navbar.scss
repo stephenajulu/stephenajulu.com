@@ -2,6 +2,12 @@
     padding: 40px 0;
     background: transparent;
     transition: all 0.3s ease;
+    filter: blur(10px);
+        -webkit-filter: blur(10px);
+        -moz-filter: blur(15px);
+        -o-filter: blur(15px);
+        -ms-filter: blur(15px);
+        z-index: 999;
     @include desktop {
         background: $white;
     }
@@ -18,7 +24,7 @@
         }
     }
     &.nav__color__change {
-        background: transparent;
+        background: $white;
         padding: 20px 0;
         box-shadow: 0px 10px 20px 0px rgba(50, 65, 141, 0.1);
         @include desktop {
