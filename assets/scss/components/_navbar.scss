@@ -4,11 +4,8 @@
     transition: all 0.3s ease;
     @include desktop {
         background: transparent; //$white
-        filter: blur(10px);
-        -webkit-filter: blur(10px);
-        -moz-filter: blur(15px);
-        -o-filter: blur(15px);
-        -ms-filter: blur(15px);
+        backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(10px);
         z-index: 999;
     }
     @include desktop {
