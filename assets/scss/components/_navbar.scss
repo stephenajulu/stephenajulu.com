@@ -2,12 +2,6 @@
     padding: 40px 0;
     background: transparent;
     transition: all 0.3s ease;
-    filter: blur(10px);
-        -webkit-filter: blur(10px);
-        -moz-filter: blur(15px);
-        -o-filter: blur(15px);
-        -ms-filter: blur(15px);
-        z-index: 999;
     @include desktop {
         background: $white;
     }
