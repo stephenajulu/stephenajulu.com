@@ -21,8 +21,8 @@
         background: transparent; //$white
         padding: 20px 0;
         box-shadow: 0px 10px 20px 0px rgba(50, 65, 141, 0.1);
-        backdrop-filter: blur(10px);
-        -webkit-backdrop-filter: blur(10px);
+        backdrop-filter: blur(20px);
+        -webkit-backdrop-filter: blur(20px);
         z-index: 999;
         @include desktop {
             padding: 15px 20px;
