@@ -22,7 +22,7 @@
         }
     }
     &.nav__color__change {
-        background: transparent; //$white
+        background: $white;
         padding: 20px 0;
         @include desktop {
             padding: 15px 20px;
