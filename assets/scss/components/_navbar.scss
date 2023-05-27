@@ -1,7 +1,7 @@
 .navbar {
     padding: 40px 0;
     background: transparent;
-    transition: all 0.2s ease;
+    transition: all 0.3s ease;
     @include desktop {
         background: $white;
     }
@@ -9,10 +9,6 @@
         padding: 15px 20px;
         margin: 10px 10px 0;
         border-radius: 5px;
-        box-shadow: 0px 10px 20px 0px rgba(50, 65, 141, 0.1);
-        backdrop-filter: blur(20px);
-        -webkit-backdrop-filter: blur(20px);
-        z-index: 999;
     }
     .navbar-brand {
         img {
@@ -24,6 +20,7 @@
     &.nav__color__change {
         background: $white;
         padding: 20px 0;
+        box-shadow: 0px 10px 20px 0px rgba(50, 65, 141, 0.1);
         @include desktop {
             padding: 15px 20px;
         }
