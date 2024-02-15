@@ -42,6 +42,8 @@ Binance is a cryptocurrency exchange that is currently the largest exchange in t
 
 #### Register by visiting this link: [**Binance**](https://accounts.binance.com/en/register?ref=CL2JFAB6)
 
+
 Photo by [Ferhat Deniz Fors](https://unsplash.com/@ferhat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/tokens?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
+[NFT Generator](https://nftgenerator.io/)
 <a href="https://unstoppabledomains.pxf.io/qnXOv5"><img src="/images/unstoppabledomainsad.webp" style="width: 100%; height: auto;"></a>
