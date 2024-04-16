@@ -32,7 +32,11 @@ name = "Blog"
 url = "/blog"
 weight = 2
 [[menu.main]]
-name = "Store"
+name = "Portfolio"
+url = "/portfolio"
+weight = 3
+[[menu.main]]
+name = "Shop"
 url = "/store"
 weight = 4
 [[menu.main]]
