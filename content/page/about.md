@@ -1,6 +1,7 @@
 ---
 title: About Me
 breadcrumb: About
+url: /about
 description: About Stephen Ajulu.
 ---
 
