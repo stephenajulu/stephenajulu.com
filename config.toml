@@ -28,24 +28,32 @@ name = "Home"
 url = "/"
 weight = 1
 [[menu.main]]
+name = "About"
+url = "/about"
+weight = 2
+[[menu.main]]
 name = "Blog"
 url = "/blog"
-weight = 2
+weight = 3
 [[menu.main]]
 name = "Portfolio"
 url = "/portfolio"
-weight = 3
+weight = 4
 [[menu.main]]
 name = "Shop"
 url = "/store"
-weight = 4
+weight = 5
 [[menu.main]]
 name = "Contact"
 url = "/contact"
-weight = 5
+weight = 6
 [[menu.sitemap]]
 name = "Sitemap"
 url = "https://stephenajulu.com/sitemap.xml"
+weight = 1
+[[menu.sitemap]]
+name = "RSS Feed"
+url = "https://stephenajulu.com/feed.xml"
 weight = 1
 [outputFormats.RSS]
 baseName = "feed"
@@ -59,13 +67,13 @@ blogPageURL = "blog"
 contactLink = "contact"
 copyright = "Stephen Ajulu"
 creator = "stephenajulu"
-description = "Hello! I'm Stephen Ajulu, an IT professional, writer, designer, and consultant. I elevate businesses and build impactful products, brands & solutions using technology."
+description = "Hello, I'm Stephen Ajulu, a tech expert, writer, and consultant with over a decade of experience. I build impactful products, brands, and solutions by using cutting-edge technology, insight, and marketing."
 disqusShortname = "stephenajulu"
-featureImage = "images/social.png"
+featureImage = "images/socialimage.png"
 footerLogo = "images/site-navigation/signaturewhite (Custom).png"
 formaction = "thankyou"
-formspreeURL = ""
-googleAnalytics = ""
+formspreeURL = "https://formspree.io/f/alunje73@gmail.com"
+googleAnalytics = "G-GP8C29NBY0"
 keywords = "Stephen Ajulu, Portfolio, Personal Site, Blog, Technology, Design, Lifestyle, Investments, Front-end Web Development, Web Design, Writing, Web Developer, Writer, Content Creator, Creator, Creative, Cyber Security, Digital Products"
 linkslink = "links"
 location = "Nairobi, Kenya"
