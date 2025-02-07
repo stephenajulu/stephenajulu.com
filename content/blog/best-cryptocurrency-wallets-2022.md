@@ -23,7 +23,7 @@ description: Get your cryptocurrencies off exchanges and into wallets now!
 ---
 According to this tweet:
 
-{{< x user="RufasKe" id="1523223514815238144" >}}
+{{< twitter user="RufasKe" id="1523223514815238144" >}}
 
 We should all remove our coins, tokens, and crypto from exchanges and into secure wallets where only the user has the private key and can access the wallet.
 
