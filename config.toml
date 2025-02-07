@@ -1,6 +1,5 @@
 baseURL = "https://stephenajulu.netlify.app"
 enableEmoji = true
-enableGitInfo = true
 enableRobotsTXT = true
 languageCode = "en"
 metaDataFormat = "yaml"
