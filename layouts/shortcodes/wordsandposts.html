@@ -5,4 +5,4 @@
 
 #### Here's a litle bit of info:
 
-{{ len (where .Site.RegularPages "Section" "=" "blog") }} posts ({{ $scratch.Get "fullwordcount" | lang.NumFmt 0 }} words) have been published on [Stephen Ajulu](https://stephenajulu.com)
+{{ len (where .Site.RegularPages "Section" "=" "blog") }} posts ({{ $scratch.Get "fullwordcount" | lang.FormatNumberCustom 0 }} words) have been published on [Stephen Ajulu](https://stephenajulu.com)
