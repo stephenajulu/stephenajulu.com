@@ -1,0 +1,68 @@
+collections_config:
+  blog:
+    path: content/blog
+    name: Blog
+    icon: event_available
+  contact:
+    path: content/contact
+    name: Contact
+    icon: contacts
+  links:
+    path: content/links
+    name: Links
+    icon: link
+  page:
+    path: content/page
+    name: Page
+    icon: pages
+  portfolio:
+    path: content/portfolio
+    name: Portfolio
+    icon: portrait
+  search:
+    path: content/search
+    name: Search
+    icon: search
+  services:
+    path: content/services
+    name: Services
+    icon: devices
+  store:
+    path: content/store
+    name: Store
+    icon: store
+  thankyou:
+    path: content/thankyou
+    name: Thankyou
+    icon: anchor
+  data:
+    path: data
+    name: Data
+    icon: data_usage
+    disable_url: true
+    disable_add: true
+    disable_add_folder: true
+    disable_file_actions: true
+paths:
+  static: static
+  uploads: static/uploads
+timezone: Africa/Nairobi
+markdown:
+  engine: commonmark
+  options:
+    gfm: true
+    linkify: false
+    table: false
+    strikethrough: false
+    subscript: false
+    superscript: false
+    heading_ids: false
+    breaks: false
+    xhtml: false
+    attributes: false
+    typographer: false
+    treat_indentation_as_code: true
+_snippets_imports:
+  hugo:
+    exclude:
+      - hugo_instagram
