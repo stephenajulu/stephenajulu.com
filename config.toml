@@ -7,7 +7,7 @@ paginate = 6
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
-rssLimit = 50
+#rssLimit = 50
 title = "Stephen Ajulu"
 [adsense]
 BannerSlot = "8662937936"
